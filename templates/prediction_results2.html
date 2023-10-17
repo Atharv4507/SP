@@ -1,0 +1,50 @@
+{% extends 'base.html' %}
+{% block title %}prediction_result2{% endblock title %}
+{% block body %}
+    <form method="POST" action="/pcw" class="formation3">
+        {% csrf_token %}
+        <h3 style="color:#FFFFFF"><img src="static/image/SPLOGO1.ico" width="30" height="30" class="d-inline-block align-center" alt="">Predict Demand and Supply In your Category</h3>
+        <label for="categorySelect">Select a Category:</label>
+        <select name="categorySelect" id="categorySelect">
+            <option value="Health and beauty">Health and Beauty</option>
+            <option value="Electronic accessories">Electronic Accessories</option>
+            <option value="Home and lifestyle">Home and Lifestyle</option>
+            <option value="Fashion accessories">Fashion accessories</option>
+            <option value="Food and beverages">Food and beverages</option>
+            <option value="Sports and travel">Sports and travel</option>
+        </select>
+        <label for="date">Enter a Date (DD-MM-YYYY):</label>
+        <input type="date" id="date" name="date" required>
+        <button type="submit"  id="A1">Predict</button>
+        <h1 style="color:#FFFFFF">Prediction Results</h1>
+        <p class="input-text">Input Category: {{ prediction_result2.input_category }} {{input_category}}</p>
+        <p class="input-text">Input Date: {{ prediction_result2.input_date }} {{input_date}}</p>
+        <p class="input-text">Demand Prediction: {{ prediction_result2.demand_prediction }} {{demand_prediction}}</p>
+        <p class="input-text">Supply Prediction: {{ prediction_result2.supply_prediction }} {{supply_prediction}}</p>
+        <a href="{%url 'pcw' %}" class="render1">Back to Prediction</a>
+    </form>
+        <br>
+        <br>
+        <br>
+        <br>
+        <br>
+        <br>
+        <br>
+        <br>
+        <h4 class="image-settle" style="text-align:center; color:#FFFFFF">The Scatter graph of Actual and Predicted Demand and Supply</h4>
+        <br>
+        <form class="formation2">{{prediction_result2.Demand_Graph}}  <img class="image-settle2" src="{{Demand_Graph}}"> </form>
+        <form class="formation2">{{prediction_result2.Supply_Graph}}  <img class="image-settle2" src="{{Supply_Graph}}"></form>
+        <form class="formation2">{{prediction_result2.Demand_And_Supply_Graph}}  <img class="image-settle2" src="{{Demand_And_Supply_Graph}}"></form>
+        <form class="formation2">{{prediction_result2.Dtree_Scatter_Graph}}  <img class="image-settle2" src="{{Dtree_Scatter_Graph}}"></form>
+<!--    <div>-->
+<!--        <div>-->
+<!--            <h5>The Scatter graph of Actual and Predicted Demand and Supply</h5>-->
+<!--            <img id="image" style="display:none;"   src="static/image/Demand_plot.jpg">-->
+<!--            <img id="image1" style="display:none;"   src="static/image/Supply_plot.jpg">-->
+<!--            <img id="image2" style="display:none;"   src="static/image/DemandAndSupply_plot.jpg">-->
+<!--            <img id="image3" style="display:none;"   src="static/image/dtree_scatter_plot.png">-->
+<!--        </div>-->
+<!--    </div>-->
+
+{% endblock body %}

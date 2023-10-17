@@ -1,0 +1,45 @@
+{%load static%}
+<html lang="en">
+<head>
+    <link rel="shortcut icon" type="x-icon" href="static/image/SPLOGO1.ico">
+    <link rel="stylesheet" type="text/css" href="static/signPage.css">
+    <title>DemandSupplyWhiz</title>
+</head>
+<body>
+    <div class="background">
+        <div class="shape"></div>
+        <div class="shape"></div>
+    </div>
+    {% if messages %}
+    {% for message in messages %}
+    <div class="alert alert-{{message.tags}} alert-dismissible fade show my-0" role="alert">
+        {{message}}
+        <button type="button" class="btn-close" data-bs-dismiss="alert" aria-label="Close"></button>
+    </div>
+    {% endfor %}
+    {% endif %}
+    <form action="" method="post">
+        {% csrf_token %} 
+<!--        <a href="/base" style="margin:0px 390px; background-color:black;">&#10060;</a>-->
+        <img src="static/image/SPLOGO1.ico" alt="icon"  style="height:105px; width:105px; margin:2px 140px;">
+        <h1 style="text-align:center;">DemandSupplyWhiz</h1>
+        <h4 style="text-align:center;">Signup Here</h4>
+
+        <label for="username">Username</label>
+        <input type="text" placeholder="Username" name="username" id="username">
+
+        <label for="email">Email</label>
+        <input type="email" placeholder="Email or Phone" name="email" id="email">
+
+        <label for="password1">Password</label>
+        <input type="password" placeholder="Password" id="password1" name="password1">
+
+        <label for="password2">Conform Password</label>
+        <input type="password" placeholder="Conform Password" id="password2" name="password2">
+        <button type="submit">Signup</button>
+        <div class="render2">
+            <a href="{% url 'loginp' %}" class="render1">Already registered</a>
+        </div>
+    </form>
+</body>
+</html>

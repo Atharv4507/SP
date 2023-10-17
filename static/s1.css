@@ -1,0 +1,204 @@
+*,
+*:before,
+*:after{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+body{
+    background-color: #000080;
+}
+
+.formation1{
+    height: 555px;
+    width: 850px;
+    background-color: rgba(255,255,255,0.13);
+    position: absolute;
+    transform: translate(-50%,-50%);
+    top: 50%;
+    left: 50%;
+    border-radius: 10px;
+    backdrop-filter: blur(10px);
+    border: 2px solid 	#000000;
+    box-shadow: 0 0 40px #000000;
+    padding: 50px 35px;
+}
+.formation1{
+    font-family: 'Poppins',sans-serif;
+    color: #000000;
+    letter-spacing: 0.5px;
+    outline: none;
+    border: none;
+}
+.formation1 h4{
+    text-align: center;
+}
+
+label{
+    display: block;
+    margin-top: 30px;
+    font-size: 16px Bold;
+    font-weight: 500;
+}
+select,option, input{
+    display: block;
+    height: 40px;
+    width: 100%;
+    /*background-color: rgba(255,255,255,0.07);*/
+    border: 2px solid #000000;
+    border-radius: 3px;
+    padding: 0 10px;
+    margin-top: 2px;
+    font-size: 14px;
+    font-weight: 300;
+    /*border-color: #000000;*/
+
+}
+::placeholder{
+    color: #000000;
+}
+button{
+    margin-top: 14px;
+    width: 100%;
+    background-color: #000000;
+    color: #e0def3;
+    padding: 15px 0;
+    font-size: 18px;
+    font-weight: 600;
+    border-radius: 5px;
+    cursor: pointer;
+    border-color: #000000;
+}
+
+.render1{
+    text-decoration: none;
+    color: #FF0000;
+    padding:5px;
+    border-radius:10px;
+    background-color:#FFFFFF;
+}
+
+.render1:hover{
+    color:#800080;
+    background-color:#C0C0C0;
+}
+
+.render2{
+    margin: 15px 0px 0px 225px;
+}
+
+.input-text{
+    color: #000000;
+}
+p{
+    color: #FFFFFF;
+}
+
+
+.image-settle{
+    margin-top:550px;
+}
+
+.image-settle2{
+    width:1400px;
+    height:700px;
+}
+
+.formation2{
+    margin:50px;
+    text-align:left;
+    width:1400px;
+    height:700px;
+    border-radius: 10px;
+    backdrop-filter: blur(10px);
+    border: 2px solid 	#000000;
+    box-shadow: 0 0 42px #000000;
+    background-color: rgba(255,255,243,0.13);
+}
+
+.formation3{
+    height: 655px;
+    width: 850px;
+    background-color: rgba(255,255,255,0.13);
+    position: absolute;
+    transform: translate(-50%,-50%);
+    top: 60%;
+    left: 50%;
+    border-radius: 10px;
+    backdrop-filter: blur(10px);
+    border: 2px solid 	#000000;
+    box-shadow: 0 0 40px #000000;
+    padding: 50px 35px;
+    font-family: 'Poppins',sans-serif;
+    color: #000000;
+    letter-spacing: 0.5px;
+    outline: none;
+}
+
+.formation4{
+    height: 750px;
+    width: 850px;
+    background-color: rgba(255,255,255,0.13);
+    position: absolute;
+    transform: translate(-50%,-50%);
+    top: 65%;
+    left: 50%;
+    border-radius: 10px;
+    backdrop-filter: blur(10px);
+    border: 2px solid 	#000000;
+    box-shadow: 0 0 40px #000000;
+    padding: 50px 35px;
+    font-family: 'Poppins',sans-serif;
+    color: #000000;
+    letter-spacing: 0.5px;
+    outline: none;
+}
+
+.h41{
+    distance-between:none;
+    display:inline-flex;
+    flex-direction: row;
+    overflow:hidden;
+    /*position: relative;*/
+    /*align-item:center;*/
+}
+.formation5{
+    height: 580px;
+    width: 550px;
+    background-color: rgba(255,255,255,0.13);
+
+    transform: translate(-50%,-50%);
+    /*top: 50%;
+    /*left: 50%;*/
+    margin-top:0px;
+    margin-left:0px;
+    border-radius: 10px;
+    backdrop-filter: blur(10px);
+    border: 2px solid 	#000000;
+    box-shadow: 0 0 40px #000000;
+    padding: 50px 35px;
+    font-family: 'Poppins',sans-serif;
+    color: #000000;
+    letter-spacing: 0.5px;
+    outline: none;
+}
+.formation6{
+    height: 580px;
+    width: 550px;
+    background-color: rgba(255,255,255,0.13);
+
+    transform: translate(-50%,-50%);
+    /*top: 50%;
+    /*left: 50%;*/
+    margin-top:0px;
+    margin-left:0px;
+    border-radius: 10px;
+    backdrop-filter: blur(10px);
+    border: 2px solid 	#000000;
+    box-shadow: 0 0 40px #000000;
+    padding: 50px 35px;
+    font-family: 'Poppins',sans-serif;
+    color: #000000;
+    letter-spacing: 0.5px;
+    outline: none;
+}

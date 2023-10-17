@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <link rel="shortcut icon" type="x-icon" href="static/image/SPLOGO1.ico">
+    <link rel="stylesheet" type="text/css" href="static/loginPage.css">
+    <title>DemandSupplyWhiz</title>
+</head>
+<body>
+    <div class="background">
+        <div class="shape"></div>
+        <div class="shape"></div>
+    </div>
+    {% if messages %}
+    {% for message in messages %}
+    <div class="alert alert-{{message.tags}} alert-dismissible fade show my-0" role="alert">
+        {{message}}
+        <button type="button" class="btn-close" data-bs-dismiss="alert" aria-label="Close"></button>
+    </div>
+    {% endfor %}
+    {% endif %}
+    <form method="post">
+
+        <img src="static/image/SPLOGO1.ico" alt="icon" style="height:105px; width:105px; margin:2px 140px;">
+        <h1 style="display:center; text-align:center; color:#FFFFFF;">DemandSupplyWhiz</h1>
+        <h4 style="display:center; text-align:center;">Login Here</h4>
+        {% csrf_token %} 
+        <label for="username">Username</label>
+        <input type="text" placeholder="Enter username" id="username" name="username">
+        
+        <label for="password">Password</label>
+        <input type="password" placeholder="Password" id="password" name="pass">
+
+        <button type="submit">Log In</button>
+        <br>
+        <div class="render2">
+            <a href="{% url 'sign' %}"  class="render1">new User</a>
+        </div>
+    </form>
+</body>
+</html>

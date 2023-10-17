@@ -1,0 +1,51 @@
+{% load static %}
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>{% block title %}{% endblock title %} | DemandSupplyWhiz</title>
+    <link rel="shortcut icon" type="x-icon" href="static/image/SPLOGO1.ico">
+    <script src="C:\Users\athar\OneDrive\Desktop\sp\static\mine.js"></script>
+    <script src="{% static 'mine.js' %}"></script>
+    <script src="https://code.jquery.com/jquery-3.4.1.slim.min.js" integrity="sha384-J6qa4849blE2+poT4WnyKhv5vZF5SrPo0iEjwBvKU7imGFAV0wwj1yYfoRSJoZ+n" crossorigin="anonymous"></script>
+    <script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.0/dist/umd/popper.min.js" integrity="sha384-Q6E9RHvbIyZFJoft+2mJbHaEWldlvI9IOYy5n3zV9zzTtmI3UksdQRVvoxMfooAo" crossorigin="anonymous"></script>
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@4.4.1/dist/js/bootstrap.min.js" integrity="sha384-wfSDF2E50Y2D1uUdj0O3uMBJnjuUD4Ih7YwaYd1iqfktj0Uod8GCExl3Og8ifwB6" crossorigin="anonymous"></script>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.4.1/dist/css/bootstrap.min.css" integrity="sha384-Vkoo8x4CGsO3+Hhxv8T/Q5PaXtkKtu6ug5TOeNV6gBiFeWPGFN9MuhOf23Q9Ifjh" crossorigin="anonymous">
+    <link rel="stylesheet" type="text/css" href="{% static 's1.css' %}">
+</head>
+<body style="background-color: #000080">
+    <nav class=" nav justify-content-between navbar navbar-expand-lg navbar-light bg-secondary"
+         style="border:3px solid #000000; padding:10px;">
+      <h1>
+          <a class="navbar-brand" style="color: #000080" href="/mainhome">
+              <img src="static/image/SPLOGO1.ico" width="30" height="30" class="d-inline-block align-center" alt="">
+              DemandSupplyWhiz
+          </a>
+      </h1>
+      <div class="nav">
+        <ul class="nav nav-pills navbar">
+          <li class="nav-item mx-2">
+            <a class="nav-link active" aria-expanded="true" href="/mainhome">Home</a>
+          </li>
+          <li class="nav-item dropdown mx-2">
+            <a class="nav-link active dropdown-toggle" data-toggle="dropdown" href="#"
+               role="button" aria-haspopup="true" aria-expanded="false"
+               style="background-color: green;">The Predictor Whiz</a>
+            <div class="dropdown-menu">
+              <a class="dropdown-item" href="/pcacw">My City, My Category</a>
+              <a class="dropdown-item" href="/pcw">My Category Only</a>
+              <a class="dropdown-item" href="/predict">Overall Prediction</a>
+              <div class="dropdown-divider"></div>
+              <a class="dropdown-item" href="/admin">My ProFile</a>
+            </div>
+          </li>
+          <li class="nav-item mx-2">
+            <a class="nav-link active" href="/logoutp" style="background-color: red;">Logout</a>
+          </li>
+        </ul>
+      </div>
+    </nav>
+
+    {% block body %} {% endblock body %}
+
+</body>
+</html>

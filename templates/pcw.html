@@ -1,0 +1,21 @@
+{% extends 'base.html' %}
+{% block title %}DemandSupplyWithCategory{% endblock title %}
+{% block body %}
+    <h1>Predict Demand and Supply In your Category</h1>
+    <h4>Using DecisionTreeRegressor</h4>
+    <form method="POST" action="/pcw/">
+        {% csrf_token %}
+        <label for="categorySelect">Select a Category:</label>
+        <select name="categorySelect" id="categorySelect">
+            <option value="Health and beauty">Health and Beauty</option>
+            <option value="Electronic accessories">Electronic Accessories</option>
+            <option value="Home and lifestyle">Home and Lifestyle</option>
+            <option value="Fashion accessories">Fashion Accessories</option>
+            <option value="Food and beverages">Food and Beverages</option>
+            <option value="Sports and travel">Sports and Travel</option>
+        </select>
+        <label for="date">Enter a Date (DD-MM-YYYY):</label>
+        <input type="date" id="date" name="date" required>
+        <button type="submit">Predict</button>
+    </form>
+{% endblock body %}
