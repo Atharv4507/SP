@@ -6,9 +6,29 @@
     box-sizing: border-box;
 }
 body{
-    background-color: #000080;
+    /*background-color: #FFFFFF;*/
+    background-image: url('static/image/home2.png');
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: 100% 100%;
+    overflow-y: scroll;
+    overflow-x: hidden;
 }
 
+.heading2{
+    color:#190354;
+    margin-left:100px;
+    margin-right:100px;
+    text-align:center;
+    font-family:Times Now Roman;
+}
+
+.img4{
+    width:30px;
+    height:30px;
+    display:inline-block;
+    align-items:center;
+}
 .formation1{
     height: 555px;
     width: 850px;
@@ -57,11 +77,12 @@ select,option, input{
 ::placeholder{
     color: #000000;
 }
+
 button{
     margin-top: 14px;
     width: 100%;
-    background-color: #000000;
-    color: #e0def3;
+    background-color: DodgerBlue;
+    color: #FFFFFF;
     padding: 15px 0;
     font-size: 18px;
     font-weight: 600;
@@ -97,6 +118,9 @@ p{
 
 .image-settle{
     margin-top:550px;
+    text-align:center;
+    color:#190354;
+    font-family: Rockwell;
 }
 
 .image-settle2{
@@ -155,13 +179,24 @@ p{
 }
 
 .h41{
-    distance-between:none;
+    text-align:right;
     display:inline-flex;
     flex-direction: row;
-    overflow:hidden;
-    /*position: relative;*/
-    /*align-item:center;*/
+    width: 100%;
+    height: 600px;
+    margin-top:-40px;
 }
+
+.h42{
+    margin-right:0;
+    margin-left:400px;
+    display:inline-flex;
+    flex-direction: row;
+    width: 100%;
+    height: 600px;
+    margin-top:-40px;
+}
+
 .formation5{
     height: 580px;
     width: 550px;
@@ -170,8 +205,8 @@ p{
     transform: translate(-50%,-50%);
     /*top: 50%;
     /*left: 50%;*/
-    margin-top:0px;
-    margin-left:0px;
+    margin-top:300px;
+    margin-left:280px;
     border-radius: 10px;
     backdrop-filter: blur(10px);
     border: 2px solid 	#000000;
@@ -190,7 +225,7 @@ p{
     transform: translate(-50%,-50%);
     /*top: 50%;
     /*left: 50%;*/
-    margin-top:0px;
+    margin-top:300px;
     margin-left:0px;
     border-radius: 10px;
     backdrop-filter: blur(10px);
@@ -201,4 +236,9 @@ p{
     color: #000000;
     letter-spacing: 0.5px;
     outline: none;
+}
+
+.formation7{
+    display:inline-flex;
+    flex-direction:row;
 }

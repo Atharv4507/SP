@@ -3,11 +3,12 @@
 {% block body %}
     <form method="POST" action="/pcacw" class="formation4">
         {% csrf_token %}
-        <h3 style="color:#FFFFFF;margin-left:150px;margin-right:100px;"><img src="static/image/SPLOGO1.ico" width="30" height="30" class="d-inline-block align-center" alt="">Predict Demand and Supply IN your Category and In Your City</h3>
+        <h3 class="heading2"><img src="static/image/SPLOGO1.ico" class="img4" alt="">Predict Demand and Supply IN your Category and In Your City</h3>
         <label for="citySelect">Select your city:</label>
         <select name="citySelect" id="citySelect">
+            <option value="Ahmedabad">Ahmedabad</option>
             <option value="Bangalore">Bangalore</option>
-            <option value="chennai">chennai</option>
+<!--            <option value="chennai">chennai</option>-->
             <option value="Delhi">Delhi</option>
             <option value="Hyderabad">Hyderabad</option>
             <option value="Kanpur">Kanpur</option>
@@ -28,7 +29,7 @@
         <label for="date">Enter a Date (DD-MM-YYYY):</label>
         <input type="date" id="date" name="date" required>
         <button type="submit"  id="A1">Predict</button>
-        <h1 style="color:#FFFFFF">Prediction Results</h1>
+        <h1 class="heading2">Prediction Results</h1>
         <p class="input-text"> Input City: {{ prediction_result3.input_city }} {{input_city}}</p>
         <p class="input-text">Input Category: {{ prediction_result3.input_category }} {{input_category}}</p>
         <p class="input-text">Input Date: {{ prediction_result3.input_date }} {{input_date}}</p>
@@ -50,7 +51,7 @@
         <br>
         <br>
         <br>
-        <h4 class="image-settle" style="text-align:center; color:#FFFFFF">The Scatter graph of Actual and Predicted Demand and Supply</h4>
+        <h4 class="image-settle">The Scatter graph of Actual and Predicted Demand and Supply</h4>
         <br>
         <form class="formation2">{{prediction_result2.Demand_Graph}}  <img class="image-settle2" src="{{Demand_Graph}}"> </form>
         <form class="formation2">{{prediction_result2.Supply_Graph}}  <img class="image-settle2" src="{{Supply_Graph}}"></form>

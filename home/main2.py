@@ -362,8 +362,8 @@ def ml_model_phase1():
     plt.ylabel('Supply')
     plt.legend()
     plt.title('Actual vs. Predicted Supply (Ridge Regression)')
-    plt.savefig('static/images/Ridge_scatter_plot.png')
-    # plt.show()
+    # plt.savefig('static/images/Ridge_scatter_plot.png')
+    plt.show()
 
     # LinearRegression
     linear_model = LinearRegression()
@@ -384,7 +384,7 @@ def ml_model_phase1():
     plt.ylabel('Supply')
     plt.legend()
     plt.title('Actual vs. Predicted Supply (Linear Regression)')
-    plt.savefig('static/images/Linear_scatter_plot.png')
+    # plt.savefig('static/images/Linear_scatter_plot.png')
     plt.show()
 
     # # Decision Tree
@@ -406,7 +406,7 @@ def ml_model_phase1():
     plt.ylabel('Supply')
     plt.legend()
     plt.title('Actual vs. Predicted Supply (Decision Tree Regression)')
-    plt.savefig('static/images/decision_scatter_plot.png')
+    # plt.savefig('static/images/decision_scatter_plot.png')
     plt.show()
 
     # # SVM
@@ -428,7 +428,7 @@ def ml_model_phase1():
     plt.ylabel('Supply')
     plt.legend()
     plt.title('Actual vs. Predicted Supply (SVM Regression)')
-    plt.savefig('static/images/svm_scatter_plot.png')
+    # plt.savefig('static/images/svm_scatter_plot.png')
     plt.show()
 
     # # Random Forest
@@ -450,7 +450,7 @@ def ml_model_phase1():
     print("R-squared (R2) Score:", r2)
     # print("Accuracy: {accuracy:.2f}", accuracy)
     print()
-    plt.savefig('static/images/RM_scatter_plot.png')
+    # plt.savefig('static/images/RM_scatter_plot.png')
     plt.show()
 
     # AdaBoost
@@ -472,7 +472,7 @@ def ml_model_phase1():
     print("R-squared (R2) Score:", r2)
     # print("Accuracy: {accuracy:.2f}", accuracy)
     print()
-    plt.savefig('static/images/AB_scatter_plot.png')
+    # plt.savefig('static/images/AB_scatter_plot.png')
     plt.show()
 
     # XGBRegressor
@@ -493,7 +493,7 @@ def ml_model_phase1():
     print("R-squared (R2*100) Score:", r2 * 100)
     print("R-squared (R2) Score:", r2)
     # print("Accuracy: {accuracy:.2f}", accuracy)
-    plt.savefig('static/images/XGBRegressor_scatter_plot.png')
+    # plt.savefig('static/images/XGBRegressor_scatter_plot.png')
     plt.show()
 
     feature1 = X

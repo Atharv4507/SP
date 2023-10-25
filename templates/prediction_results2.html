@@ -3,7 +3,7 @@
 {% block body %}
     <form method="POST" action="/pcw" class="formation3">
         {% csrf_token %}
-        <h3 style="color:#FFFFFF"><img src="static/image/SPLOGO1.ico" width="30" height="30" class="d-inline-block align-center" alt="">Predict Demand and Supply In your Category</h3>
+        <h3 class="heading2"><img src="static/image/SPLOGO1.ico" class="img4" alt="">Predict Demand and Supply In your Category</h3>
         <label for="categorySelect">Select a Category:</label>
         <select name="categorySelect" id="categorySelect">
             <option value="Health and beauty">Health and Beauty</option>
@@ -16,7 +16,7 @@
         <label for="date">Enter a Date (DD-MM-YYYY):</label>
         <input type="date" id="date" name="date" required>
         <button type="submit"  id="A1">Predict</button>
-        <h1 style="color:#FFFFFF">Prediction Results</h1>
+        <h1 class="heading2">Prediction Results</h1>
         <p class="input-text">Input Category: {{ prediction_result2.input_category }} {{input_category}}</p>
         <p class="input-text">Input Date: {{ prediction_result2.input_date }} {{input_date}}</p>
         <p class="input-text">Demand Prediction: {{ prediction_result2.demand_prediction }} {{demand_prediction}}</p>
@@ -31,7 +31,7 @@
         <br>
         <br>
         <br>
-        <h4 class="image-settle" style="text-align:center; color:#FFFFFF">The Scatter graph of Actual and Predicted Demand and Supply</h4>
+        <h4 class="image-settle">The Scatter graph of Actual and Predicted Demand and Supply</h4>
         <br>
         <form class="formation2">{{prediction_result2.Demand_Graph}}  <img class="image-settle2" src="{{Demand_Graph}}"> </form>
         <form class="formation2">{{prediction_result2.Supply_Graph}}  <img class="image-settle2" src="{{Supply_Graph}}"></form>

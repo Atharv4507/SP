@@ -4,7 +4,7 @@
 2,3,Bangalore,EcoFresh Grocery Haven,Male,Home and lifestyle,46.33,7,324.31,2020-01-31,Credit card,15%,16.2155,7.4,78.04834597,10.91113004,308.0945,1323.49127
 3,4,Kolkata,Golden Harvest Provisions,Male,Health and beauty,58.22,8,465.76,2022-08-27,Ewallet,15%,23.288,8.4,91.94054653,15.84043549,442.472,2526.61759
 4,5,Chennai,Sarvodaya Supermart,Male,Sports and travel,86.31,7,604.17,2020-02-09,Ewallet,15%,30.2085,5.3,22.87622517,24.01191176,573.9615,4071.8732
-5,6,Ahemdabad,Nirvana Grocer's Paradise,Male,Electronic accessories,85.39,7,597.73,2022-06-15,Ewallet,15%,29.8865,4.1,83.19286073,34.61538596,567.8435,3991.90095
+5,6,Ahmedabad,Nirvana Grocer's Paradise,Male,Electronic accessories,85.39,7,597.73,2022-06-15,Ewallet,15%,29.8865,4.1,83.19286073,34.61538596,567.8435,3991.90095
 6,7,Hyderabad,TastyBite Provision Store,Female,Electronic accessories,68.84,6,413.04,2022-08-23,Ewallet,15%,20.652,5.8,71.94072061,5.476144926,392.388,2033.7594
 7,8,Kanpur,Nature's Bounty Mart,Female,Home and lifestyle,73.56,10,735.6,2022-09-26,Ewallet,15%,36.78,8.0,29.07111739,14.21863619,698.82,5876.11992
 8,9,Surat,MangoTree Grocery Express,Female,Health and beauty,36.26,2,72.52,2022-07-03,Credit card,15%,3.626,7.2,64.45353921,41.59866391,68.894,122.48193
@@ -14,7 +14,7 @@
 12,13,Bangalore,SpiceRoots Grocery House,Female,Electronic accessories,46.95,5,234.75,2022-12-08,Ewallet,15%,11.7375,7.1,31.9374153,6.52907784,223.0125,758.27184
 13,14,Kolkata,Farmers' Delight Emporium,Male,Food and beverages,43.19,10,431.9,2020-12-24,Ewallet,15%,21.595,8.2,52.04462903,6.887842824,410.305,2204.0073
 14,15,Chennai,Shree Ganesh Provisions,Female,Health and beauty,71.38,10,713.8,2022-12-25,Cash,15%,35.69,5.7,70.70676926,11.45211756,678.11,5554.14918
-15,16,Ahemdabad,HealthyHub Grocery ,Female,Sports and travel,93.72,6,562.32,2020-01-06,Cash,15%,28.116,4.5,43.1883084,16.08200787,534.204,3566.25593
+15,16,Ahmedabad,HealthyHub Grocery ,Female,Sports and travel,93.72,6,562.32,2020-01-06,Cash,15%,28.116,4.5,43.1883084,16.08200787,534.204,3566.25593
 16,17,Hyderabad,Bharat Bazaar,Female,Health and beauty,68.93,7,482.51,2020-10-07,Credit card,15%,24.1255,4.6,7.790906413,48.38439976,458.3845,2694.26105
 17,18,Kanpur,Sapna Supermarket,Male,Sports and travel,72.61,6,435.66,2021-09-09,Credit card,15%,21.783,6.9,17.88638823,0.797896737,413.877,2238.75654
 18,19,Surat,FreshBasket Grocery Store,Male,Food and beverages,54.67,3,164.01,2021-11-19,Credit card,15%,8.2005,8.6,86.51369267,36.74853831,155.8095,419.55316
@@ -24,7 +24,7 @@
 22,23,Bangalore,EcoFresh Grocery Haven,Male,Home and lifestyle,33.2,2,66.4,2021-04-18,Credit card,15%,3.32,4.4,56.80793277,3.791476049,63.08,108.28512
 23,24,Kolkata,Golden Harvest Provisions,Male,Electronic accessories,34.56,5,172.8,2022-05-05,Ewallet,15%,8.64,9.9,38.56531323,1.741250678,164.16,456.46848
 24,25,Chennai,Sarvodaya Supermart,Male,Sports and travel,88.63,3,265.89,2022-03-16,Ewallet,15%,13.2945,6.0,24.42054912,47.38277654,252.5955,937.51618
-25,26,Ahemdabad,Nirvana Grocer's Paradise,Female,Home and lifestyle,52.59,8,420.72,2022-01-18,Credit card,15%,21.036,8.5,96.5633083,34.06851941,399.684,2102.27053
+25,26,Ahmedabad,Nirvana Grocer's Paradise,Female,Home and lifestyle,52.59,8,420.72,2022-01-18,Credit card,15%,21.036,8.5,96.5633083,34.06851941,399.684,2102.27053
 26,27,Hyderabad,TastyBite Provision Store,Male,Fashion accessories,33.52,1,33.52,2022-08-13,Cash,15%,1.676,6.7,47.77856649,22.80113941,31.844,44.19411
 27,28,Kanpur,Nature's Bounty Mart,Female,Fashion accessories,87.67,2,175.34,2022-08-30,Credit card,15%,8.767,7.7,13.24725484,29.63345824,166.573,467.4091
 28,29,Surat,MangoTree Grocery Express,Female,Food and beverages,88.36,5,441.8,2022-03-07,Cash,15%,22.09,9.6,73.57363091,2.820944841,419.71,2296.07878
@@ -34,7 +34,7 @@
 32,33,Bangalore,SpiceRoots Grocery House,Male,Sports and travel,83.78,8,670.24,2020-02-25,Cash,15%,33.512,5.1,17.0982042,26.3676555,636.728,4937.84575
 33,34,Kolkata,Farmers' Delight Emporium,Male,Health and beauty,96.58,2,193.16,2021-03-25,Credit card,15%,9.658,5.1,17.01355636,26.78327783,183.502,547.61246
 34,35,Chennai,Shree Ganesh Provisions,Female,Food and beverages,99.42,4,397.68,2020-06-10,Ewallet,15%,19.884,7.5,15.55040772,20.39371113,377.796,1900.09913
-35,36,Ahemdabad,HealthyHub Grocery ,Female,Sports and travel,68.12,1,68.12,2021-04-07,Ewallet,15%,3.406,6.8,49.20616912,35.57383523,64.714,112.20318
+35,36,Ahmedabad,HealthyHub Grocery ,Female,Sports and travel,68.12,1,68.12,2021-04-07,Ewallet,15%,3.406,6.8,49.20616912,35.57383523,64.714,112.20318
 36,37,Hyderabad,Bharat Bazaar,Male,Sports and travel,62.62,5,313.1,2021-02-24,Ewallet,15%,15.655,7.0,40.19517608,13.87574404,297.445,1244.4003
 37,38,Kanpur,Sapna Supermarket,Female,Electronic accessories,60.88,9,547.92,2022-01-12,Ewallet,15%,27.396,4.7,64.3220356,32.08657995,520.524,3399.9751
 38,39,Surat,FreshBasket Grocery Store,Female,Health and beauty,54.92,8,439.36,2021-07-22,Ewallet,15%,21.968,7.6,77.55240962,28.34562632,417.392,2273.21349
@@ -44,7 +44,7 @@
 42,43,Bangalore,EcoFresh Grocery Haven,Female,Sports and travel,69.12,6,414.72,2022-04-07,Cash,15%,20.736,5.6,95.71772545,35.70041263,393.984,2048.65045
 43,44,Kolkata,Golden Harvest Provisions,Female,Food and beverages,98.7,8,789.6,2021-09-17,Cash,15%,39.48,7.6,23.16574535,26.55640106,750.12,6712.54752
 44,45,Chennai,Sarvodaya Supermart,Male,Health and beauty,15.37,2,30.74,2020-09-16,Cash,15%,1.537,7.2,33.15515681,4.50341213,29.203,39.717
-45,46,Ahemdabad,Nirvana Grocer's Paradise,Female,Electronic accessories,93.96,4,375.84,2022-06-25,Cash,15%,18.792,9.5,21.97381175,47.34586068,357.048,1717.7692
+45,46,Ahmedabad,Nirvana Grocer's Paradise,Female,Electronic accessories,93.96,4,375.84,2022-06-25,Cash,15%,18.792,9.5,21.97381175,47.34586068,357.048,1717.7692
 46,47,Hyderabad,TastyBite Provision Store,Male,Health and beauty,56.69,9,510.21,2020-07-29,Credit card,15%,25.5105,8.4,34.36943742,2.517924689,484.6995,2983.19532
 47,48,Kanpur,Nature's Bounty Mart,Female,Food and beverages,20.1,9,180.9,2020-10-27,Ewallet,15%,9.0045,4.1,2.168669175,1.153198986,171.8955,491.85896
 48,49,Surat,MangoTree Grocery Express,Male,Electronic accessories,18.93,6,113.58,2020-07-11,Credit card,15%,5.679,8.1,16.47714292,23.82427153,107.901,236.13396
@@ -54,7 +54,7 @@
 52,53,Bangalore,SpiceRoots Grocery House,Female,Fashion accessories,17.87,4,71.48,2022-11-24,Ewallet,15%,3.574,6.5,45.05036688,24.87388794,67.906,120.01921
 53,54,Kolkata,Farmers' Delight Emporium,Male,Fashion accessories,15.43,1,15.43,2021-06-22,Credit card,15%,0.7715,6.1,83.778837,1.629093038,14.6585,17.69181
 54,55,Chennai,Shree Ganesh Provisions,Male,Home and lifestyle,16.16,2,32.32,2022-05-28,Ewallet,15%,1.616,6.5,12.43431585,28.28205167,30.704,42.24353
-55,56,Ahemdabad,HealthyHub Grocery ,Female,Electronic accessories,85.98,8,687.84,2021-12-28,Cash,15%,34.392,8.2,40.19189408,24.10171737,653.448,5182.51672
+55,56,Ahmedabad,HealthyHub Grocery ,Female,Electronic accessories,85.98,8,687.84,2021-12-28,Cash,15%,34.392,8.2,40.19189408,24.10171737,653.448,5182.51672
 56,57,Hyderabad,Bharat Bazaar,Male,Home and lifestyle,44.34,2,88.68,2020-08-20,Cash,15%,4.434,5.8,69.85733233,7.310300618,84.246,163.38935
 57,58,Kanpur,Sapna Supermarket,Male,Health and beauty,89.6,8,716.8,2020-11-27,Ewallet,15%,35.84,6.6,84.63764952,25.22490205,680.96,5597.92128
 58,59,Surat,FreshBasket Grocery Store,Female,Home and lifestyle,72.35,10,723.5,2020-08-11,Cash,15%,36.175,5.4,7.062269541,47.85432624,687.325,5696.29638
@@ -64,7 +64,7 @@
 62,63,Bangalore,EcoFresh Grocery Haven,Female,Sports and travel,55.07,9,495.63,2022-05-07,Ewallet,15%,24.7815,10.0,59.96105235,31.09918588,470.8485,2829.29642
 63,64,Kolkata,Golden Harvest Provisions,Male,Sports and travel,15.81,10,158.1,2021-08-05,Credit card,15%,7.905,8.6,14.40230504,22.34172775,150.195,395.5583
 64,65,Chennai,Sarvodaya Supermart,Male,Health and beauty,75.74,4,302.96,2020-10-15,Cash,15%,15.148,7.6,52.74864939,2.179697321,287.812,1174.91524
-65,66,Ahemdabad,Nirvana Grocer's Paradise,Male,Health and beauty,15.87,10,158.7,2020-04-09,Cash,15%,7.935,5.8,85.13329901,13.62814465,150.765,397.96406
+65,66,Ahmedabad,Nirvana Grocer's Paradise,Male,Health and beauty,15.87,10,158.7,2020-04-09,Cash,15%,7.935,5.8,85.13329901,13.62814465,150.765,397.96406
 66,67,Hyderabad,TastyBite Provision Store,Female,Health and beauty,33.47,2,66.94,2021-03-07,Ewallet,15%,3.347,6.7,43.3688444,10.04759334,63.593,109.50915
 67,68,Kanpur,Nature's Bounty Mart,Female,Fashion accessories,97.61,6,585.66,2021-09-29,Ewallet,15%,29.283,9.9,13.85914989,33.26431086,556.377,3844.13754
 68,69,Surat,MangoTree Grocery Express,Male,Sports and travel,78.77,10,787.7,2021-01-26,Cash,15%,39.385,6.4,85.57477767,46.10022994,748.315,6682.17726
@@ -74,7 +74,7 @@
 72,73,Bangalore,SpiceRoots Grocery House,Female,Food and beverages,48.52,3,145.56,2021-01-03,Ewallet,15%,7.278,4.0,40.80411148,16.72549349,138.282,346.84328
 73,74,Kolkata,Farmers' Delight Emporium,Female,Electronic accessories,75.91,6,455.46,2021-02-24,Cash,15%,22.773,8.7,68.10314983,11.54665725,432.687,2426.17621
 74,75,Chennai,Shree Ganesh Provisions,Male,Home and lifestyle,74.67,9,672.03,2022-09-11,Ewallet,15%,33.615,9.4,67.39126163,47.040513,638.415,4962.37033
-75,76,Ahemdabad,HealthyHub Grocery ,Female,Electronic accessories,41.65,10,416.5,2021-02-20,Credit card,15%,20.825,5.4,90.5696249,26.87609061,395.675,2064.48638
+75,76,Ahmedabad,HealthyHub Grocery ,Female,Electronic accessories,41.65,10,416.5,2021-02-20,Credit card,15%,20.825,5.4,90.5696249,26.87609061,395.675,2064.48638
 76,77,Hyderabad,Bharat Bazaar,Male,Fashion accessories,49.04,9,441.36,2021-04-13,Credit card,15%,22.068,8.6,71.19799788,4.898003248,419.292,2291.94717
 77,78,Kanpur,Sapna Supermarket,Female,Fashion accessories,20.1,9,180.9,2021-06-11,Credit card,15%,9.0045,5.7,25.2874802,25.15917053,171.8955,491.85896
 78,79,Surat,FreshBasket Grocery Store,Female,Food and beverages,78.31,10,783.1,2020-09-14,Ewallet,15%,39.155,6.6,22.71320025,17.26334029,743.945,6608.9333
@@ -84,7 +84,7 @@
 82,83,Bangalore,EcoFresh Grocery Haven,Male,Food and beverages,19.25,8,154.0,2022-11-03,Ewallet,15%,7.7,6.6,96.12305814,42.72770201,146.3,379.302
 83,84,Kolkata,Golden Harvest Provisions,Female,Food and beverages,80.36,4,321.44,2022-11-16,Credit card,15%,16.072,8.3,82.87827259,3.544666511,305.368,1303.0149
 84,85,Chennai,Sarvodaya Supermart,Male,Sports and travel,48.91,5,244.55,2021-08-24,Cash,15%,12.2275,6.6,19.01952218,6.089316527,232.3225,812.69467
-85,86,Ahemdabad,Nirvana Grocer's Paradise,Female,Sports and travel,83.06,7,581.42,2020-04-17,Ewallet,15%,29.071,4.0,48.43998484,14.96352231,552.349,3792.88756
+85,86,Ahmedabad,Nirvana Grocer's Paradise,Female,Sports and travel,83.06,7,581.42,2020-04-17,Ewallet,15%,29.071,4.0,48.43998484,14.96352231,552.349,3792.88756
 86,87,Hyderabad,TastyBite Provision Store,Male,Fashion accessories,76.52,5,382.6,2020-01-30,Cash,15%,19.13,9.9,84.9967963,8.642466731,363.47,1773.23622
 87,88,Kanpur,Nature's Bounty Mart,Male,Food and beverages,49.38,7,345.66,2020-02-17,Credit card,15%,17.283,7.3,12.76088258,3.330486943,328.377,1480.72794
 88,89,Surat,MangoTree Grocery Express,Male,Sports and travel,42.47,1,42.47,2021-12-13,Cash,15%,2.1235,5.7,37.66971394,44.7671955,40.3465,59.60516
@@ -94,7 +94,7 @@
 92,93,Bangalore,SpiceRoots Grocery House,Female,Sports and travel,21.98,7,153.86,2020-02-29,Ewallet,15%,7.693,5.1,59.33713414,4.77976408,146.167,378.75255
 93,94,Kolkata,Farmers' Delight Emporium,Male,Health and beauty,64.36,9,579.24,2022-06-26,Credit card,15%,28.962,8.6,13.68178668,42.56797013,550.278,3766.67029
 94,95,Chennai,Shree Ganesh Provisions,Male,Health and beauty,89.75,1,89.75,2022-01-10,Credit card,15%,4.4875,6.6,74.01829469,26.29157244,85.2625,166.27309
-95,96,Ahemdabad,HealthyHub Grocery ,Male,Electronic accessories,97.16,1,97.16,2020-05-19,Ewallet,15%,4.858,7.2,53.07519041,3.971975869,92.302,186.84062
+95,96,Ahmedabad,HealthyHub Grocery ,Male,Electronic accessories,97.16,1,97.16,2020-05-19,Ewallet,15%,4.858,7.2,53.07519041,3.971975869,92.302,186.84062
 96,97,Hyderabad,Bharat Bazaar,Male,Health and beauty,87.87,10,878.7,2021-09-21,Ewallet,15%,43.935,5.1,20.02377156,14.11382292,834.765,8213.78006
 97,98,Kanpur,Sapna Supermarket,Female,Electronic accessories,12.45,6,74.7,2022-11-18,Cash,15%,3.735,4.1,12.7447361,42.26651855,70.965,127.71086
 98,99,Surat,FreshBasket Grocery Store,Male,Food and beverages,52.75,3,158.25,2020-08-13,Ewallet,15%,7.9125,9.3,11.26129076,1.624985528,150.3375,396.15909
@@ -104,7 +104,7 @@
 102,103,Bangalore,EcoFresh Grocery Haven,Female,Electronic accessories,23.07,9,207.63,2021-05-01,Cash,15%,10.3815,4.9,2.282276286,34.6679564,197.2485,617.17706
 103,104,Kolkata,Golden Harvest Provisions,Male,Food and beverages,58.26,6,349.56,2021-09-26,Cash,15%,17.478,9.9,86.54777052,48.27239615,332.082,1510.38584
 104,105,Chennai,Sarvodaya Supermart,Male,Health and beauty,30.35,7,212.45,2020-02-22,Cash,15%,10.6225,8.0,9.046113616,6.33980802,201.8275,641.23252
-105,106,Ahemdabad,Nirvana Grocer's Paradise,Male,Electronic accessories,88.67,10,886.7,2022-03-06,Ewallet,15%,44.335,7.3,16.48231745,47.9305056,842.365,8355.95046
+105,106,Ahmedabad,Nirvana Grocer's Paradise,Male,Electronic accessories,88.67,10,886.7,2022-03-06,Ewallet,15%,44.335,7.3,16.48231745,47.9305056,842.365,8355.95046
 106,107,Hyderabad,TastyBite Provision Store,Male,Fashion accessories,27.38,6,164.28,2022-08-06,Credit card,15%,8.214,7.9,17.51129035,40.03509619,156.066,420.66522
 107,108,Kanpur,Nature's Bounty Mart,Male,Sports and travel,62.13,6,372.78,2022-07-06,Cash,15%,18.639,7.4,43.25534136,14.0278692,354.141,1692.94682
 108,109,Surat,MangoTree Grocery Express,Female,Food and beverages,33.98,9,305.82,2020-05-18,Cash,15%,15.291,4.2,98.98987377,36.71556137,290.529,1194.31579
@@ -114,7 +114,7 @@
 112,113,Bangalore,SpiceRoots Grocery House,Female,Fashion accessories,72.84,7,509.88,2020-01-06,Cash,15%,25.494,8.4,90.12085822,34.74143763,484.386,2979.66734
 113,114,Kolkata,Farmers' Delight Emporium,Male,Home and lifestyle,58.07,9,522.63,2021-11-23,Ewallet,15%,26.1315,4.3,48.28434714,5.912587341,496.4985,3117.48011
 114,115,Chennai,Shree Ganesh Provisions,Female,Home and lifestyle,80.79,9,727.11,2022-09-03,Credit card,15%,36.3555,9.5,28.26078695,45.01116161,690.7545,5749.65505
-115,116,Ahemdabad,HealthyHub Grocery ,Female,Fashion accessories,27.02,3,81.06,2020-11-08,Credit card,15%,4.053,7.1,53.11530969,35.40873525,77.007,143.48187
+115,116,Ahmedabad,HealthyHub Grocery ,Female,Fashion accessories,27.02,3,81.06,2020-11-08,Credit card,15%,4.053,7.1,53.11530969,35.40873525,77.007,143.48187
 116,117,Hyderabad,Bharat Bazaar,Male,Fashion accessories,21.94,5,109.7,2020-11-19,Ewallet,15%,5.485,5.3,5.11189331,37.33348525,104.215,224.02386
 117,118,Kanpur,Sapna Supermarket,Male,Fashion accessories,51.36,1,51.36,2021-08-04,Ewallet,15%,2.568,5.2,50.30240722,46.54921713,48.792,76.41957
 118,119,Surat,FreshBasket Grocery Store,Female,Food and beverages,10.96,10,109.6,2021-06-18,Ewallet,15%,5.48,6.0,27.41670895,32.87236335,104.12,223.71552
@@ -124,7 +124,7 @@
 122,123,Bangalore,EcoFresh Grocery Haven,Male,Sports and travel,99.96,9,899.64,2020-09-11,Credit card,15%,44.982,4.2,69.72537884,20.49592783,854.658,8588.48523
 123,124,Kolkata,Golden Harvest Provisions,Male,Home and lifestyle,63.91,8,511.28,2020-05-05,Credit card,15%,25.564,4.6,16.27169171,11.26325262,485.716,2994.64877
 124,125,Chennai,Sarvodaya Supermart,Female,Fashion accessories,56.47,8,451.76,2020-01-30,Ewallet,15%,22.588,7.3,23.75202423,34.96423818,429.172,2390.58743
-125,126,Ahemdabad,Nirvana Grocer's Paradise,Female,Home and lifestyle,93.69,7,655.83,2021-03-31,Credit card,15%,32.7915,4.5,52.74279746,27.01916331,623.0385,4741.9034
+125,126,Ahmedabad,Nirvana Grocer's Paradise,Female,Home and lifestyle,93.69,7,655.83,2021-03-31,Credit card,15%,32.7915,4.5,52.74279746,27.01916331,623.0385,4741.9034
 126,127,Hyderabad,TastyBite Provision Store,Female,Sports and travel,32.25,5,161.25,2022-04-07,Cash,15%,8.0625,9.0,83.12257923,23.40661546,153.1875,408.26484
 127,128,Kanpur,Nature's Bounty Mart,Female,Fashion accessories,31.73,9,285.57,2021-10-31,Credit card,15%,14.2785,5.9,77.44554852,16.8597866,271.2915,1060.29714
 128,129,Surat,MangoTree Grocery Express,Female,Food and beverages,68.54,8,548.32,2020-05-24,Ewallet,15%,27.416,8.5,89.60907954,20.76681044,520.904,3404.54081
@@ -134,7 +134,7 @@
 132,133,Bangalore,SpiceRoots Grocery House,Female,Sports and travel,34.84,4,139.36,2020-05-23,Cash,15%,6.968,7.4,20.30725078,0.16230473,132.392,323.86149
 133,134,Kolkata,Farmers' Delight Emporium,Male,Electronic accessories,87.45,6,524.7,2021-02-18,Credit card,15%,26.235,8.8,55.79371358,48.09015338,498.465,3140.14586
 134,135,Chennai,Shree Ganesh Provisions,Female,Health and beauty,81.3,6,487.8,2020-02-12,Ewallet,15%,24.39,5.3,17.27544327,31.13713789,463.41,2748.31398
-135,136,Ahemdabad,HealthyHub Grocery ,Male,Fashion accessories,90.22,3,270.66,2021-10-27,Cash,15%,13.533,6.2,0.887859177,8.600050889,257.127,966.59994
+135,136,Ahmedabad,HealthyHub Grocery ,Male,Fashion accessories,90.22,3,270.66,2021-10-27,Cash,15%,13.533,6.2,0.887859177,8.600050889,257.127,966.59994
 136,137,Hyderabad,Bharat Bazaar,Female,Electronic accessories,26.31,5,131.55,2021-04-10,Credit card,15%,6.5775,8.8,0.118565887,1.028680466,124.9725,295.95132
 137,138,Kanpur,Sapna Supermarket,Female,Home and lifestyle,34.42,6,206.52,2022-11-02,Cash,15%,10.326,9.8,11.44817399,22.56628774,196.194,611.69985
 138,139,Surat,FreshBasket Grocery Store,Male,Sports and travel,51.91,10,519.1,2022-02-08,Cash,15%,25.955,8.2,47.34072429,22.80487965,493.145,3079.0157
@@ -144,7 +144,7 @@
 142,143,Bangalore,EcoFresh Grocery Haven,Female,Health and beauty,68.6,10,686.0,2022-09-01,Cash,15%,34.3,9.1,41.03852648,7.480640237,651.7,5156.662
 143,144,Kolkata,Golden Harvest Provisions,Female,Food and beverages,30.41,1,30.41,2022-11-17,Credit card,15%,1.5205,8.4,14.69764321,8.928196876,28.8895,39.1953
 144,145,Chennai,Sarvodaya Supermart,Female,Home and lifestyle,77.95,6,467.7,2020-04-26,Ewallet,15%,23.385,8.0,28.06148541,47.42781511,444.315,2545.76126
-145,146,Ahemdabad,Nirvana Grocer's Paradise,Female,Health and beauty,46.26,6,277.56,2021-10-03,Credit card,15%,13.878,9.5,12.87782565,14.38531954,263.682,1009.43576
+145,146,Ahmedabad,Nirvana Grocer's Paradise,Female,Health and beauty,46.26,6,277.56,2021-10-03,Credit card,15%,13.878,9.5,12.87782565,14.38531954,263.682,1009.43576
 146,147,Hyderabad,TastyBite Provision Store,Female,Fashion accessories,30.14,10,301.4,2020-12-25,Ewallet,15%,15.07,9.2,40.92027959,28.56659994,286.33,1164.39862
 147,148,Kanpur,Nature's Bounty Mart,Male,Health and beauty,66.14,4,264.56,2021-03-16,Credit card,15%,13.228,5.6,21.56909483,0.259164182,251.332,929.48394
 148,149,Surat,MangoTree Grocery Express,Male,Home and lifestyle,71.86,8,574.88,2022-03-17,Credit card,15%,28.744,6.2,37.39571927,3.726499492,546.136,3714.50664
@@ -154,7 +154,7 @@
 152,153,Bangalore,SpiceRoots Grocery House,Male,Fashion accessories,83.24,9,749.16,2022-06-07,Credit card,15%,37.458,7.4,98.45266148,46.43183322,711.702,6080.9467
 153,154,Kolkata,Farmers' Delight Emporium,Female,Food and beverages,16.48,6,98.88,2021-04-13,Ewallet,15%,4.944,9.9,7.963891762,0.11419929,93.936,191.76392
 154,155,Chennai,Shree Ganesh Provisions,Female,Sports and travel,80.97,8,647.76,2020-01-31,Cash,15%,32.388,9.3,55.3636437,3.545235904,615.372,4633.89367
-155,156,Ahemdabad,HealthyHub Grocery ,Male,Food and beverages,92.29,5,461.45,2022-11-29,Credit card,15%,23.0725,9.0,60.84066561,32.91627496,438.3775,2484.34297
+155,156,Ahmedabad,HealthyHub Grocery ,Male,Food and beverages,92.29,5,461.45,2022-11-29,Credit card,15%,23.0725,9.0,60.84066561,32.91627496,438.3775,2484.34297
 156,157,Hyderabad,Bharat Bazaar,Male,Electronic accessories,72.17,1,72.17,2020-09-24,Cash,15%,3.6085,6.1,14.19128896,39.41305726,68.5615,121.65083
 157,158,Kanpur,Sapna Supermarket,Male,Home and lifestyle,50.28,5,251.4,2021-06-22,Ewallet,15%,12.57,9.7,78.61139946,30.2761263,238.83,851.81862
 158,159,Surat,FreshBasket Grocery Store,Male,Health and beauty,97.22,9,874.98,2020-07-27,Ewallet,15%,43.749,6.0,58.63289731,17.32810012,831.231,8148.085
@@ -164,7 +164,7 @@
 162,163,Bangalore,EcoFresh Grocery Haven,Male,Food and beverages,45.79,7,320.53,2020-11-29,Credit card,15%,16.0265,7.0,47.11001418,19.95118783,304.5035,1296.55507
 163,164,Kolkata,Golden Harvest Provisions,Male,Sports and travel,76.4,2,152.8,2020-09-21,Ewallet,15%,7.64,6.5,39.25152691,1.198031387,145.16,374.60448
 164,165,Chennai,Sarvodaya Supermart,Male,Food and beverages,39.9,10,399.0,2020-07-31,Credit card,15%,19.95,5.9,29.77138836,42.57331404,379.05,1911.4095
-165,166,Ahemdabad,Nirvana Grocer's Paradise,Male,Health and beauty,42.57,8,340.56,2022-08-15,Ewallet,15%,17.028,5.6,54.83111577,40.95371159,323.532,1442.38058
+165,166,Ahmedabad,Nirvana Grocer's Paradise,Male,Health and beauty,42.57,8,340.56,2022-08-15,Ewallet,15%,17.028,5.6,54.83111577,40.95371159,323.532,1442.38058
 166,167,Hyderabad,TastyBite Provision Store,Male,Home and lifestyle,95.58,10,955.8,2020-04-08,Cash,15%,47.79,4.8,57.31841899,14.09214727,908.01,9634.55958
 167,168,Kanpur,Nature's Bounty Mart,Male,Fashion accessories,98.98,10,989.8,2021-04-07,Credit card,15%,49.49,8.7,77.26162171,6.156190211,940.31,10296.98838
 168,169,Surat,MangoTree Grocery Express,Male,Food and beverages,51.28,6,307.68,2022-10-13,Cash,15%,15.384,6.5,19.73086548,37.59058601,292.296,1207.01633
@@ -174,7 +174,7 @@
 172,173,Bangalore,SpiceRoots Grocery House,Male,Electronic accessories,20.85,8,166.8,2020-09-04,Cash,15%,8.34,6.3,81.90869047,23.56966899,158.46,431.11128
 173,174,Kolkata,Farmers' Delight Emporium,Male,Electronic accessories,52.89,6,317.34,2021-05-10,Credit card,15%,15.867,9.8,66.33423109,28.80058734,301.473,1274.03442
 174,175,Chennai,Shree Ganesh Provisions,Male,Food and beverages,19.79,8,158.32,2022-05-18,Ewallet,15%,7.916,8.7,48.55174916,4.785581738,150.404,396.43961
-175,176,Ahemdabad,HealthyHub Grocery ,Male,Home and lifestyle,33.84,9,304.56,2020-08-24,Ewallet,15%,15.228,8.8,66.00123256,31.65863581,289.332,1185.74954
+175,176,Ahmedabad,HealthyHub Grocery ,Male,Home and lifestyle,33.84,9,304.56,2020-08-24,Ewallet,15%,15.228,8.8,66.00123256,31.65863581,289.332,1185.74954
 176,177,Hyderabad,Bharat Bazaar,Male,Food and beverages,22.17,8,177.36,2021-04-29,Credit card,15%,8.868,9.6,63.50294232,15.46753292,168.492,476.19741
 177,178,Kanpur,Sapna Supermarket,Female,Fashion accessories,22.51,7,157.57,2021-08-14,Credit card,15%,7.8785,4.8,90.42972882,38.42368892,149.6915,393.4389
 178,179,Surat,FreshBasket Grocery Store,Male,Food and beverages,73.88,6,443.28,2022-01-28,Ewallet,15%,22.164,4.4,93.98051286,37.4718418,421.116,2310.00301
@@ -184,7 +184,7 @@
 182,183,Bangalore,EcoFresh Grocery Haven,Male,Sports and travel,15.5,10,155.0,2022-06-02,Ewallet,15%,7.75,8.0,94.23252726,21.20960304,147.25,383.2375
 183,184,Kolkata,Golden Harvest Provisions,Male,Health and beauty,34.31,8,274.48,2021-01-21,Ewallet,15%,13.724,5.7,73.05714183,24.130251,260.756,990.20307
 184,185,Chennai,Sarvodaya Supermart,Female,Sports and travel,12.34,7,86.38,2022-06-10,Credit card,15%,4.319,6.7,86.85558842,10.02248263,82.061,157.26429
-185,186,Ahemdabad,Nirvana Grocer's Paradise,Male,Food and beverages,18.08,3,54.24,2021-05-29,Ewallet,15%,2.712,8.0,16.89786562,9.055020437,51.528,82.18879
+185,186,Ahmedabad,Nirvana Grocer's Paradise,Male,Food and beverages,18.08,3,54.24,2021-05-29,Ewallet,15%,2.712,8.0,16.89786562,9.055020437,51.528,82.18879
 186,187,Hyderabad,TastyBite Provision Store,Female,Home and lifestyle,94.49,8,755.92,2022-11-25,Ewallet,15%,37.796,7.5,93.79740868,4.514968712,718.124,6184.36294
 187,188,Kanpur,Nature's Bounty Mart,Male,Home and lifestyle,46.47,4,185.88,2020-02-29,Cash,15%,9.294,7.0,72.21769539,35.88078219,176.586,514.11806
 188,189,Surat,MangoTree Grocery Express,Male,Home and lifestyle,74.07,1,74.07,2020-03-07,Ewallet,15%,3.7035,9.9,43.68194989,14.8169656,70.3665,126.19047
@@ -194,7 +194,7 @@
 192,193,Bangalore,SpiceRoots Grocery House,Female,Food and beverages,87.8,9,790.2,2021-05-24,Cash,15%,39.51,9.2,33.82445668,12.85295002,750.69,6722.15238
 193,194,Kolkata,Farmers' Delight Emporium,Male,Home and lifestyle,25.55,4,102.2,2020-02-29,Ewallet,15%,5.11,5.7,22.76253475,46.63911171,97.09,201.42598
 194,195,Chennai,Shree Ganesh Provisions,Male,Electronic accessories,32.71,5,163.55,2022-07-20,Credit card,15%,8.1775,9.9,99.52126727,38.01559623,155.3725,417.66172
-195,196,Ahemdabad,HealthyHub Grocery ,Female,Fashion accessories,74.29,1,74.29,2020-09-23,Cash,15%,3.7145,5.0,99.58116212,40.5806309,70.5755,126.72054
+195,196,Ahmedabad,HealthyHub Grocery ,Female,Fashion accessories,74.29,1,74.29,2020-09-23,Cash,15%,3.7145,5.0,99.58116212,40.5806309,70.5755,126.72054
 196,197,Hyderabad,Bharat Bazaar,Male,Health and beauty,43.7,2,87.4,2020-04-18,Cash,15%,4.37,4.9,18.07228319,19.49547394,83.03,159.96822
 197,198,Kanpur,Sapna Supermarket,Female,Home and lifestyle,25.29,1,25.29,2021-02-06,Ewallet,15%,1.2645,6.1,80.18127337,26.52744365,24.0255,31.36605
 198,199,Surat,FreshBasket Grocery Store,Male,Health and beauty,41.5,4,166.0,2021-04-16,Credit card,15%,8.3,8.2,72.61781145,1.91696402,157.7,427.782
@@ -204,7 +204,7 @@
 202,203,Bangalore,EcoFresh Grocery Haven,Male,Electronic accessories,61.41,7,429.87,2021-09-04,Cash,15%,21.4935,9.8,70.78230882,31.27567537,408.3765,2185.35806
 203,204,Kolkata,Golden Harvest Provisions,Male,Health and beauty,25.9,10,259.0,2022-01-11,Ewallet,15%,12.95,8.7,26.97084532,46.37122202,246.05,896.2695
 204,205,Chennai,Sarvodaya Supermart,Male,Home and lifestyle,17.77,5,88.85,2020-05-20,Credit card,15%,4.4425,5.4,65.69086578,5.965243279,84.4075,163.84606
-205,206,Ahemdabad,Nirvana Grocer's Paradise,Female,Health and beauty,23.03,9,207.27,2021-10-12,Ewallet,15%,10.3635,7.9,78.36665583,1.312159324,196.9065,615.3981
+205,206,Ahmedabad,Nirvana Grocer's Paradise,Female,Health and beauty,23.03,9,207.27,2021-10-12,Ewallet,15%,10.3635,7.9,78.36665583,1.312159324,196.9065,615.3981
 206,207,Hyderabad,TastyBite Provision Store,Female,Electronic accessories,66.65,9,599.85,2020-04-26,Credit card,15%,29.9925,9.7,73.1201234,30.71347493,569.8575,4018.14021
 207,208,Kanpur,Nature's Bounty Mart,Female,Home and lifestyle,28.53,10,285.3,2020-12-20,Ewallet,15%,14.265,7.8,60.99570485,23.23706379,271.035,1058.56286
 208,209,Surat,MangoTree Grocery Express,Female,Fashion accessories,30.37,3,91.11,2022-07-20,Ewallet,15%,4.5555,5.1,61.62681425,18.08401125,86.5545,169.96981
@@ -214,7 +214,7 @@
 212,213,Bangalore,SpiceRoots Grocery House,Male,Home and lifestyle,92.36,5,461.8,2020-04-04,Ewallet,15%,23.09,4.9,29.92640378,39.46630075,438.71,2487.76278
 213,214,Kolkata,Farmers' Delight Emporium,Male,Sports and travel,46.42,3,139.26,2021-07-07,Credit card,15%,6.963,4.4,36.88309206,19.19513596,132.297,323.4968
 214,215,Chennai,Shree Ganesh Provisions,Female,Sports and travel,29.61,7,207.27,2020-12-20,Cash,15%,10.3635,6.5,69.79753027,42.21815045,196.9065,615.3981
-215,216,Ahemdabad,HealthyHub Grocery ,Male,Home and lifestyle,18.28,1,18.28,2021-04-21,Credit card,15%,0.914,8.3,29.94663132,36.46111302,17.366,21.4545
+215,216,Ahmedabad,HealthyHub Grocery ,Male,Home and lifestyle,18.28,1,18.28,2021-04-21,Credit card,15%,0.914,8.3,29.94663132,36.46111302,17.366,21.4545
 216,217,Hyderabad,Bharat Bazaar,Female,Sports and travel,24.77,5,123.85,2021-07-27,Cash,15%,6.1925,8.5,30.76598314,12.76375914,117.6575,269.56881
 217,218,Kanpur,Sapna Supermarket,Female,Electronic accessories,94.64,3,283.92,2021-12-15,Cash,15%,14.196,5.5,2.642008739,33.53733126,269.724,1049.72038
 218,219,Surat,FreshBasket Grocery Store,Male,Fashion accessories,94.87,8,758.96,2022-06-08,Ewallet,15%,37.948,8.7,71.06421256,48.77585105,721.012,6231.15268
@@ -224,7 +224,7 @@
 222,223,Bangalore,EcoFresh Grocery Haven,Male,Electronic accessories,11.81,5,59.05,2020-12-18,Cash,15%,2.9525,9.4,5.156782539,42.32448774,56.0975,92.17557
 223,224,Kolkata,Golden Harvest Provisions,Female,Fashion accessories,12.54,1,12.54,2020-10-03,Cash,15%,0.627,8.2,29.71031688,12.5298416,11.913,14.03389
 224,225,Chennai,Sarvodaya Supermart,Male,Food and beverages,43.25,2,86.5,2021-12-13,Cash,15%,4.325,6.2,53.8396409,13.48669715,82.175,157.58138
-225,226,Ahemdabad,Nirvana Grocer's Paradise,Female,Sports and travel,87.16,2,174.32,2020-02-10,Credit card,15%,8.716,9.7,33.40623706,0.732926764,165.604,463.00089
+225,226,Ahmedabad,Nirvana Grocer's Paradise,Female,Sports and travel,87.16,2,174.32,2020-02-10,Credit card,15%,8.716,9.7,33.40623706,0.732926764,165.604,463.00089
 226,227,Hyderabad,TastyBite Provision Store,Male,Health and beauty,69.37,9,624.33,2022-06-05,Ewallet,15%,31.2165,4.0,52.81591067,31.4726318,593.1135,4327.31552
 227,228,Kanpur,Nature's Bounty Mart,Male,Electronic accessories,37.06,4,148.24,2020-02-15,Ewallet,15%,7.412,9.7,57.70774496,3.032086051,140.828,357.00343
 228,229,Surat,MangoTree Grocery Express,Female,Electronic accessories,90.7,6,544.2,2020-01-29,Cash,15%,27.21,5.3,17.25193348,44.54509554,516.99,3357.65958
@@ -234,7 +234,7 @@
 232,233,Bangalore,SpiceRoots Grocery House,Female,Health and beauty,84.09,9,756.81,2022-05-11,Cash,15%,37.8405,8.0,5.873973501,19.86514905,718.9695,6198.04307
 233,234,Kolkata,Farmers' Delight Emporium,Male,Fashion accessories,73.82,4,295.28,2022-09-25,Cash,15%,14.764,6.7,61.862434,44.39016474,280.516,1123.58765
 234,235,Chennai,Shree Ganesh Provisions,Male,Health and beauty,51.94,10,519.4,2021-07-26,Ewallet,15%,25.97,6.5,19.09024763,44.46182798,493.43,3082.27542
-235,236,Ahemdabad,HealthyHub Grocery ,Female,Sports and travel,93.14,2,186.28,2021-04-16,Ewallet,15%,9.314,4.1,15.70501929,20.23963466,176.966,515.93226
+235,236,Ahmedabad,HealthyHub Grocery ,Female,Sports and travel,93.14,2,186.28,2021-04-16,Ewallet,15%,9.314,4.1,15.70501929,20.23963466,176.966,515.93226
 236,237,Hyderabad,Bharat Bazaar,Male,Health and beauty,17.41,5,87.05,2022-10-31,Credit card,15%,4.3525,4.9,82.9364948,8.892502058,82.6975,159.03817
 237,238,Kanpur,Sapna Supermarket,Female,Fashion accessories,44.22,5,221.1,2020-12-27,Credit card,15%,11.055,8.6,35.26570954,35.31177011,210.045,685.5095
 238,239,Surat,FreshBasket Grocery Store,Female,Electronic accessories,13.22,5,66.1,2020-09-08,Cash,15%,3.305,4.3,93.17662926,23.41489221,62.795,107.6075
@@ -244,7 +244,7 @@
 242,243,Bangalore,EcoFresh Grocery Haven,Male,Fashion accessories,93.2,2,186.4,2021-01-09,Credit card,15%,9.32,6.0,21.1664276,20.38363556,177.08,516.47712
 243,244,Kolkata,Golden Harvest Provisions,Male,Home and lifestyle,62.65,4,250.6,2022-12-14,Cash,15%,12.53,4.2,54.07133874,20.89598222,238.07,847.20342
 244,245,Chennai,Sarvodaya Supermart,Male,Home and lifestyle,93.87,8,750.96,2020-08-25,Credit card,15%,37.548,8.3,38.76101835,37.25366463,713.412,6108.39876
-245,246,Ahemdabad,Nirvana Grocer's Paradise,Male,Home and lifestyle,47.59,8,380.72,2021-03-17,Cash,15%,19.036,5.7,96.7084619,13.23262871,361.684,1757.72333
+245,246,Ahmedabad,Nirvana Grocer's Paradise,Male,Home and lifestyle,47.59,8,380.72,2021-03-17,Cash,15%,19.036,5.7,96.7084619,13.23262871,361.684,1757.72333
 246,247,Hyderabad,TastyBite Provision Store,Female,Electronic accessories,81.4,3,244.2,2022-03-10,Cash,15%,12.21,4.8,90.54762125,2.749339847,231.99,810.71958
 247,248,Kanpur,Nature's Bounty Mart,Male,Fashion accessories,17.94,5,89.7,2022-09-26,Ewallet,15%,4.485,6.8,97.94188941,25.60441485,85.215,166.13786
 248,249,Surat,MangoTree Grocery Express,Male,Electronic accessories,77.72,4,310.88,2020-01-11,Credit card,15%,15.544,8.8,91.19293853,24.97017556,295.336,1229.02056
@@ -254,7 +254,7 @@
 252,253,Bangalore,SpiceRoots Grocery House,Female,Sports and travel,14.39,2,28.78,2020-04-22,Credit card,15%,1.439,7.2,25.38159224,20.36628662,27.341,36.64874
 253,254,Kolkata,Farmers' Delight Emporium,Male,Home and lifestyle,23.75,4,95.0,2020-12-14,Cash,15%,4.75,5.2,31.38510217,17.21418658,90.25,180.7375
 254,255,Chennai,Shree Ganesh Provisions,Male,Home and lifestyle,58.9,8,471.2,2022-05-14,Cash,15%,23.56,8.9,52.61243446,15.25516633,447.64,2580.47968
-255,256,Ahemdabad,HealthyHub Grocery ,Male,Fashion accessories,32.62,4,130.48,2021-06-03,Cash,15%,6.524,9.0,77.14883723,36.65482334,123.956,292.21779
+255,256,Ahmedabad,HealthyHub Grocery ,Male,Fashion accessories,32.62,4,130.48,2021-06-03,Cash,15%,6.524,9.0,77.14883723,36.65482334,123.956,292.21779
 256,257,Hyderabad,Bharat Bazaar,Male,Electronic accessories,66.35,1,66.35,2022-11-16,Credit card,15%,3.3175,9.7,71.9874297,35.27723789,63.0325,108.17206
 257,258,Kanpur,Sapna Supermarket,Male,Home and lifestyle,25.91,6,155.46,2021-03-15,Ewallet,15%,7.773,8.7,6.075833653,30.73234555,147.687,385.05421
 258,259,Surat,FreshBasket Grocery Store,Male,Electronic accessories,32.25,4,129.0,2020-06-25,Ewallet,15%,6.45,6.5,68.39219767,43.09413944,122.55,287.0895
@@ -264,7 +264,7 @@
 262,263,Bangalore,EcoFresh Grocery Haven,Female,Fashion accessories,38.3,4,153.2,2020-12-26,Cash,15%,7.66,5.7,48.91242383,5.343462913,145.54,376.16728
 263,264,Kolkata,Golden Harvest Provisions,Female,Sports and travel,22.24,10,222.4,2021-04-13,Cash,15%,11.12,4.2,16.67666913,34.87675726,211.28,692.28672
 264,265,Chennai,Sarvodaya Supermart,Male,Sports and travel,54.45,1,54.45,2021-07-23,Ewallet,15%,2.7225,7.9,25.2793153,25.17650444,51.7275,82.61562
-265,266,Ahemdabad,Nirvana Grocer's Paradise,Female,Sports and travel,98.4,7,688.8,2020-06-30,Credit card,15%,34.44,8.7,39.04545175,10.37962527,654.36,5196.03168
+265,266,Ahmedabad,Nirvana Grocer's Paradise,Female,Sports and travel,98.4,7,688.8,2020-06-30,Credit card,15%,34.44,8.7,39.04545175,10.37962527,654.36,5196.03168
 266,267,Hyderabad,TastyBite Provision Store,Male,Home and lifestyle,35.47,4,141.88,2022-06-15,Credit card,15%,7.094,6.9,74.57528288,7.075732567,134.786,333.11438
 267,268,Kanpur,Nature's Bounty Mart,Female,Food and beverages,74.6,10,746.0,2022-12-11,Cash,15%,37.3,9.5,87.73006815,36.10264776,708.7,6032.902
 268,269,Surat,MangoTree Grocery Express,Male,Home and lifestyle,70.74,4,282.96,2021-08-16,Credit card,15%,14.148,4.4,60.55785736,26.30234896,268.812,1043.59044
@@ -274,7 +274,7 @@
 272,273,Bangalore,SpiceRoots Grocery House,Female,Home and lifestyle,21.54,9,193.86,2020-04-17,Credit card,15%,9.693,8.8,81.92343277,34.37451755,184.167,550.88615
 273,274,Kolkata,Farmers' Delight Emporium,Female,Home and lifestyle,12.03,2,24.06,2021-09-02,Cash,15%,1.203,5.1,78.36579557,48.88242403,22.857,29.55939
 274,275,Chennai,Shree Ganesh Provisions,Female,Health and beauty,99.71,6,598.26,2022-01-28,Ewallet,15%,29.913,7.9,37.99595182,45.87938152,568.347,3998.45276
-275,276,Ahemdabad,HealthyHub Grocery ,Male,Fashion accessories,47.97,7,335.79,2022-02-09,Cash,15%,16.7895,6.2,6.187074345,26.02278918,319.0005,1406.96178
+275,276,Ahmedabad,HealthyHub Grocery ,Male,Fashion accessories,47.97,7,335.79,2022-02-09,Cash,15%,16.7895,6.2,6.187074345,26.02278918,319.0005,1406.96178
 276,277,Hyderabad,Bharat Bazaar,Female,Home and lifestyle,21.82,10,218.2,2022-12-01,Cash,15%,10.91,7.1,66.45129188,36.48666181,207.29,670.50678
 277,278,Kanpur,Sapna Supermarket,Female,Fashion accessories,95.42,4,381.68,2021-09-15,Ewallet,15%,19.084,6.4,3.899963322,18.38642284,362.596,1765.63641
 278,279,Surat,FreshBasket Grocery Store,Male,Fashion accessories,70.99,10,709.9,2020-12-15,Cash,15%,35.495,5.7,77.63545612,43.48346204,674.405,5497.5011
@@ -284,7 +284,7 @@
 282,283,Bangalore,EcoFresh Grocery Haven,Female,Sports and travel,15.34,1,15.34,2021-06-26,Cash,15%,0.767,6.5,75.00731943,17.90805421,14.573,17.5755
 283,284,Kolkata,Golden Harvest Provisions,Male,Health and beauty,99.83,6,598.98,2020-08-13,Ewallet,15%,29.949,8.5,37.36033319,14.08571113,569.031,4007.36188
 284,285,Chennai,Sarvodaya Supermart,Female,Health and beauty,47.67,4,190.68,2021-03-25,Cash,15%,9.534,9.1,21.06213683,28.21571566,181.146,536.08919
-285,286,Ahemdabad,Nirvana Grocer's Paradise,Male,Health and beauty,66.68,5,333.4,2020-08-01,Cash,15%,16.67,7.6,16.729102,31.68621995,316.73,1389.37782
+285,286,Ahmedabad,Nirvana Grocer's Paradise,Male,Health and beauty,66.68,5,333.4,2020-08-01,Cash,15%,16.67,7.6,16.729102,31.68621995,316.73,1389.37782
 286,287,Hyderabad,TastyBite Provision Store,Male,Home and lifestyle,74.86,1,74.86,2022-09-22,Cash,15%,3.743,6.9,80.23363546,26.09308236,71.117,128.09819
 287,288,Kanpur,Nature's Bounty Mart,Female,Sports and travel,23.75,9,213.75,2022-04-16,Cash,15%,10.6875,9.5,89.70456545,17.55727571,203.0625,647.79609
 288,289,Surat,MangoTree Grocery Express,Female,Food and beverages,48.51,7,339.57,2022-08-08,Credit card,15%,16.9785,5.2,44.1993337,2.3032415,322.5915,1434.99396
@@ -294,7 +294,7 @@
 292,293,Bangalore,SpiceRoots Grocery House,Female,Electronic accessories,62.48,1,62.48,2020-08-02,Cash,15%,3.124,4.7,34.45888015,9.293515003,59.356,99.56563
 293,294,Kolkata,Farmers' Delight Emporium,Female,Food and beverages,36.36,2,72.72,2021-01-10,Cash,15%,3.636,7.1,96.96520079,21.75586339,69.084,122.95788
 294,295,Chennai,Shree Ganesh Provisions,Male,Health and beauty,18.11,10,181.1,2022-01-31,Ewallet,15%,9.055,5.9,41.94435042,37.8740369,172.045,492.6735
-295,296,Ahemdabad,HealthyHub Grocery ,Female,Electronic accessories,51.92,5,259.6,2022-01-12,Cash,15%,12.98,7.5,25.25301641,13.32822292,246.62,899.82552
+295,296,Ahmedabad,HealthyHub Grocery ,Female,Electronic accessories,51.92,5,259.6,2022-01-12,Cash,15%,12.98,7.5,25.25301641,13.32822292,246.62,899.82552
 296,297,Hyderabad,Bharat Bazaar,Male,Electronic accessories,28.84,4,115.36,2020-12-07,Cash,15%,5.768,6.4,87.17318125,19.793368,109.592,241.78533
 297,298,Kanpur,Sapna Supermarket,Male,Home and lifestyle,78.38,6,470.28,2021-08-30,Ewallet,15%,23.514,5.8,32.35035052,19.41327729,446.766,2571.33115
 298,299,Surat,FreshBasket Grocery Store,Male,Home and lifestyle,60.1,4,240.4,2022-02-24,Cash,15%,12.002,4.5,20.37331862,23.6298029,228.398,789.46879
@@ -304,7 +304,7 @@
 302,303,Bangalore,EcoFresh Grocery Haven,Male,Food and beverages,48.61,1,48.61,2022-04-26,Cash,15%,2.4305,4.4,44.5144498,20.24540259,46.1795,71.05785
 303,304,Kolkata,Golden Harvest Provisions,Female,Electronic accessories,51.19,4,204.76,2022-12-01,Credit card,15%,10.238,4.7,84.87354412,32.3067644,194.522,603.06325
 304,305,Chennai,Sarvodaya Supermart,Female,Electronic accessories,14.96,8,119.68,2022-05-17,Cash,15%,5.984,8.6,59.71281164,20.23437758,113.696,255.75137
-305,306,Ahemdabad,Nirvana Grocer's Paradise,Male,Electronic accessories,72.2,7,505.4,2020-11-25,Ewallet,15%,25.27,4.3,57.13751167,5.891384688,480.13,2931.97702
+305,306,Ahmedabad,Nirvana Grocer's Paradise,Male,Electronic accessories,72.2,7,505.4,2020-11-25,Ewallet,15%,25.27,4.3,57.13751167,5.891384688,480.13,2931.97702
 306,307,Hyderabad,TastyBite Provision Store,Female,Sports and travel,40.23,7,281.61,2021-08-28,Cash,15%,14.0805,9.6,79.96705225,26.62738453,267.5295,1034.99983
 307,308,Kanpur,Nature's Bounty Mart,Female,Home and lifestyle,88.79,8,710.32,2021-09-24,Cash,15%,35.516,4.1,96.39651516,17.37196303,674.804,5503.58777
 308,309,Surat,MangoTree Grocery Express,Female,Electronic accessories,26.48,3,79.44,2021-11-08,Ewallet,15%,3.972,4.7,11.99871291,10.02115571,75.468,139.39178
@@ -314,7 +314,7 @@
 312,313,Bangalore,SpiceRoots Grocery House,Female,Food and beverages,14.23,5,71.15,2020-11-05,Credit card,15%,3.5575,4.4,51.61176336,38.00375616,67.5925,119.24206
 313,314,Kolkata,Farmers' Delight Emporium,Female,Health and beauty,15.55,9,139.95,2021-05-13,Cash,15%,6.9975,5.0,79.29977817,49.84972823,132.9525,326.01702
 314,315,Chennai,Shree Ganesh Provisions,Female,Electronic accessories,78.13,10,781.3,2021-08-16,Cash,15%,39.065,4.4,59.6599095,13.73290164,742.235,6580.38206
-315,316,Ahemdabad,HealthyHub Grocery ,Male,Food and beverages,99.37,2,198.74,2021-03-29,Cash,15%,9.937,5.2,53.96222687,0.820735239,188.803,573.96708
+315,316,Ahmedabad,HealthyHub Grocery ,Male,Food and beverages,99.37,2,198.74,2021-03-29,Cash,15%,9.937,5.2,53.96222687,0.820735239,188.803,573.96708
 316,317,Hyderabad,Bharat Bazaar,Female,Food and beverages,21.08,3,63.24,2020-03-10,Cash,15%,3.162,7.3,16.89033026,41.60781203,60.078,101.23333
 317,318,Kanpur,Sapna Supermarket,Male,Electronic accessories,74.79,5,373.95,2022-06-29,Cash,15%,18.6975,4.9,62.25435444,3.130841148,355.2525,1702.41672
 318,319,Surat,FreshBasket Grocery Store,Female,Health and beauty,29.67,7,207.69,2020-05-24,Credit card,15%,10.3845,8.1,59.29745259,40.39034933,197.3055,617.47379
@@ -324,7 +324,7 @@
 322,323,Bangalore,EcoFresh Grocery Haven,Male,Health and beauty,15.26,6,91.56,2022-06-14,Ewallet,15%,4.578,9.8,5.367833933,20.61303113,86.982,171.20072
 323,324,Kolkata,Golden Harvest Provisions,Female,Fashion accessories,61.77,5,308.85,2020-05-11,Cash,15%,15.4425,6.7,88.62853371,23.87002155,293.4075,1215.03906
 324,325,Chennai,Sarvodaya Supermart,Male,Home and lifestyle,21.52,6,129.12,2022-03-07,Credit card,15%,6.456,9.4,72.49381196,15.22580347,122.664,287.50376
-325,326,Ahemdabad,Nirvana Grocer's Paradise,Male,Sports and travel,97.74,4,390.96,2020-10-17,Ewallet,15%,19.548,6.4,28.28082572,29.19108491,371.412,1843.03236
+325,326,Ahmedabad,Nirvana Grocer's Paradise,Male,Sports and travel,97.74,4,390.96,2020-10-17,Ewallet,15%,19.548,6.4,28.28082572,29.19108491,371.412,1843.03236
 326,327,Hyderabad,TastyBite Provision Store,Male,Food and beverages,99.78,5,498.9,2020-01-22,Cash,15%,24.945,5.4,23.14780158,49.08698074,473.955,2863.4615
 327,328,Kanpur,Nature's Bounty Mart,Male,Food and beverages,94.26,4,377.04,2021-11-09,Cash,15%,18.852,8.6,7.645602965,46.25143563,358.188,1727.55204
 328,329,Surat,MangoTree Grocery Express,Male,Health and beauty,51.13,4,204.52,2021-10-15,Credit card,15%,10.226,4.0,41.02518922,18.84579502,194.294,601.89009
@@ -334,7 +334,7 @@
 332,333,Bangalore,SpiceRoots Grocery House,Male,Fashion accessories,77.02,5,385.1,2020-08-18,Cash,15%,19.255,5.5,57.32972444,11.15104277,365.845,1793.9691
 333,334,Kolkata,Farmers' Delight Emporium,Male,Food and beverages,23.48,2,46.96,2021-11-06,Credit card,15%,2.348,7.9,93.65501672,36.16761156,44.612,67.9098
 334,335,Chennai,Shree Ganesh Provisions,Male,Sports and travel,14.7,5,73.5,2022-12-12,Ewallet,15%,3.675,8.5,43.34156207,32.22892769,69.825,124.82138
-335,336,Ahemdabad,HealthyHub Grocery ,Female,Electronic accessories,28.45,5,142.25,2022-08-01,Credit card,15%,7.1125,9.1,77.91963938,21.92985899,135.1375,334.48309
+335,336,Ahmedabad,HealthyHub Grocery ,Female,Electronic accessories,28.45,5,142.25,2022-08-01,Credit card,15%,7.1125,9.1,77.91963938,21.92985899,135.1375,334.48309
 336,337,Hyderabad,Bharat Bazaar,Male,Fashion accessories,76.4,9,687.6,2021-10-24,Ewallet,15%,34.38,7.5,41.32661617,12.64273405,653.22,5179.14072
 337,338,Kanpur,Sapna Supermarket,Female,Sports and travel,57.95,6,347.7,2021-01-28,Cash,15%,17.385,5.2,43.27635155,4.869509907,330.315,1496.20526
 338,339,Surat,FreshBasket Grocery Store,Female,Electronic accessories,47.65,3,142.95,2021-04-13,Credit card,15%,7.1475,9.5,68.84583633,9.020286235,135.8025,337.07967
@@ -344,7 +344,7 @@
 342,343,Bangalore,EcoFresh Grocery Haven,Female,Health and beauty,76.9,7,538.3,2020-07-26,Cash,15%,26.915,7.7,79.38620173,37.45275112,511.385,3291.08546
 343,344,Kolkata,Golden Harvest Provisions,Female,Food and beverages,97.03,5,485.15,2020-05-15,Ewallet,15%,24.2575,9.3,23.05973836,40.01683844,460.8925,2721.16996
 344,345,Chennai,Sarvodaya Supermart,Male,Sports and travel,44.65,3,133.95,2021-11-13,Cash,15%,6.6975,6.2,72.98684962,14.61666448,127.2525,304.40472
-345,346,Ahemdabad,Nirvana Grocer's Paradise,Female,Fashion accessories,77.93,9,701.37,2020-11-06,Ewallet,15%,35.0685,7.6,69.43858563,0.983680165,666.3015,5374.60883
+345,346,Ahmedabad,Nirvana Grocer's Paradise,Female,Fashion accessories,77.93,9,701.37,2020-11-06,Ewallet,15%,35.0685,7.6,69.43858563,0.983680165,666.3015,5374.60883
 346,347,Hyderabad,TastyBite Provision Store,Male,Electronic accessories,71.95,1,71.95,2020-09-02,Cash,15%,3.5975,7.3,50.70408185,6.548372092,68.3525,121.12962
 347,348,Kanpur,Nature's Bounty Mart,Female,Home and lifestyle,89.25,8,714.0,2021-09-11,Cash,15%,35.7,4.7,45.65114808,26.05429086,678.3,5557.062
 348,349,Surat,MangoTree Grocery Express,Male,Electronic accessories,26.02,7,182.14,2020-12-29,Cash,15%,9.107,5.1,60.48089899,42.77970175,173.033,497.30231
@@ -354,7 +354,7 @@
 352,353,Bangalore,SpiceRoots Grocery House,Female,Fashion accessories,54.73,7,383.11,2021-12-04,Credit card,15%,19.1555,8.5,3.680423306,11.77339071,363.9545,1777.45609
 353,354,Kolkata,Farmers' Delight Emporium,Male,Home and lifestyle,27.0,9,243.0,2022-07-13,Cash,15%,12.15,4.8,47.82933789,33.10424347,230.85,803.9655
 354,355,Chennai,Shree Ganesh Provisions,Female,Electronic accessories,30.24,1,30.24,2021-07-04,Cash,15%,1.512,8.4,77.48982652,12.12226374,28.728,38.92735
-355,356,Ahemdabad,HealthyHub Grocery ,Female,Food and beverages,89.14,4,356.56,2020-05-08,Credit card,15%,17.828,7.8,48.28965174,44.69580529,338.732,1564.34282
+355,356,Ahmedabad,HealthyHub Grocery ,Female,Food and beverages,89.14,4,356.56,2020-05-08,Credit card,15%,17.828,7.8,48.28965174,44.69580529,338.732,1564.34282
 356,357,Hyderabad,Bharat Bazaar,Female,Fashion accessories,37.55,10,375.5,2022-12-18,Credit card,15%,18.775,9.3,24.2313991,19.97895326,356.725,1715.00238
 357,358,Kanpur,Sapna Supermarket,Female,Sports and travel,95.44,10,954.4,2022-09-09,Cash,15%,47.72,5.2,59.13027589,14.39205407,906.68,9607.75392
 358,359,Surat,FreshBasket Grocery Store,Male,Electronic accessories,27.5,3,82.5,2021-05-06,Ewallet,15%,4.125,6.5,63.13577161,44.51594317,78.375,147.15938
@@ -364,7 +364,7 @@
 362,363,Bangalore,EcoFresh Grocery Haven,Male,Food and beverages,99.79,2,199.58,2021-09-14,Ewallet,15%,9.979,8.0,91.54798346,3.182842605,189.601,577.98568
 363,364,Kolkata,Golden Harvest Provisions,Male,Home and lifestyle,73.22,6,439.32,2020-12-04,Cash,15%,21.966,7.2,9.151857928,3.82548233,417.354,2272.83959
 364,365,Chennai,Sarvodaya Supermart,Female,Food and beverages,41.24,4,164.96,2020-03-05,Cash,15%,8.248,7.1,59.35262026,2.24481862,156.712,423.47212
-365,366,Ahemdabad,Nirvana Grocer's Paradise,Female,Fashion accessories,81.68,4,326.72,2022-02-04,Cash,15%,16.336,9.1,66.97208098,5.030422326,310.384,1340.80661
+365,366,Ahmedabad,Nirvana Grocer's Paradise,Female,Fashion accessories,81.68,4,326.72,2022-02-04,Cash,15%,16.336,9.1,66.97208098,5.030422326,310.384,1340.80661
 366,367,Hyderabad,TastyBite Provision Store,Female,Electronic accessories,51.32,9,461.88,2020-01-11,Cash,15%,23.094,5.6,11.51721535,33.73238104,438.786,2488.54478
 367,368,Kanpur,Nature's Bounty Mart,Male,Home and lifestyle,65.94,4,263.76,2020-12-18,Cash,15%,13.188,6.0,14.15998343,31.63901651,250.572,924.66871
 368,369,Surat,MangoTree Grocery Express,Female,Sports and travel,14.36,10,143.6,2022-05-25,Cash,15%,7.18,5.4,57.06824054,49.33407992,136.42,339.49912
@@ -374,7 +374,7 @@
 372,373,Bangalore,SpiceRoots Grocery House,Female,Home and lifestyle,70.11,6,420.66,2021-01-01,Ewallet,15%,21.033,5.2,96.8028623,0.370767793,399.627,2101.73094
 373,374,Kolkata,Farmers' Delight Emporium,Male,Fashion accessories,42.08,6,252.48,2022-04-09,Cash,15%,12.624,8.9,23.82307652,38.23649001,239.856,858.06843
 374,375,Chennai,Shree Ganesh Provisions,Female,Home and lifestyle,67.09,5,335.45,2020-06-13,Credit card,15%,16.7725,9.1,11.44861303,18.02486944,318.6775,1404.45367
-375,376,Ahemdabad,HealthyHub Grocery ,Female,Fashion accessories,96.7,5,483.5,2020-02-24,Ewallet,15%,24.175,7.0,78.47542498,21.63537337,459.325,2704.33638
+375,376,Ahmedabad,HealthyHub Grocery ,Female,Fashion accessories,96.7,5,483.5,2020-02-24,Ewallet,15%,24.175,7.0,78.47542498,21.63537337,459.325,2704.33638
 376,377,Hyderabad,Bharat Bazaar,Female,Home and lifestyle,35.38,9,318.42,2020-06-15,Credit card,15%,15.921,9.6,51.22113433,44.01262143,302.499,1281.63732
 377,378,Kanpur,Sapna Supermarket,Male,Sports and travel,95.49,7,668.43,2022-09-26,Ewallet,15%,33.4215,8.7,52.36534672,5.874530461,635.0085,4913.01732
 378,379,Surat,FreshBasket Grocery Store,Male,Fashion accessories,96.98,4,387.92,2021-09-27,Ewallet,15%,19.396,9.4,17.60323173,0.876960367,368.524,1817.4983
@@ -384,7 +384,7 @@
 382,383,Bangalore,EcoFresh Grocery Haven,Female,Food and beverages,99.69,5,498.45,2021-12-14,Cash,15%,24.9225,9.9,4.098654265,15.75949343,473.5275,2858.74782
 383,384,Kolkata,Golden Harvest Provisions,Female,Food and beverages,74.89,4,299.56,2021-06-10,Ewallet,15%,14.978,4.2,11.00718969,14.72719756,284.582,1152.05384
 384,385,Chennai,Sarvodaya Supermart,Female,Food and beverages,40.94,5,204.7,2021-11-12,Ewallet,15%,10.235,9.9,39.45986373,26.81358338,194.465,602.76986
-385,386,Ahemdabad,Nirvana Grocer's Paradise,Male,Sports and travel,75.82,1,75.82,2020-11-01,Cash,15%,3.791,5.8,7.9039527,24.85393934,72.029,130.43239
+385,386,Ahmedabad,Nirvana Grocer's Paradise,Male,Sports and travel,75.82,1,75.82,2020-11-01,Cash,15%,3.791,5.8,7.9039527,24.85393934,72.029,130.43239
 386,387,Hyderabad,TastyBite Provision Store,Male,Food and beverages,46.77,6,280.62,2021-09-17,Cash,15%,14.031,6.0,1.178924698,22.17921355,266.589,1028.72205
 387,388,Kanpur,Nature's Bounty Mart,Female,Health and beauty,32.32,10,323.2,2021-09-03,Credit card,15%,16.16,10.0,63.78341047,38.71822188,307.04,1315.55328
 388,389,Surat,MangoTree Grocery Express,Female,Fashion accessories,54.07,9,486.63,2021-05-28,Ewallet,15%,24.3315,9.5,16.81732324,45.80959956,462.2985,2736.31319
@@ -394,7 +394,7 @@
 392,393,Bangalore,SpiceRoots Grocery House,Male,Electronic accessories,76.82,1,76.82,2020-01-15,Ewallet,15%,3.841,7.2,47.0554446,39.74185341,72.979,132.88247
 393,394,Kolkata,Farmers' Delight Emporium,Female,Sports and travel,52.26,10,522.6,2022-09-18,Credit card,15%,26.13,6.2,31.38136698,9.573423386,496.47,3117.15222
 394,395,Chennai,Shree Ganesh Provisions,Female,Health and beauty,79.74,1,79.74,2022-08-06,Ewallet,15%,3.987,7.3,1.825644091,24.16687443,75.753,140.14544
-395,396,Ahemdabad,HealthyHub Grocery ,Female,Health and beauty,77.5,5,387.5,2022-08-16,Ewallet,15%,19.375,4.3,14.91113414,39.25198031,368.125,1813.98438
+395,396,Ahmedabad,HealthyHub Grocery ,Female,Health and beauty,77.5,5,387.5,2022-08-16,Ewallet,15%,19.375,4.3,14.91113414,39.25198031,368.125,1813.98438
 396,397,Hyderabad,Bharat Bazaar,Female,Food and beverages,54.27,5,271.35,2020-09-22,Ewallet,15%,13.5675,4.6,12.2459852,1.830060757,257.7825,970.84281
 397,398,Kanpur,Sapna Supermarket,Male,Home and lifestyle,13.59,9,122.31,2021-10-31,Cash,15%,6.1155,5.8,55.14789803,21.40732932,116.1945,264.42749
 398,399,Surat,FreshBasket Grocery Store,Female,Health and beauty,41.06,6,246.36,2022-09-13,Credit card,15%,12.318,8.3,37.3854648,12.91794489,234.042,822.94587
@@ -404,7 +404,7 @@
 402,403,Bangalore,EcoFresh Grocery Haven,Male,Home and lifestyle,13.98,1,13.98,2022-06-21,Ewallet,15%,0.699,9.8,38.32611741,47.76027838,13.281,15.83668
 403,404,Kolkata,Golden Harvest Provisions,Female,Fashion accessories,39.75,5,198.75,2020-04-10,Ewallet,15%,9.9375,9.6,18.18589221,19.71830236,188.8125,574.01484
 404,405,Chennai,Sarvodaya Supermart,Female,Fashion accessories,97.79,7,684.53,2021-05-25,Ewallet,15%,34.2265,4.9,28.73691926,22.12596682,650.3035,5136.05255
-405,406,Ahemdabad,Nirvana Grocer's Paradise,Male,Sports and travel,67.26,4,269.04,2022-10-26,Credit card,15%,13.452,8.0,34.21930727,44.96572437,255.588,956.67396
+405,406,Ahmedabad,Nirvana Grocer's Paradise,Male,Sports and travel,67.26,4,269.04,2022-10-26,Credit card,15%,13.452,8.0,34.21930727,44.96572437,255.588,956.67396
 406,407,Hyderabad,TastyBite Provision Store,Male,Food and beverages,13.79,5,68.95,2022-08-19,Credit card,15%,3.4475,7.8,79.17386208,38.37053398,65.5025,114.11397
 407,408,Kanpur,Nature's Bounty Mart,Female,Fashion accessories,68.71,4,274.84,2021-12-27,Cash,15%,13.742,4.1,85.50467601,11.26722855,261.098,992.44174
 408,409,Surat,MangoTree Grocery Express,Female,Home and lifestyle,56.53,4,226.12,2022-01-08,Ewallet,15%,11.306,5.5,73.8270476,49.07761843,214.814,711.85742
@@ -414,7 +414,7 @@
 412,413,Bangalore,SpiceRoots Grocery House,Male,Health and beauty,20.97,5,104.85,2020-06-23,Cash,15%,5.2425,7.8,71.13721491,28.69049642,99.6075,209.28846
 413,414,Kolkata,Farmers' Delight Emporium,Male,Sports and travel,25.84,3,77.52,2020-07-21,Ewallet,15%,3.876,6.6,67.79365,13.14910915,73.644,134.60883
 414,415,Chennai,Shree Ganesh Provisions,Male,Home and lifestyle,50.93,8,407.44,2020-01-04,Ewallet,15%,20.372,9.2,92.73354384,27.20232595,387.068,1984.50986
-415,416,Ahemdabad,HealthyHub Grocery ,Male,Health and beauty,96.11,1,96.11,2020-05-28,Ewallet,15%,4.8055,7.8,86.81477969,0.849588928,91.3045,183.86276
+415,416,Ahmedabad,HealthyHub Grocery ,Male,Health and beauty,96.11,1,96.11,2020-05-28,Ewallet,15%,4.8055,7.8,86.81477969,0.849588928,91.3045,183.86276
 416,417,Hyderabad,Bharat Bazaar,Female,Home and lifestyle,45.38,4,181.52,2020-08-08,Credit card,15%,9.076,8.7,47.53868393,23.48758155,172.444,494.54035
 417,418,Kanpur,Sapna Supermarket,Female,Health and beauty,81.51,1,81.51,2020-07-10,Ewallet,15%,4.0755,9.2,37.44475095,2.178340346,77.4345,144.62686
 418,419,Surat,FreshBasket Grocery Store,Female,Health and beauty,57.22,2,114.44,2021-05-07,Ewallet,15%,5.722,8.3,72.14709741,48.16413212,108.718,238.85688
@@ -424,7 +424,7 @@
 422,423,Bangalore,EcoFresh Grocery Haven,Female,Fashion accessories,97.21,10,972.1,2021-06-03,Credit card,15%,48.605,8.7,92.27604323,14.51552129,923.495,9949.3949
 423,424,Kolkata,Golden Harvest Provisions,Male,Fashion accessories,25.42,8,203.36,2021-07-28,Credit card,15%,10.168,6.7,31.24331443,30.00838116,193.192,596.23525
 424,425,Chennai,Sarvodaya Supermart,Male,Fashion accessories,16.28,1,16.28,2020-04-24,Cash,15%,0.814,5.0,97.76277559,12.38463571,15.466,18.79786
-425,426,Ahemdabad,Nirvana Grocer's Paradise,Male,Fashion accessories,40.61,9,365.49,2022-04-16,Cash,15%,18.2745,7.0,89.97610032,18.9203669,347.2155,1634.52793
+425,426,Ahmedabad,Nirvana Grocer's Paradise,Male,Fashion accessories,40.61,9,365.49,2022-04-16,Cash,15%,18.2745,7.0,89.97610032,18.9203669,347.2155,1634.52793
 426,427,Hyderabad,TastyBite Provision Store,Male,Health and beauty,53.17,7,372.19,2022-12-28,Cash,15%,18.6095,8.9,78.19863521,22.80785655,353.5805,1688.18126
 427,428,Kanpur,Nature's Bounty Mart,Female,Food and beverages,20.87,3,62.61,2022-06-26,Credit card,15%,3.1305,8.0,89.20612923,41.45550333,59.4795,99.85011
 428,429,Surat,MangoTree Grocery Express,Male,Sports and travel,67.27,5,336.35,2021-10-15,Cash,15%,16.8175,6.9,58.06603806,6.265980501,319.5325,1411.09756
@@ -434,7 +434,7 @@
 432,433,Bangalore,SpiceRoots Grocery House,Female,Electronic accessories,23.46,6,140.76,2020-04-13,Ewallet,15%,7.038,6.4,62.26915698,29.79037438,133.722,328.98709
 433,434,Kolkata,Farmers' Delight Emporium,Male,Fashion accessories,95.54,7,668.78,2021-04-13,Credit card,15%,33.439,9.6,7.776423769,49.27753101,635.341,4917.81354
 434,435,Chennai,Shree Ganesh Provisions,Female,Fashion accessories,47.44,1,47.44,2020-03-16,Credit card,15%,2.372,6.8,86.24286987,21.83779314,45.068,68.82026
-435,436,Ahemdabad,HealthyHub Grocery ,Male,Sports and travel,99.24,9,893.16,2021-03-15,Ewallet,15%,44.658,9.0,21.47026767,21.43371627,848.502,8471.64046
+435,436,Ahmedabad,HealthyHub Grocery ,Male,Sports and travel,99.24,9,893.16,2021-03-15,Ewallet,15%,44.658,9.0,21.47026767,21.43371627,848.502,8471.64046
 436,437,Hyderabad,Bharat Bazaar,Male,Sports and travel,82.93,4,331.72,2021-09-24,Ewallet,15%,16.586,9.6,26.13351779,4.055313972,315.134,1377.08251
 437,438,Kanpur,Sapna Supermarket,Male,Home and lifestyle,33.99,6,203.94,2021-11-24,Credit card,15%,10.197,7.7,92.58169532,14.88063836,193.743,599.05947
 438,439,Surat,FreshBasket Grocery Store,Male,Food and beverages,17.04,4,68.16,2022-11-02,Ewallet,15%,3.408,7.0,29.10796465,2.07998181,64.752,112.29496
@@ -444,7 +444,7 @@
 442,443,Bangalore,EcoFresh Grocery Haven,Female,Home and lifestyle,89.21,9,802.89,2022-04-04,Credit card,15%,40.1445,6.5,19.50471392,15.96636044,762.7455,6926.89735
 443,444,Kolkata,Golden Harvest Provisions,Male,Fashion accessories,12.78,1,12.78,2022-04-03,Ewallet,15%,0.639,9.5,81.78959739,12.90413954,12.141,14.33162
 444,445,Chennai,Sarvodaya Supermart,Female,Sports and travel,19.1,7,133.7,2021-01-13,Cash,15%,6.685,9.7,92.22679864,48.23591235,127.015,303.51906
-445,446,Ahemdabad,Nirvana Grocer's Paradise,Female,Health and beauty,19.15,1,19.15,2021-04-24,Credit card,15%,0.9575,9.5,28.29079396,0.388788486,18.1925,22.63386
+445,446,Ahmedabad,Nirvana Grocer's Paradise,Female,Health and beauty,19.15,1,19.15,2021-04-24,Credit card,15%,0.9575,9.5,28.29079396,0.388788486,18.1925,22.63386
 446,447,Hyderabad,TastyBite Provision Store,Male,Food and beverages,27.66,10,276.6,2021-06-14,Credit card,15%,13.83,8.9,25.56556739,40.9282438,262.77,1003.42182
 447,448,Kanpur,Nature's Bounty Mart,Male,Fashion accessories,45.74,3,137.22,2021-07-03,Credit card,15%,6.861,6.5,92.28472522,11.82937421,130.359,316.09862
 448,449,Surat,MangoTree Grocery Express,Female,Health and beauty,27.07,1,27.07,2022-07-03,Credit card,15%,1.3535,5.3,78.95203879,47.39883946,25.7165,34.03146
@@ -454,7 +454,7 @@
 452,453,Bangalore,SpiceRoots Grocery House,Female,Food and beverages,63.61,5,318.05,2020-03-13,Ewallet,15%,15.9025,4.8,29.0848284,23.07468784,302.1475,1279.03012
 453,454,Kolkata,Farmers' Delight Emporium,Male,Health and beauty,25.0,1,25.0,2021-09-03,Ewallet,15%,1.25,5.5,10.60168672,48.91820298,23.75,30.9375
 454,455,Chennai,Shree Ganesh Provisions,Male,Electronic accessories,20.77,4,83.08,2021-04-06,Cash,15%,4.154,4.7,18.41240082,24.71146151,78.926,148.65172
-455,456,Ahemdabad,HealthyHub Grocery ,Female,Fashion accessories,29.56,5,147.8,2020-07-18,Cash,15%,7.39,6.9,82.37865237,16.1908689,140.41,355.32598
+455,456,Ahmedabad,HealthyHub Grocery ,Female,Fashion accessories,29.56,5,147.8,2020-07-18,Cash,15%,7.39,6.9,82.37865237,16.1908689,140.41,355.32598
 456,457,Hyderabad,Bharat Bazaar,Female,Food and beverages,77.4,9,696.6,2022-03-26,Credit card,15%,34.83,4.5,52.12425322,24.73940512,661.77,5306.48982
 457,458,Kanpur,Sapna Supermarket,Male,Electronic accessories,79.39,10,793.9,2022-02-15,Cash,15%,39.695,6.2,34.91749081,20.10210404,754.205,6781.5335
 458,459,Surat,FreshBasket Grocery Store,Female,Electronic accessories,46.57,10,465.7,2021-07-18,Cash,15%,23.285,7.6,11.82376708,21.8528982,442.415,2526.02666
@@ -464,7 +464,7 @@
 462,463,Bangalore,EcoFresh Grocery Haven,Female,Sports and travel,73.95,4,295.8,2020-08-16,Cash,15%,14.79,6.1,77.98899234,17.68056306,281.01,1127.02758
 463,464,Kolkata,Golden Harvest Provisions,Female,Food and beverages,22.62,1,22.62,2020-09-21,Cash,15%,1.131,6.4,94.39611286,26.09730546,21.489,27.48081
 464,465,Chennai,Sarvodaya Supermart,Male,Food and beverages,51.34,5,256.7,2021-02-28,Credit card,15%,12.835,9.1,83.7003032,46.25588479,243.865,882.70146
-465,466,Ahemdabad,Nirvana Grocer's Paradise,Female,Sports and travel,54.55,10,545.5,2022-07-09,Credit card,15%,27.275,7.1,32.83418218,25.04456347,518.225,3372.41738
+465,466,Ahmedabad,Nirvana Grocer's Paradise,Female,Sports and travel,54.55,10,545.5,2022-07-09,Credit card,15%,27.275,7.1,32.83418218,25.04456347,518.225,3372.41738
 466,467,Hyderabad,TastyBite Provision Store,Female,Health and beauty,37.15,7,260.05,2021-07-09,Credit card,15%,13.0025,7.7,24.93213844,8.043180542,247.0475,902.49702
 467,468,Kanpur,Nature's Bounty Mart,Male,Sports and travel,37.02,6,222.12,2020-05-25,Cash,15%,11.106,4.5,22.35543583,3.154420011,211.014,690.8243
 468,469,Surat,MangoTree Grocery Express,Male,Food and beverages,21.58,1,21.58,2020-06-12,Ewallet,15%,1.079,7.2,25.08009684,34.72991165,20.501,26.00412
@@ -474,7 +474,7 @@
 472,473,Bangalore,SpiceRoots Grocery House,Male,Fashion accessories,43.13,10,431.3,2021-01-24,Credit card,15%,21.565,5.5,87.0356284,15.4436103,409.735,2198.48706
 473,474,Kolkata,Farmers' Delight Emporium,Male,Health and beauty,72.57,8,580.56,2020-11-21,Cash,15%,29.028,4.6,93.32567992,8.404774498,551.532,3782.53418
 474,475,Chennai,Shree Ganesh Provisions,Female,Electronic accessories,64.44,5,322.2,2020-12-18,Cash,15%,16.11,6.6,28.99259605,17.79292928,306.09,1308.42198
-475,476,Ahemdabad,HealthyHub Grocery ,Male,Health and beauty,65.18,3,195.54,2022-10-06,Credit card,15%,9.777,6.3,14.34918977,33.11765796,185.763,558.78097
+475,476,Ahmedabad,HealthyHub Grocery ,Male,Health and beauty,65.18,3,195.54,2022-10-06,Credit card,15%,9.777,6.3,14.34918977,33.11765796,185.763,558.78097
 476,477,Hyderabad,Bharat Bazaar,Female,Sports and travel,33.26,5,166.3,2021-05-15,Credit card,15%,8.315,4.2,35.56839005,4.370233674,157.985,429.02906
 477,478,Kanpur,Sapna Supermarket,Male,Electronic accessories,84.07,4,336.28,2021-03-20,Ewallet,15%,16.814,4.4,59.56322159,37.74671107,319.466,1410.58027
 478,479,Surat,FreshBasket Grocery Store,Male,Sports and travel,34.37,10,343.7,2022-06-02,Ewallet,15%,17.185,6.7,73.72071358,36.50520243,326.515,1465.93206
@@ -484,7 +484,7 @@
 482,483,Bangalore,EcoFresh Grocery Haven,Male,Sports and travel,37.14,5,185.7,2021-08-29,Ewallet,15%,9.285,5.0,4.050092536,25.90884408,176.415,513.30266
 483,484,Kolkata,Golden Harvest Provisions,Male,Home and lifestyle,60.38,10,603.8,2022-03-06,Cash,15%,30.19,6.0,59.5156182,11.17387022,573.61,4067.25718
 484,485,Chennai,Sarvodaya Supermart,Female,Sports and travel,36.98,10,369.8,2022-04-20,Credit card,15%,18.49,7.0,8.946081605,13.35998647,351.31,1668.94438
-485,486,Ahemdabad,Nirvana Grocer's Paradise,Female,Sports and travel,49.49,4,197.96,2022-04-23,Ewallet,15%,9.898,6.6,65.80145228,23.5071421,188.062,570.24754
+485,486,Ahmedabad,Nirvana Grocer's Paradise,Female,Sports and travel,49.49,4,197.96,2022-04-23,Ewallet,15%,9.898,6.6,65.80145228,23.5071421,188.062,570.24754
 486,487,Hyderabad,TastyBite Provision Store,Female,Fashion accessories,41.09,10,410.9,2021-07-17,Cash,15%,20.545,7.3,0.736856368,7.505695448,390.355,2014.8687
 487,488,Kanpur,Nature's Bounty Mart,Male,Fashion accessories,37.15,4,148.6,2021-09-28,Ewallet,15%,7.43,8.3,99.94946638,48.498655,141.17,358.37862
 488,489,Surat,MangoTree Grocery Express,Male,Home and lifestyle,22.96,1,22.96,2022-03-23,Cash,15%,1.148,4.3,25.86833765,0.794393705,21.812,27.96804
@@ -494,7 +494,7 @@
 492,493,Bangalore,SpiceRoots Grocery House,Female,Health and beauty,25.32,8,202.56,2021-10-05,Ewallet,15%,10.128,8.7,91.28675403,14.80867664,192.432,592.35026
 493,494,Kolkata,Farmers' Delight Emporium,Female,Home and lifestyle,12.12,10,121.2,2022-07-14,Credit card,15%,6.06,8.4,17.810402,33.38389288,115.14,260.74968
 494,495,Chennai,Shree Ganesh Provisions,Male,Fashion accessories,99.89,2,199.78,2021-04-25,Ewallet,15%,9.989,7.1,45.8018808,37.62635074,189.791,578.94446
-495,496,Ahemdabad,HealthyHub Grocery ,Male,Sports and travel,75.92,8,607.36,2022-03-04,Cash,15%,30.368,5.5,15.77982672,4.732906055,576.992,4111.77861
+495,496,Ahmedabad,HealthyHub Grocery ,Male,Sports and travel,75.92,8,607.36,2022-03-04,Cash,15%,30.368,5.5,15.77982672,4.732906055,576.992,4111.77861
 496,497,Hyderabad,Bharat Bazaar,Female,Electronic accessories,63.22,2,126.44,2022-11-23,Cash,15%,6.322,8.5,16.26715148,21.97559194,120.118,278.3172
 497,498,Kanpur,Sapna Supermarket,Female,Food and beverages,90.24,6,541.44,2022-01-25,Cash,15%,27.072,6.2,69.54816665,10.40757644,514.368,3326.4341
 498,499,Surat,FreshBasket Grocery Store,Female,Sports and travel,98.13,1,98.13,2022-12-21,Cash,15%,4.9065,8.9,73.154781,14.98325376,93.2235,189.61022
@@ -504,7 +504,7 @@
 502,503,Bangalore,EcoFresh Grocery Haven,Male,Home and lifestyle,69.4,2,138.8,2020-07-28,Ewallet,15%,6.94,9.0,31.85821909,8.561404525,131.86,321.82168
 503,504,Kolkata,Golden Harvest Provisions,Female,Sports and travel,93.31,2,186.62,2021-05-25,Cash,15%,9.331,6.3,94.65414719,18.39498628,177.289,517.47673
 504,505,Chennai,Sarvodaya Supermart,Male,Sports and travel,88.45,1,88.45,2021-08-07,Credit card,15%,4.4225,9.5,48.75732884,1.482846126,84.0275,162.77232
-505,506,Ahemdabad,Nirvana Grocer's Paradise,Male,Electronic accessories,24.18,8,193.44,2021-11-24,Ewallet,15%,9.672,9.8,54.92705482,3.990032836,183.768,548.92082
+505,506,Ahmedabad,Nirvana Grocer's Paradise,Male,Electronic accessories,24.18,8,193.44,2021-11-24,Ewallet,15%,9.672,9.8,54.92705482,3.990032836,183.768,548.92082
 506,507,Hyderabad,TastyBite Provision Store,Female,Sports and travel,48.5,3,145.5,2022-02-21,Cash,15%,7.275,6.7,42.31948026,12.20743582,138.225,346.61738
 507,508,Kanpur,Nature's Bounty Mart,Female,Food and beverages,84.05,6,504.3,2020-02-12,Credit card,15%,25.215,7.7,58.69742885,38.36219241,479.085,2920.32566
 508,509,Surat,MangoTree Grocery Express,Male,Health and beauty,61.29,5,306.45,2022-03-12,Cash,15%,15.3225,7.0,7.550138002,20.64429406,291.1275,1198.61022
@@ -514,7 +514,7 @@
 512,513,Bangalore,SpiceRoots Grocery House,Female,Fashion accessories,54.28,7,379.96,2022-08-13,Ewallet,15%,18.998,9.3,32.15663494,22.08714777,360.962,1751.47122
 513,514,Kolkata,Farmers' Delight Emporium,Male,Electronic accessories,99.55,7,696.85,2022-08-29,Cash,15%,34.8425,7.6,10.36534118,34.76302252,662.0075,5310.04926
 514,515,Chennai,Shree Ganesh Provisions,Male,Sports and travel,58.39,7,408.73,2021-07-31,Credit card,15%,20.4365,8.2,85.44864624,46.7574449,388.2935,1995.80202
-515,516,Ahemdabad,HealthyHub Grocery ,Female,Fashion accessories,51.47,1,51.47,2020-07-19,Ewallet,15%,2.5735,8.5,26.15373231,18.74374296,48.8965,76.63703
+515,516,Ahmedabad,HealthyHub Grocery ,Female,Fashion accessories,51.47,1,51.47,2020-07-19,Ewallet,15%,2.5735,8.5,26.15373231,18.74374296,48.8965,76.63703
 516,517,Hyderabad,Bharat Bazaar,Male,Health and beauty,54.86,5,274.3,2020-11-26,Ewallet,15%,13.715,9.8,95.95015328,40.67373118,260.585,989.08466
 517,518,Kanpur,Sapna Supermarket,Male,Home and lifestyle,39.39,5,196.95,2021-12-23,Credit card,15%,9.8475,8.7,17.19862666,36.91669983,187.1025,565.44837
 518,519,Surat,FreshBasket Grocery Store,Male,Home and lifestyle,34.73,2,69.46,2022-04-09,Ewallet,15%,3.473,9.7,96.72104464,29.77797798,65.987,115.29457
@@ -524,7 +524,7 @@
 522,523,Bangalore,EcoFresh Grocery Haven,Female,Home and lifestyle,37.44,6,224.64,2022-04-03,Credit card,15%,11.232,5.9,57.09144246,38.9302865,213.408,704.03973
 523,524,Kolkata,Golden Harvest Provisions,Male,Health and beauty,62.87,2,125.74,2021-10-30,Cash,15%,6.287,5.0,39.11772216,47.85018461,119.453,275.9402
 524,525,Chennai,Sarvodaya Supermart,Male,Food and beverages,81.71,6,490.26,2021-12-09,Credit card,15%,24.513,8.0,9.845953583,46.15109955,465.747,2773.63124
-525,526,Ahemdabad,Nirvana Grocer's Paradise,Female,Sports and travel,91.41,5,457.05,2020-04-07,Ewallet,15%,22.8525,7.1,29.87843429,35.56569693,434.1975,2441.54967
+525,526,Ahmedabad,Nirvana Grocer's Paradise,Female,Sports and travel,91.41,5,457.05,2020-04-07,Ewallet,15%,22.8525,7.1,29.87843429,35.56569693,434.1975,2441.54967
 526,527,Hyderabad,TastyBite Provision Store,Male,Fashion accessories,39.21,4,156.84,2020-05-29,Credit card,15%,7.842,9.0,63.87963493,8.800221391,148.998,390.52846
 527,528,Kanpur,Nature's Bounty Mart,Male,Fashion accessories,59.86,2,119.72,2020-03-19,Ewallet,15%,5.986,6.7,34.5865514,1.239861055,113.734,255.88234
 528,529,Surat,MangoTree Grocery Express,Female,Food and beverages,54.36,10,543.6,2022-11-08,Credit card,15%,27.18,6.1,37.68568072,37.90065975,516.42,3350.85912
@@ -534,7 +534,7 @@
 532,533,Bangalore,SpiceRoots Grocery House,Male,Electronic accessories,22.95,10,229.5,2021-05-03,Ewallet,15%,11.475,8.2,93.60362537,6.584229783,218.025,729.86738
 533,534,Kolkata,Farmers' Delight Emporium,Female,Food and beverages,16.31,9,146.79,2021-03-03,Ewallet,15%,7.3395,8.4,13.35143497,31.90110962,139.4505,351.48939
 534,535,Chennai,Shree Ganesh Provisions,Female,Home and lifestyle,28.32,5,141.6,2021-02-08,Ewallet,15%,7.08,6.2,93.23832781,10.54643018,134.52,332.08032
-535,536,Ahemdabad,HealthyHub Grocery ,Male,Home and lifestyle,16.67,7,116.69,2022-08-16,Ewallet,15%,5.8345,7.4,47.32064648,4.199717408,110.8555,246.04728
+535,536,Ahmedabad,HealthyHub Grocery ,Male,Home and lifestyle,16.67,7,116.69,2022-08-16,Ewallet,15%,5.8345,7.4,47.32064648,4.199717408,110.8555,246.04728
 536,537,Hyderabad,Bharat Bazaar,Female,Fashion accessories,73.96,1,73.96,2021-05-06,Credit card,15%,3.698,5.0,87.64041321,46.06359531,70.262,125.92578
 537,538,Kanpur,Sapna Supermarket,Male,Home and lifestyle,97.94,1,97.94,2020-11-06,Ewallet,15%,4.897,6.9,3.262472199,16.16039951,93.043,189.06631
 538,539,Surat,FreshBasket Grocery Store,Female,Fashion accessories,73.05,4,292.2,2020-08-04,Credit card,15%,14.61,4.9,78.8804916,5.04716971,277.59,1103.31798
@@ -544,7 +544,7 @@
 542,543,Bangalore,EcoFresh Grocery Haven,Female,Sports and travel,20.18,4,80.72,2021-07-22,Credit card,15%,4.036,5.0,28.59077244,27.06927908,76.684,142.61932
 543,544,Kolkata,Golden Harvest Provisions,Male,Electronic accessories,18.77,6,112.62,2021-07-01,Credit card,15%,5.631,5.5,11.10826173,49.29490619,106.989,233.11101
 544,545,Chennai,Sarvodaya Supermart,Female,Food and beverages,71.2,1,71.2,2021-10-25,Credit card,15%,3.56,9.2,11.95482298,30.51184862,67.64,119.35968
-545,546,Ahemdabad,Nirvana Grocer's Paradise,Male,Home and lifestyle,38.81,4,155.24,2021-02-26,Ewallet,15%,7.762,4.9,68.31387078,11.62863217,147.478,384.18485
+545,546,Ahmedabad,Nirvana Grocer's Paradise,Male,Home and lifestyle,38.81,4,155.24,2021-02-26,Ewallet,15%,7.762,4.9,68.31387078,11.62863217,147.478,384.18485
 546,547,Hyderabad,TastyBite Provision Store,Female,Fashion accessories,29.42,10,294.2,2020-03-23,Ewallet,15%,14.71,8.9,10.76241751,6.813219968,279.49,1116.45958
 547,548,Kanpur,Nature's Bounty Mart,Male,Sports and travel,60.95,9,548.55,2021-11-23,Credit card,15%,27.4275,6.0,84.99605466,25.22659338,521.1225,3407.16747
 548,549,Surat,MangoTree Grocery Express,Female,Sports and travel,51.54,5,257.7,2021-03-24,Cash,15%,12.885,4.2,72.38767256,11.00108772,244.815,888.58826
@@ -554,7 +554,7 @@
 552,553,Bangalore,SpiceRoots Grocery House,Female,Health and beauty,58.24,9,524.16,2021-02-05,Cash,15%,26.208,9.7,34.19462143,13.82578028,497.952,3134.2252
 553,554,Kolkata,Farmers' Delight Emporium,Male,Electronic accessories,22.21,6,133.26,2020-04-17,Credit card,15%,6.663,8.6,24.41265271,42.23471059,126.597,301.96316
 554,555,Chennai,Shree Ganesh Provisions,Male,Electronic accessories,19.32,7,135.24,2021-04-29,Cash,15%,6.762,6.9,98.8366824,7.07587731,128.478,308.99365
-555,556,Ahemdabad,HealthyHub Grocery ,Male,Home and lifestyle,37.48,3,112.44,2020-12-02,Credit card,15%,5.622,7.7,75.51097919,44.07064682,106.818,232.54616
+555,556,Ahmedabad,HealthyHub Grocery ,Male,Home and lifestyle,37.48,3,112.44,2020-12-02,Credit card,15%,5.622,7.7,75.51097919,44.07064682,106.818,232.54616
 556,557,Hyderabad,Bharat Bazaar,Female,Fashion accessories,72.04,2,144.08,2020-02-18,Cash,15%,7.204,9.5,95.73943126,23.66102528,136.876,341.29094
 557,558,Kanpur,Sapna Supermarket,Female,Food and beverages,98.52,10,985.2,2021-02-17,Ewallet,15%,49.26,4.5,12.16635318,22.75835218,935.94,10206.08088
 558,559,Surat,FreshBasket Grocery Store,Male,Food and beverages,41.66,6,249.96,2020-01-03,Ewallet,15%,12.498,5.6,78.28760177,39.81544553,237.462,843.52002
@@ -564,7 +564,7 @@
 562,563,Bangalore,EcoFresh Grocery Haven,Female,Electronic accessories,42.42,8,339.36,2020-08-05,Ewallet,15%,16.968,5.7,20.95225945,3.237826833,322.392,1433.42949
 563,564,Kolkata,Golden Harvest Provisions,Male,Electronic accessories,74.51,6,447.06,2020-12-31,Ewallet,15%,22.353,5.0,47.16310092,4.899110834,424.707,2345.75511
 564,565,Chennai,Sarvodaya Supermart,Male,Fashion accessories,99.25,2,198.5,2020-07-30,Cash,15%,9.925,9.0,4.351757267,3.49745747,188.575,572.82138
-565,566,Ahemdabad,Nirvana Grocer's Paradise,Female,Food and beverages,81.21,10,812.1,2022-05-13,Credit card,15%,40.605,6.3,0.736232869,20.07228164,771.495,7077.4109
+565,566,Ahmedabad,Nirvana Grocer's Paradise,Female,Food and beverages,81.21,10,812.1,2022-05-13,Credit card,15%,40.605,6.3,0.736232869,20.07228164,771.495,7077.4109
 566,567,Hyderabad,TastyBite Provision Store,Female,Sports and travel,49.33,10,493.3,2022-08-26,Credit card,15%,24.665,9.4,67.37242862,25.6361084,468.635,2805.07646
 567,568,Kanpur,Nature's Bounty Mart,Female,Fashion accessories,65.74,9,591.66,2022-04-09,Cash,15%,29.583,7.7,85.88633431,47.21836608,562.077,3917.24478
 568,569,Surat,MangoTree Grocery Express,Female,Fashion accessories,79.86,7,559.02,2021-05-22,Credit card,15%,27.951,5.5,80.78891152,25.24220239,531.069,3527.80192
@@ -574,7 +574,7 @@
 572,573,Bangalore,SpiceRoots Grocery House,Male,Food and beverages,10.13,7,70.91,2020-06-20,Ewallet,15%,3.5455,8.3,33.31085252,23.88093826,67.3645,118.67817
 573,574,Kolkata,Farmers' Delight Emporium,Male,Food and beverages,72.39,2,144.78,2022-12-24,Credit card,15%,7.239,8.1,59.69173049,1.97792224,137.541,343.91186
 574,575,Chennai,Shree Ganesh Provisions,Male,Sports and travel,85.91,5,429.55,2021-09-05,Credit card,15%,21.4775,8.6,14.19512747,37.7531712,408.0725,2182.42542
-575,576,Ahemdabad,HealthyHub Grocery ,Male,Fashion accessories,81.31,7,569.17,2021-06-21,Ewallet,15%,28.4585,6.3,69.68586337,42.93449593,540.7115,3646.73765
+575,576,Ahmedabad,HealthyHub Grocery ,Male,Fashion accessories,81.31,7,569.17,2021-06-21,Ewallet,15%,28.4585,6.3,69.68586337,42.93449593,540.7115,3646.73765
 576,577,Hyderabad,Bharat Bazaar,Male,Food and beverages,60.3,4,241.2,2022-09-27,Cash,15%,12.06,5.8,97.32889444,48.76293591,229.14,793.88568
 577,578,Kanpur,Sapna Supermarket,Male,Food and beverages,31.77,4,127.08,2022-11-18,Ewallet,15%,6.354,6.2,34.12828406,35.95125608,120.726,280.4986
 578,579,Surat,FreshBasket Grocery Store,Female,Health and beauty,64.27,4,257.08,2021-02-04,Cash,15%,12.854,7.7,72.33091234,6.606849238,244.226,884.9362
@@ -584,7 +584,7 @@
 582,583,Bangalore,EcoFresh Grocery Haven,Female,Fashion accessories,92.98,2,185.96,2021-10-06,Credit card,15%,9.298,8.0,96.33982559,42.87035872,176.662,514.48066
 583,584,Kolkata,Golden Harvest Provisions,Female,Fashion accessories,18.08,4,72.32,2021-07-13,Credit card,15%,3.616,9.5,65.6235106,21.19552889,68.704,122.00673
 584,585,Chennai,Sarvodaya Supermart,Male,Sports and travel,63.06,3,189.18,2022-06-11,Ewallet,15%,9.459,7.0,21.51445373,5.699330906,179.721,529.17619
-585,586,Ahemdabad,Nirvana Grocer's Paradise,Male,Health and beauty,51.71,4,206.84,2022-11-28,Credit card,15%,10.342,9.8,37.94866168,14.63980652,196.498,613.27646
+585,586,Ahmedabad,Nirvana Grocer's Paradise,Male,Health and beauty,51.71,4,206.84,2022-11-28,Credit card,15%,10.342,9.8,37.94866168,14.63980652,196.498,613.27646
 586,587,Hyderabad,TastyBite Provision Store,Female,Food and beverages,52.34,3,157.02,2021-12-22,Cash,15%,7.851,9.2,3.809421533,42.08086703,149.169,391.24516
 587,588,Kanpur,Nature's Bounty Mart,Female,Sports and travel,43.06,5,215.3,2020-09-27,Ewallet,15%,10.765,7.7,53.31921917,30.3016129,204.535,655.66386
 588,589,Surat,MangoTree Grocery Express,Male,Fashion accessories,59.61,10,596.1,2020-07-27,Cash,15%,29.805,5.3,31.69579479,40.03786323,566.295,3971.7845
@@ -594,7 +594,7 @@
 592,593,Bangalore,SpiceRoots Grocery House,Female,Sports and travel,45.58,1,45.58,2021-04-12,Cash,15%,2.279,9.8,33.64311521,24.3597136,43.301,65.3166
 593,594,Kolkata,Farmers' Delight Emporium,Female,Sports and travel,75.2,3,225.6,2021-03-03,Ewallet,15%,11.28,4.8,38.09543032,40.10540689,214.32,709.10592
 594,595,Chennai,Shree Ganesh Provisions,Male,Sports and travel,96.8,3,290.4,2022-07-13,Cash,15%,14.52,5.3,28.66420426,22.29360192,275.88,1091.55552
-595,596,Ahemdabad,HealthyHub Grocery ,Male,Health and beauty,14.82,3,44.46,2021-04-26,Credit card,15%,2.223,8.7,48.39675363,25.18651387,42.237,63.23857
+595,596,Ahmedabad,HealthyHub Grocery ,Male,Health and beauty,14.82,3,44.46,2021-04-26,Credit card,15%,2.223,8.7,48.39675363,25.18651387,42.237,63.23857
 596,597,Hyderabad,Bharat Bazaar,Male,Food and beverages,52.2,3,156.6,2021-10-04,Credit card,15%,7.83,9.5,21.09696627,10.52728741,148.77,389.57382
 597,598,Kanpur,Sapna Supermarket,Female,Sports and travel,46.66,9,419.94,2021-11-28,Ewallet,15%,20.997,5.3,59.67141443,19.61717111,398.943,2095.26123
 598,599,Surat,FreshBasket Grocery Store,Female,Fashion accessories,36.85,5,184.25,2020-03-05,Cash,15%,9.2125,9.2,11.13222519,36.94572335,175.0375,506.75659
@@ -604,7 +604,7 @@
 602,603,Bangalore,EcoFresh Grocery Haven,Male,Food and beverages,77.56,10,775.6,2020-07-21,Ewallet,15%,38.78,6.9,32.20450987,25.33223889,736.82,6490.37592
 603,604,Kolkata,Golden Harvest Provisions,Female,Sports and travel,54.51,6,327.06,2021-05-04,Ewallet,15%,16.353,7.8,35.6879313,34.52566217,310.707,1343.25831
 604,605,Chennai,Sarvodaya Supermart,Female,Fashion accessories,51.89,7,363.23,2020-07-01,Cash,15%,18.1615,4.5,33.75201182,16.56105681,345.0685,1616.62231
-605,606,Ahemdabad,Nirvana Grocer's Paradise,Male,Home and lifestyle,31.75,4,127.0,2020-10-22,Cash,15%,6.35,8.6,3.765518967,28.30907157,120.65,280.2255
+605,606,Ahmedabad,Nirvana Grocer's Paradise,Male,Home and lifestyle,31.75,4,127.0,2020-10-22,Cash,15%,6.35,8.6,3.765518967,28.30907157,120.65,280.2255
 606,607,Hyderabad,TastyBite Provision Store,Female,Fashion accessories,53.65,7,375.55,2021-08-24,Ewallet,15%,18.7775,5.2,5.397810208,11.65150043,356.7725,1715.40912
 607,608,Kanpur,Nature's Bounty Mart,Female,Food and beverages,49.79,4,199.16,2020-07-15,Credit card,15%,9.958,6.4,49.69974224,43.30786998,189.202,575.9747
 608,609,Surat,MangoTree Grocery Express,Male,Fashion accessories,30.61,1,30.61,2022-09-06,Ewallet,15%,1.5305,5.2,40.08623864,49.84332757,29.0795,39.51123
@@ -614,7 +614,7 @@
 612,613,Bangalore,SpiceRoots Grocery House,Male,Fashion accessories,93.22,3,279.66,2020-07-14,Cash,15%,13.983,7.2,85.63456308,35.76503928,265.677,1022.6523
 613,614,Kolkata,Farmers' Delight Emporium,Male,Sports and travel,80.93,1,80.93,2020-01-26,Credit card,15%,4.0465,9.0,50.84764355,26.54957909,76.8835,143.15182
 614,615,Chennai,Shree Ganesh Provisions,Male,Food and beverages,67.45,10,674.5,2020-07-23,Ewallet,15%,33.725,4.2,57.98215867,44.55008764,640.775,4996.52738
-615,616,Ahemdabad,HealthyHub Grocery ,Female,Sports and travel,38.72,9,348.48,2020-10-24,Ewallet,15%,17.424,4.2,24.75439734,35.51116738,331.056,1502.14395
+615,616,Ahmedabad,HealthyHub Grocery ,Female,Sports and travel,38.72,9,348.48,2020-10-24,Ewallet,15%,17.424,4.2,24.75439734,35.51116738,331.056,1502.14395
 616,617,Hyderabad,Bharat Bazaar,Male,Sports and travel,72.6,6,435.6,2021-05-26,Cash,15%,21.78,6.9,36.75949194,38.41260135,413.82,2238.19992
 617,618,Kanpur,Sapna Supermarket,Male,Electronic accessories,87.91,5,439.55,2022-06-27,Ewallet,15%,21.9775,4.4,2.957465301,8.748057115,417.5725,2274.98992
 618,619,Surat,FreshBasket Grocery Store,Male,Food and beverages,98.53,6,591.18,2020-02-02,Credit card,15%,29.559,4.0,30.15824282,15.64868624,561.621,3911.37103
@@ -624,7 +624,7 @@
 622,623,Bangalore,EcoFresh Grocery Haven,Female,Home and lifestyle,94.59,7,662.13,2022-10-19,Credit card,15%,33.1065,4.9,99.53964869,0.97794441,629.0235,4827.0833
 623,624,Kolkata,Golden Harvest Provisions,Female,Fashion accessories,83.25,10,832.5,2020-04-03,Credit card,15%,41.625,4.4,40.32897989,1.204510894,790.875,7416.53438
 624,625,Chennai,Sarvodaya Supermart,Male,Fashion accessories,91.35,1,91.35,2022-08-16,Cash,15%,4.5675,6.8,8.932525833,40.87291477,86.7825,170.62581
-625,626,Ahemdabad,Nirvana Grocer's Paradise,Female,Food and beverages,78.88,2,157.76,2020-06-01,Cash,15%,7.888,9.1,83.6872922,15.96193347,149.872,394.19807
+625,626,Ahmedabad,Nirvana Grocer's Paradise,Female,Food and beverages,78.88,2,157.76,2020-06-01,Cash,15%,7.888,9.1,83.6872922,15.96193347,149.872,394.19807
 626,627,Hyderabad,TastyBite Provision Store,Male,Sports and travel,60.87,2,121.74,2020-09-18,Ewallet,15%,6.087,8.7,29.10657971,10.79777632,115.653,262.53596
 627,628,Kanpur,Nature's Bounty Mart,Male,Health and beauty,82.58,10,825.8,2022-10-04,Cash,15%,41.29,5.0,83.69478241,2.058146002,784.51,7304.28358
 628,629,Surat,MangoTree Grocery Express,Male,Home and lifestyle,53.3,3,159.9,2022-04-27,Ewallet,15%,7.995,7.5,37.5702011,35.79113024,151.905,402.7961
@@ -634,7 +634,7 @@
 632,633,Bangalore,SpiceRoots Grocery House,Male,Food and beverages,83.77,2,167.54,2021-05-18,Credit card,15%,8.377,7.0,29.89764212,4.953128421,159.163,434.20169
 633,634,Kolkata,Farmers' Delight Emporium,Male,Home and lifestyle,99.7,3,299.1,2021-08-28,Ewallet,15%,14.955,4.7,66.29681203,49.01435488,284.145,1148.9777
 634,635,Chennai,Shree Ganesh Provisions,Male,Food and beverages,79.91,3,239.73,2021-08-31,Credit card,15%,11.9865,5.0,3.630907568,24.67748643,227.7435,785.69949
-635,636,Ahemdabad,HealthyHub Grocery ,Male,Health and beauty,66.47,10,664.7,2020-08-27,Credit card,15%,33.235,5.0,78.20974016,13.29766987,631.465,4862.04786
+635,636,Ahmedabad,HealthyHub Grocery ,Male,Health and beauty,66.47,10,664.7,2020-08-27,Credit card,15%,33.235,5.0,78.20974016,13.29766987,631.465,4862.04786
 636,637,Hyderabad,Bharat Bazaar,Male,Health and beauty,28.95,7,202.65,2021-02-12,Credit card,15%,10.1325,6.0,90.57930176,39.79681382,192.5175,592.78671
 637,638,Kanpur,Sapna Supermarket,Female,Electronic accessories,46.2,1,46.2,2022-04-02,Cash,15%,2.31,6.3,69.79078831,18.44871484,43.89,66.47718
 638,639,Surat,FreshBasket Grocery Store,Female,Food and beverages,17.63,5,88.15,2020-10-13,Cash,15%,4.4075,8.5,30.81390784,13.5557678,83.7425,161.96901
@@ -644,7 +644,7 @@
 642,643,Bangalore,EcoFresh Grocery Haven,Male,Electronic accessories,55.67,2,111.34,2021-01-05,Ewallet,15%,5.567,6.0,41.69779113,12.63499317,105.773,229.10766
 643,644,Kolkata,Golden Harvest Provisions,Female,Food and beverages,72.52,8,580.16,2021-05-12,Credit card,15%,29.008,4.0,31.35451245,0.409358735,551.152,3777.72344
 644,645,Chennai,Sarvodaya Supermart,Male,Electronic accessories,12.05,5,60.25,2022-02-26,Ewallet,15%,3.125,5.5,48.58845878,21.51171245,57.125,94.66781
-645,646,Ahemdabad,Nirvana Grocer's Paradise,Male,Home and lifestyle,19.36,9,174.24,2021-08-19,Ewallet,15%,8.712,8.7,90.25800176,48.23044004,165.528,462.65599
+645,646,Ahmedabad,Nirvana Grocer's Paradise,Male,Home and lifestyle,19.36,9,174.24,2021-08-19,Ewallet,15%,8.712,8.7,90.25800176,48.23044004,165.528,462.65599
 646,647,Hyderabad,TastyBite Provision Store,Male,Health and beauty,70.21,6,421.26,2022-03-17,Cash,15%,21.063,7.4,61.29608984,45.83391454,400.197,2107.12988
 647,648,Kanpur,Nature's Bounty Mart,Male,Fashion accessories,33.63,1,33.63,2021-10-31,Cash,15%,1.6815,5.6,36.92201046,5.804574471,31.9485,44.37428
 648,649,Surat,MangoTree Grocery Express,Female,Sports and travel,15.49,2,30.98,2021-10-02,Cash,15%,1.549,6.3,98.85845614,45.35219688,29.431,40.09772
@@ -654,7 +654,7 @@
 652,653,Bangalore,SpiceRoots Grocery House,Male,Home and lifestyle,72.78,10,727.8,2021-10-09,Cash,15%,36.39,7.3,9.69546552,35.29353087,691.41,5759.88198
 653,654,Kolkata,Farmers' Delight Emporium,Male,Sports and travel,37.32,9,335.88,2021-08-19,Ewallet,15%,16.794,5.1,25.03309901,7.455148958,319.086,1407.62606
 654,655,Chennai,Shree Ganesh Provisions,Male,Fashion accessories,60.18,4,240.72,2022-08-04,Credit card,15%,12.036,9.4,32.92567883,9.654807795,228.684,791.20812
-655,656,Ahemdabad,HealthyHub Grocery ,Female,Electronic accessories,15.69,3,47.07,2020-01-15,Credit card,15%,2.3535,5.8,50.06686629,31.24660678,44.7165,68.11806
+655,656,Ahmedabad,HealthyHub Grocery ,Female,Electronic accessories,15.69,3,47.07,2020-01-15,Credit card,15%,2.3535,5.8,50.06686629,31.24660678,44.7165,68.11806
 656,657,Hyderabad,Bharat Bazaar,Female,Electronic accessories,99.69,1,99.69,2020-12-13,Credit card,15%,4.9845,8.0,93.53671671,13.10520201,94.7055,194.10191
 657,658,Kanpur,Sapna Supermarket,Female,Fashion accessories,88.15,3,264.45,2022-04-26,Ewallet,15%,13.2225,7.9,67.7272179,47.60675705,251.2275,928.82112
 658,659,Surat,FreshBasket Grocery Store,Female,Sports and travel,27.93,5,139.65,2020-12-03,Cash,15%,6.9825,5.9,74.00911901,42.37279184,132.6675,324.92016
@@ -664,7 +664,7 @@
 662,663,Bangalore,EcoFresh Grocery Haven,Female,Fashion accessories,58.75,6,352.5,2021-09-01,Credit card,15%,17.625,5.9,83.39142101,28.92955402,334.875,1532.93438
 663,664,Kolkata,Golden Harvest Provisions,Female,Food and beverages,87.1,10,871.0,2020-11-05,Credit card,15%,43.55,9.9,20.74589213,37.21394812,827.45,8078.0895
 664,665,Chennai,Sarvodaya Supermart,Female,Sports and travel,98.8,2,197.6,2020-12-15,Cash,15%,9.88,7.7,54.40211884,13.04860493,187.72,568.53472
-665,666,Ahemdabad,Nirvana Grocer's Paradise,Female,Fashion accessories,48.63,4,194.52,2022-04-02,Ewallet,15%,9.726,7.6,86.36021772,28.3677626,184.794,553.98129
+665,666,Ahmedabad,Nirvana Grocer's Paradise,Female,Fashion accessories,48.63,4,194.52,2022-04-02,Ewallet,15%,9.726,7.6,86.36021772,28.3677626,184.794,553.98129
 666,667,Hyderabad,TastyBite Provision Store,Male,Food and beverages,57.74,3,173.22,2020-10-26,Ewallet,15%,8.661,7.7,99.87547642,28.05052406,164.559,458.2691
 667,668,Kanpur,Nature's Bounty Mart,Female,Health and beauty,17.97,4,71.88,2020-05-01,Ewallet,15%,3.594,6.4,7.82975995,46.59845538,68.286,120.96398
 668,669,Surat,MangoTree Grocery Express,Female,Health and beauty,47.71,6,286.26,2022-02-15,Ewallet,15%,14.313,4.4,59.60490655,30.45288196,271.947,1064.73548
@@ -674,7 +674,7 @@
 672,673,Bangalore,SpiceRoots Grocery House,Female,Health and beauty,73.41,3,220.23,2020-06-22,Ewallet,15%,11.115,4.0,65.43758798,47.76498532,209.115,680.76396
 673,674,Kolkata,Farmers' Delight Emporium,Male,Health and beauty,33.64,8,269.12,2020-01-06,Credit card,15%,13.456,9.3,81.61746038,6.344148576,255.664,957.16296
 674,675,Chennai,Shree Ganesh Provisions,Female,Electronic accessories,45.48,10,454.8,2022-04-26,Credit card,15%,22.74,4.8,24.11192254,34.10191285,432.06,2419.80888
-675,676,Ahemdabad,HealthyHub Grocery ,Male,Fashion accessories,83.77,2,167.54,2021-08-29,Cash,15%,8.377,4.6,68.84496882,20.36666134,159.163,434.20169
+675,676,Ahmedabad,HealthyHub Grocery ,Male,Fashion accessories,83.77,2,167.54,2021-08-29,Cash,15%,8.377,4.6,68.84496882,20.36666134,159.163,434.20169
 676,677,Hyderabad,Bharat Bazaar,Female,Sports and travel,64.08,7,448.56,2022-05-13,Credit card,15%,22.428,7.3,80.80414173,19.53781959,426.132,2360.0177
 677,678,Kanpur,Sapna Supermarket,Female,Food and beverages,73.47,4,293.88,2021-06-21,Cash,15%,14.694,6.0,9.122694362,8.531066322,279.186,1114.35182
 678,679,Surat,FreshBasket Grocery Store,Male,Health and beauty,58.95,10,589.5,2022-03-23,Ewallet,15%,29.475,8.1,56.79803606,14.98696058,560.025,3890.84738
@@ -684,7 +684,7 @@
 682,683,Bangalore,EcoFresh Grocery Haven,Female,Fashion accessories,49.32,6,295.92,2020-08-22,Ewallet,15%,14.796,7.1,93.54629333,35.17914883,281.124,1127.82214
 683,684,Kolkata,Golden Harvest Provisions,Male,Fashion accessories,21.48,2,42.96,2020-03-28,Ewallet,15%,2.148,6.6,31.64488057,46.32568022,40.812,60.49284
 684,685,Chennai,Sarvodaya Supermart,Female,Sports and travel,23.08,6,138.48,2020-04-06,Ewallet,15%,6.924,4.9,67.65800119,7.875913371,131.556,320.65875
-685,686,Ahemdabad,Nirvana Grocer's Paradise,Female,Home and lifestyle,49.1,2,98.2,2020-06-14,Credit card,15%,4.91,6.4,89.8965337,34.13471933,93.29,189.81078
+685,686,Ahmedabad,Nirvana Grocer's Paradise,Female,Home and lifestyle,49.1,2,98.2,2020-06-14,Credit card,15%,4.91,6.4,89.8965337,34.13471933,93.29,189.81078
 686,687,Hyderabad,TastyBite Provision Store,Female,Sports and travel,64.83,2,129.66,2020-08-31,Credit card,15%,6.483,8.0,53.92321355,5.310411269,123.177,289.3713
 687,688,Kanpur,Nature's Bounty Mart,Male,Home and lifestyle,63.56,10,635.6,2020-02-02,Cash,15%,31.78,4.3,35.68164904,33.47925778,603.82,4473.47992
 688,689,Surat,MangoTree Grocery Express,Male,Sports and travel,72.88,2,145.76,2021-05-05,Cash,15%,7.288,6.1,72.80134117,30.82832515,138.472,347.59679
@@ -694,7 +694,7 @@
 692,693,Bangalore,SpiceRoots Grocery House,Male,Health and beauty,48.63,10,486.3,2022-09-19,Cash,15%,24.315,8.8,41.11264771,25.47292999,461.985,2732.93306
 693,694,Kolkata,Farmers' Delight Emporium,Female,Fashion accessories,73.38,7,513.66,2021-11-21,Cash,15%,25.683,9.5,35.8111069,20.168343,487.977,3020.20266
 694,695,Chennai,Shree Ganesh Provisions,Female,Food and beverages,52.6,9,473.4,2020-04-10,Cash,15%,23.67,7.6,55.75628127,43.90777053,449.73,2602.42182
-695,696,Ahemdabad,HealthyHub Grocery ,Female,Home and lifestyle,87.37,5,436.85,2020-07-22,Cash,15%,21.8425,6.6,1.802818355,10.5709807,415.0075,2249.81026
+695,696,Ahmedabad,HealthyHub Grocery ,Female,Home and lifestyle,87.37,5,436.85,2020-07-22,Cash,15%,21.8425,6.6,1.802818355,10.5709807,415.0075,2249.81026
 696,697,Hyderabad,Bharat Bazaar,Female,Sports and travel,27.04,4,108.16,2022-06-02,Ewallet,15%,5.408,6.9,13.45637528,34.93934111,102.752,219.29656
 697,698,Kanpur,Sapna Supermarket,Male,Home and lifestyle,62.19,4,248.76,2021-01-22,Ewallet,15%,12.438,4.3,73.54958488,15.87429541,236.322,836.63461
 698,699,Surat,FreshBasket Grocery Store,Male,Electronic accessories,69.58,9,626.22,2022-12-28,Credit card,15%,31.311,7.8,88.49157701,23.43977039,594.909,4351.65914
@@ -704,7 +704,7 @@
 702,703,Bangalore,EcoFresh Grocery Haven,Female,Fashion accessories,19.77,10,197.7,2020-08-27,Credit card,15%,9.885,5.0,55.16529089,40.70708707,187.815,569.01026
 703,704,Kolkata,Golden Harvest Provisions,Male,Health and beauty,80.47,9,724.23,2021-07-27,Cash,15%,36.2115,9.2,3.951872179,15.91007961,688.0185,5707.06638
 704,705,Chennai,Sarvodaya Supermart,Female,Home and lifestyle,88.39,9,795.51,2022-10-06,Cash,15%,39.7755,6.3,64.48117256,27.16381057,755.7345,6807.45352
-705,706,Ahemdabad,Nirvana Grocer's Paradise,Male,Health and beauty,71.77,7,502.39,2021-06-02,Cash,15%,25.1195,8.9,45.75638717,45.67422083,477.2705,2900.14927
+705,706,Ahmedabad,Nirvana Grocer's Paradise,Male,Health and beauty,71.77,7,502.39,2021-06-02,Cash,15%,25.1195,8.9,45.75638717,45.67422083,477.2705,2900.14927
 706,707,Hyderabad,TastyBite Provision Store,Female,Electronic accessories,43.0,4,172.0,2022-06-22,Ewallet,15%,8.6,7.6,43.78212504,33.09920687,163.4,453.048
 707,708,Kanpur,Nature's Bounty Mart,Male,Food and beverages,68.98,1,68.98,2020-05-30,Cash,15%,3.449,4.8,70.69377399,38.3840958,65.531,114.18328
 708,709,Surat,MangoTree Grocery Express,Male,Fashion accessories,15.62,8,124.96,2020-07-27,Ewallet,15%,6.248,9.1,46.87391885,24.77869365,118.712,273.30252
@@ -714,7 +714,7 @@
 712,713,Bangalore,SpiceRoots Grocery House,Female,Electronic accessories,77.63,9,698.67,2021-06-30,Ewallet,15%,34.9335,7.2,23.59766499,21.29634453,663.7365,5335.99781
 713,714,Kolkata,Farmers' Delight Emporium,Female,Health and beauty,13.85,9,124.65,2020-03-16,Ewallet,15%,6.2325,6.0,13.5506641,4.185362168,118.4175,272.25741
 714,715,Chennai,Shree Ganesh Provisions,Male,Fashion accessories,98.7,8,789.6,2020-10-26,Ewallet,15%,39.48,8.5,33.87802062,19.43228368,750.12,6712.54752
-715,716,Ahemdabad,HealthyHub Grocery ,Female,Health and beauty,35.68,5,178.4,2021-07-14,Credit card,15%,8.92,6.6,60.2292743,31.9248961,169.48,480.75232
+715,716,Ahmedabad,HealthyHub Grocery ,Female,Health and beauty,35.68,5,178.4,2021-07-14,Credit card,15%,8.92,6.6,60.2292743,31.9248961,169.48,480.75232
 716,717,Hyderabad,Bharat Bazaar,Female,Fashion accessories,71.46,7,500.22,2021-04-08,Ewallet,15%,25.11,4.5,22.35764033,3.833771616,475.11,2876.81524
 717,718,Kanpur,Sapna Supermarket,Male,Electronic accessories,11.94,3,35.82,2021-12-07,Credit card,15%,1.791,8.1,50.47018507,32.3577606,34.029,48.00919
 718,719,Surat,FreshBasket Grocery Store,Male,Fashion accessories,45.38,3,136.14,2021-12-25,Credit card,15%,6.807,7.2,33.13891982,41.72243835,129.333,312.21395
@@ -724,7 +724,7 @@
 722,723,Bangalore,EcoFresh Grocery Haven,Male,Home and lifestyle,44.12,3,132.36,2021-09-08,Credit card,15%,6.618,7.9,43.5769223,33.48873073,125.742,298.79211
 723,724,Kolkata,Golden Harvest Provisions,Female,Food and beverages,36.77,7,257.39,2022-04-23,Cash,15%,12.8695,7.4,90.5445558,38.90397687,244.5205,886.76132
 724,725,Chennai,Sarvodaya Supermart,Male,Food and beverages,23.34,4,93.36,2021-01-04,Ewallet,15%,4.668,7.4,17.39897602,17.95543507,88.692,176.16285
-725,726,Ahemdabad,Nirvana Grocer's Paradise,Female,Health and beauty,28.5,8,228.0,2020-12-07,Cash,15%,11.4,6.6,1.591931199,28.13804193,216.6,721.848
+725,726,Ahmedabad,Nirvana Grocer's Paradise,Female,Health and beauty,28.5,8,228.0,2020-12-07,Cash,15%,11.4,6.6,1.591931199,28.13804193,216.6,721.848
 726,727,Hyderabad,TastyBite Provision Store,Male,Home and lifestyle,55.57,3,166.71,2020-06-10,Credit card,15%,8.3355,5.9,75.63210453,42.49919203,158.3745,430.73613
 727,728,Kanpur,Nature's Bounty Mart,Male,Sports and travel,69.74,10,697.4,2021-06-02,Credit card,15%,34.87,8.9,51.5469718,42.54167414,662.53,5317.88422
 728,729,Surat,MangoTree Grocery Express,Male,Fashion accessories,97.26,4,389.04,2020-03-02,Ewallet,15%,19.452,6.8,13.55838767,45.7867873,369.588,1826.88516
@@ -734,7 +734,7 @@
 732,733,Bangalore,SpiceRoots Grocery House,Male,Fashion accessories,19.7,1,19.7,2022-09-09,Ewallet,15%,0.985,9.5,43.33703256,16.1475211,18.715,23.38686
 733,734,Kolkata,Farmers' Delight Emporium,Male,Electronic accessories,75.88,7,531.16,2021-04-09,Ewallet,15%,26.558,8.9,63.44200501,12.14216362,504.602,3211.40398
 734,735,Chennai,Shree Ganesh Provisions,Male,Food and beverages,53.72,1,53.72,2022-06-20,Ewallet,15%,2.686,6.4,21.59952044,9.71843451,51.034,81.13546
-735,736,Ahemdabad,HealthyHub Grocery ,Male,Health and beauty,81.95,10,819.5,2022-06-25,Credit card,15%,40.975,6.0,46.04810086,43.94375301,778.525,7199.51238
+735,736,Ahmedabad,HealthyHub Grocery ,Male,Health and beauty,81.95,10,819.5,2022-06-25,Credit card,15%,40.975,6.0,46.04810086,43.94375301,778.525,7199.51238
 736,737,Hyderabad,Bharat Bazaar,Female,Home and lifestyle,81.2,7,568.4,2020-09-27,Credit card,15%,28.42,8.1,6.660915879,26.9907571,539.98,3637.64632
 737,738,Kanpur,Sapna Supermarket,Male,Electronic accessories,58.76,10,587.6,2021-04-09,Ewallet,15%,29.38,9.0,69.29719452,38.3426765,558.22,3867.70072
 738,739,Surat,FreshBasket Grocery Store,Male,Electronic accessories,91.56,8,732.48,2022-07-19,Ewallet,15%,36.624,6.0,51.2150822,28.82242221,695.856,5829.48603
@@ -744,7 +744,7 @@
 742,743,Bangalore,EcoFresh Grocery Haven,Female,Sports and travel,71.63,2,143.26,2021-11-29,Ewallet,15%,7.163,8.8,70.72768693,24.53106229,136.097,338.23256
 743,744,Kolkata,Golden Harvest Provisions,Male,Home and lifestyle,37.69,2,75.38,2022-07-03,Ewallet,15%,3.769,9.5,15.48752607,42.23182449,71.611,129.36037
 744,745,Chennai,Sarvodaya Supermart,Female,Sports and travel,31.67,8,253.36,2020-09-23,Credit card,15%,12.668,5.6,5.374378029,42.07447606,240.692,863.17725
-745,746,Ahemdabad,Nirvana Grocer's Paradise,Female,Food and beverages,38.42,1,38.42,2022-04-28,Cash,15%,1.921,8.6,71.29206724,34.68695137,36.499,52.44292
+745,746,Ahmedabad,Nirvana Grocer's Paradise,Female,Food and beverages,38.42,1,38.42,2022-04-28,Cash,15%,1.921,8.6,71.29206724,34.68695137,36.499,52.44292
 746,747,Hyderabad,TastyBite Provision Store,Male,Fashion accessories,65.23,10,652.3,2020-04-05,Credit card,15%,32.615,5.2,40.55539878,9.176909822,619.685,4694.50526
 747,748,Kanpur,Nature's Bounty Mart,Female,Home and lifestyle,10.53,5,52.65,2022-12-30,Credit card,15%,2.6325,5.8,85.71215081,5.525501684,50.0175,78.98421
 748,749,Surat,MangoTree Grocery Express,Female,Home and lifestyle,12.29,9,110.61,2020-07-10,Credit card,15%,5.5305,8.0,41.91783128,25.0988466,105.0795,226.83844
@@ -754,7 +754,7 @@
 752,753,Bangalore,SpiceRoots Grocery House,Female,Electronic accessories,17.42,10,174.2,2022-08-16,Ewallet,15%,8.71,7.0,31.31889115,44.09318444,165.49,462.48358
 753,754,Kolkata,Farmers' Delight Emporium,Male,Home and lifestyle,73.28,5,366.4,2021-11-15,Ewallet,15%,18.32,8.4,29.64179685,44.37472163,348.08,1641.76512
 754,755,Chennai,Shree Ganesh Provisions,Female,Fashion accessories,84.87,3,254.61,2022-11-10,Ewallet,15%,12.7305,7.4,94.78842277,2.059196547,241.8795,870.4594
-755,756,Ahemdabad,HealthyHub Grocery ,Female,Fashion accessories,97.29,8,778.32,2020-07-01,Credit card,15%,38.916,6.2,73.46045289,6.965022009,739.404,6533.24921
+755,756,Ahmedabad,HealthyHub Grocery ,Female,Fashion accessories,97.29,8,778.32,2020-07-01,Credit card,15%,38.916,6.2,73.46045289,6.965022009,739.404,6533.24921
 756,757,Hyderabad,Bharat Bazaar,Female,Electronic accessories,35.74,8,285.92,2021-09-23,Ewallet,15%,14.296,4.9,28.17717184,23.20520449,271.624,1062.54734
 757,758,Kanpur,Sapna Supermarket,Female,Home and lifestyle,96.52,6,579.12,2020-05-05,Cash,15%,28.956,4.5,24.00429466,19.99438973,550.164,3765.22976
 758,759,Surat,FreshBasket Grocery Store,Male,Food and beverages,18.85,10,188.5,2021-12-09,Ewallet,15%,9.425,5.6,73.00699273,26.43205448,179.075,526.05638
@@ -764,7 +764,7 @@
 762,763,Bangalore,EcoFresh Grocery Haven,Female,Fashion accessories,63.88,8,511.04,2020-04-05,Ewallet,15%,25.552,9.9,63.43226284,34.59695198,485.488,2992.07788
 763,764,Kolkata,Golden Harvest Provisions,Female,Health and beauty,10.69,5,53.45,2022-08-18,Ewallet,15%,2.6725,7.6,3.246711426,49.94820089,50.7775,80.59057
 764,765,Chennai,Sarvodaya Supermart,Male,Health and beauty,55.5,4,222.0,2021-02-18,Credit card,15%,11.1,6.6,60.24066805,42.52489882,210.9,690.198
-765,766,Ahemdabad,Nirvana Grocer's Paradise,Female,Home and lifestyle,95.46,8,763.68,2021-07-11,Ewallet,15%,38.184,4.7,53.91226579,30.25149366,725.496,6304.14785
+765,766,Ahmedabad,Nirvana Grocer's Paradise,Female,Home and lifestyle,95.46,8,763.68,2021-07-11,Ewallet,15%,38.184,4.7,53.91226579,30.25149366,725.496,6304.14785
 766,767,Hyderabad,TastyBite Provision Store,Female,Fashion accessories,76.06,3,228.18,2021-11-15,Credit card,15%,11.409,9.8,13.78738243,6.081724349,216.771,722.80807
 767,768,Kanpur,Nature's Bounty Mart,Male,Sports and travel,13.69,6,82.14,2021-09-28,Cash,15%,4.107,6.3,19.04064605,13.52459799,78.033,146.23631
 768,769,Surat,MangoTree Grocery Express,Female,Electronic accessories,95.64,4,382.56,2022-03-28,Cash,15%,19.128,7.9,40.57781035,19.03613582,363.432,1772.90546
@@ -774,7 +774,7 @@
 772,773,Bangalore,SpiceRoots Grocery House,Female,Sports and travel,67.99,7,475.93,2022-03-03,Ewallet,15%,23.7965,5.7,85.62221371,25.66551735,452.1335,2627.76897
 773,774,Kolkata,Farmers' Delight Emporium,Female,Food and beverages,52.42,1,52.42,2022-01-17,Credit card,15%,2.621,6.3,71.21282859,22.54101089,49.799,78.52464
 774,775,Chennai,Shree Ganesh Provisions,Male,Food and beverages,65.65,2,131.3,2022-10-15,Cash,15%,6.565,6.0,36.37933201,12.05698347,124.735,295.07706
-775,776,Ahemdabad,HealthyHub Grocery ,Female,Food and beverages,28.86,5,144.3,2022-05-30,Credit card,15%,7.215,8.0,48.49272808,37.6712058,137.085,342.11366
+775,776,Ahmedabad,HealthyHub Grocery ,Female,Food and beverages,28.86,5,144.3,2022-05-30,Credit card,15%,7.215,8.0,48.49272808,37.6712058,137.085,342.11366
 776,777,Hyderabad,Bharat Bazaar,Male,Health and beauty,65.31,7,457.17,2020-07-30,Credit card,15%,22.8585,4.2,55.293223,33.43097313,434.3115,2442.71189
 777,778,Kanpur,Sapna Supermarket,Male,Sports and travel,93.38,1,93.38,2020-08-04,Cash,15%,4.669,9.6,11.13638274,20.28406428,88.711,176.21833
 778,779,Surat,FreshBasket Grocery Store,Male,Sports and travel,25.25,5,126.25,2022-10-15,Cash,15%,6.3125,6.1,73.68510107,10.94151185,119.9375,277.67109
@@ -784,7 +784,7 @@
 782,783,Bangalore,EcoFresh Grocery Haven,Female,Fashion accessories,30.62,1,30.62,2022-03-30,Credit card,15%,1.531,4.1,49.24789543,48.7930837,29.089,39.52705
 783,784,Kolkata,Golden Harvest Provisions,Female,Home and lifestyle,44.1,8,352.8,2020-07-15,Cash,15%,17.604,8.8,73.28395752,1.720407286,335.196,1535.37149
 784,785,Chennai,Sarvodaya Supermart,Female,Health and beauty,10.16,5,50.8,2020-12-21,Ewallet,15%,2.54,4.1,28.07437054,37.85965341,48.26,75.31608
-785,786,Ahemdabad,Nirvana Grocer's Paradise,Male,Electronic accessories,74.58,7,522.06,2022-03-06,Credit card,15%,26.103,9.0,43.09014542,17.80302907,495.957,3111.25311
+785,786,Ahmedabad,Nirvana Grocer's Paradise,Male,Electronic accessories,74.58,7,522.06,2022-03-06,Credit card,15%,26.103,9.0,43.09014542,17.80302907,495.957,3111.25311
 786,787,Hyderabad,TastyBite Provision Store,Male,Electronic accessories,71.89,8,575.12,2021-12-12,Ewallet,15%,28.756,5.5,97.10334919,15.68518042,546.364,3717.36864
 787,788,Kanpur,Nature's Bounty Mart,Female,Health and beauty,10.99,5,54.95,2021-11-29,Credit card,15%,2.7475,9.3,21.49902028,33.39397414,52.2025,83.63527
 788,789,Surat,MangoTree Grocery Express,Male,Health and beauty,60.47,3,181.41,2022-06-22,Credit card,15%,9.0705,5.6,49.77207439,36.87214794,172.3395,494.05109
@@ -794,7 +794,7 @@
 792,793,Bangalore,SpiceRoots Grocery House,Female,Home and lifestyle,97.37,10,973.7,2022-06-04,Credit card,15%,48.685,4.9,41.80589568,31.77328972,925.015,9980.57106
 793,794,Kolkata,Farmers' Delight Emporium,Male,Electronic accessories,92.6,7,648.2,2022-07-24,Credit card,15%,32.41,9.3,57.92221151,10.84829914,615.79,4639.75078
 794,795,Chennai,Shree Ganesh Provisions,Female,Electronic accessories,46.61,2,93.22,2022-12-21,Credit card,15%,4.661,6.6,58.21990195,40.06653597,88.559,175.7747
-795,796,Ahemdabad,HealthyHub Grocery ,Male,Fashion accessories,27.18,2,54.36,2020-02-08,Ewallet,15%,2.718,4.3,79.84973029,32.00356114,51.642,82.43259
+795,796,Ahmedabad,HealthyHub Grocery ,Male,Fashion accessories,27.18,2,54.36,2020-02-08,Ewallet,15%,2.718,4.3,79.84973029,32.00356114,51.642,82.43259
 796,797,Hyderabad,Bharat Bazaar,Female,Home and lifestyle,60.87,1,60.87,2021-12-02,Cash,15%,3.0435,5.5,87.43337829,21.32538665,57.8265,96.06899
 797,798,Kanpur,Sapna Supermarket,Female,Sports and travel,24.49,10,244.9,2020-07-28,Cash,15%,12.245,8.1,74.58329413,14.32352735,232.655,814.6721
 798,799,Surat,FreshBasket Grocery Store,Male,Health and beauty,92.78,1,92.78,2021-10-29,Credit card,15%,4.639,9.8,27.31621722,16.32650396,88.141,174.55722
@@ -804,7 +804,7 @@
 802,803,Bangalore,EcoFresh Grocery Haven,Male,Fashion accessories,67.39,7,471.73,2022-12-24,Ewallet,15%,23.5865,6.9,65.30178374,36.14180691,448.1435,2585.75733
 803,804,Kolkata,Golden Harvest Provisions,Female,Fashion accessories,48.96,9,440.64,2020-09-07,Cash,15%,22.032,8.0,88.71173268,31.06181189,418.608,2285.19429
 804,805,Chennai,Sarvodaya Supermart,Female,Electronic accessories,75.59,9,680.31,2021-12-25,Cash,15%,34.155,8.0,40.36249075,44.99480415,646.155,5076.16708
-805,806,Ahemdabad,Nirvana Grocer's Paradise,Female,Home and lifestyle,77.47,4,309.88,2022-11-12,Cash,15%,15.494,4.2,26.93629047,11.32271127,294.386,1222.12334
+805,806,Ahmedabad,Nirvana Grocer's Paradise,Female,Home and lifestyle,77.47,4,309.88,2022-11-12,Cash,15%,15.494,4.2,26.93629047,11.32271127,294.386,1222.12334
 806,807,Hyderabad,TastyBite Provision Store,Female,Sports and travel,93.18,2,186.36,2020-03-31,Credit card,15%,9.318,8.5,12.18057428,27.5241934,177.042,516.29547
 807,808,Kanpur,Nature's Bounty Mart,Female,Electronic accessories,50.23,4,200.92,2020-06-24,Cash,15%,10.046,9.0,47.13111865,29.08521242,190.874,584.42404
 808,809,Surat,MangoTree Grocery Express,Female,Health and beauty,17.75,1,17.75,2020-07-17,Cash,15%,0.8875,8.6,48.26948711,2.973716736,16.8625,20.74309
@@ -814,7 +814,7 @@
 812,813,Bangalore,SpiceRoots Grocery House,Female,Sports and travel,64.97,5,324.85,2021-09-15,Credit card,15%,16.2425,6.5,4.286146698,6.9206902,308.6075,1327.36146
 813,814,Kolkata,Farmers' Delight Emporium,Male,Electronic accessories,95.15,1,95.15,2022-09-06,Cash,15%,4.7575,6.0,65.95354326,13.92607137,90.3925,181.15846
 814,815,Chennai,Shree Ganesh Provisions,Female,Electronic accessories,48.62,8,388.96,2020-01-06,Cash,15%,19.448,5.0,70.0069752,30.41322469,369.512,1826.21388
-815,816,Ahemdabad,HealthyHub Grocery ,Female,Food and beverages,53.21,8,425.68,2020-12-07,Ewallet,15%,21.284,5.0,83.98319138,49.05527764,404.396,2147.11289
+815,816,Ahmedabad,HealthyHub Grocery ,Female,Food and beverages,53.21,8,425.68,2020-12-07,Ewallet,15%,21.284,5.0,83.98319138,49.05527764,404.396,2147.11289
 816,817,Hyderabad,Bharat Bazaar,Female,Fashion accessories,45.44,7,318.08,2020-08-08,Cash,15%,15.904,9.2,43.34795727,25.28202394,302.176,1279.24142
 817,818,Kanpur,Sapna Supermarket,Male,Food and beverages,33.88,8,271.04,2020-12-17,Ewallet,15%,13.552,9.6,32.27072,41.05937681,257.488,968.93548
 818,819,Surat,FreshBasket Grocery Store,Male,Health and beauty,96.16,4,384.64,2020-01-11,Credit card,15%,19.232,8.4,56.27330554,48.94268419,365.408,1790.14533
@@ -824,7 +824,7 @@
 822,823,Bangalore,EcoFresh Grocery Haven,Male,Sports and travel,10.17,1,10.17,2022-05-09,Cash,15%,0.5085,5.9,41.46840098,29.97651592,9.6615,11.15257
 823,824,Kolkata,Golden Harvest Provisions,Female,Health and beauty,68.71,3,206.13,2020-02-11,Cash,15%,10.3065,8.7,44.41924916,11.5944956,195.8235,609.78098
 824,825,Chennai,Sarvodaya Supermart,Female,Sports and travel,60.08,7,420.56,2022-04-10,Credit card,15%,21.028,4.5,83.51124947,18.79794836,399.532,2100.83178
-825,826,Ahemdabad,Nirvana Grocer's Paradise,Female,Sports and travel,22.1,4,88.4,2022-03-27,Credit card,15%,4.402,6.6,58.14595494,19.11871301,83.998,162.65423
+825,826,Ahmedabad,Nirvana Grocer's Paradise,Female,Sports and travel,22.1,4,88.4,2022-03-27,Credit card,15%,4.402,6.6,58.14595494,19.11871301,83.998,162.65423
 826,827,Hyderabad,TastyBite Provision Store,Female,Health and beauty,72.11,9,648.99,2020-03-05,Credit card,15%,32.4495,7.7,17.63170526,20.85099493,616.5405,4650.27619
 827,828,Kanpur,Nature's Bounty Mart,Male,Fashion accessories,41.28,3,123.84,2020-02-01,Credit card,15%,6.192,8.5,35.9178986,34.32545604,117.648,269.53528
 828,829,Surat,MangoTree Grocery Express,Male,Electronic accessories,64.95,10,649.5,2021-12-28,Cash,15%,32.475,5.2,21.41364313,32.24316973,617.025,4657.07738
@@ -834,7 +834,7 @@
 832,833,Bangalore,SpiceRoots Grocery House,Female,Sports and travel,11.85,8,94.8,2022-08-07,Cash,15%,4.74,4.1,49.62067915,46.65370094,90.06,180.17688
 833,834,Kolkata,Farmers' Delight Emporium,Male,Health and beauty,91.3,1,91.3,2020-03-06,Ewallet,15%,4.565,9.2,38.59737152,24.70024408,86.735,170.48906
 834,835,Chennai,Shree Ganesh Provisions,Female,Home and lifestyle,40.73,7,285.11,2022-02-15,Ewallet,15%,14.2555,5.4,34.04051854,14.76553772,270.8545,1057.34327
-835,836,Ahemdabad,HealthyHub Grocery ,Male,Fashion accessories,52.38,1,52.38,2020-04-19,Cash,15%,2.619,5.8,73.18441254,36.01537725,49.761,78.44481
+835,836,Ahmedabad,HealthyHub Grocery ,Male,Fashion accessories,52.38,1,52.38,2020-04-19,Cash,15%,2.619,5.8,73.18441254,36.01537725,49.761,78.44481
 836,837,Hyderabad,Bharat Bazaar,Male,Fashion accessories,38.54,5,192.7,2021-05-09,Ewallet,15%,9.635,5.6,87.05292877,2.109848152,183.065,545.46626
 837,838,Kanpur,Sapna Supermarket,Male,Sports and travel,44.63,6,267.78,2021-03-28,Credit card,15%,13.389,5.1,79.46463457,18.90580611,254.391,948.98822
 838,839,Surat,FreshBasket Grocery Store,Male,Electronic accessories,55.87,10,558.7,2020-06-13,Cash,15%,27.935,5.8,94.14436731,4.395701132,530.765,3524.08406
@@ -844,7 +844,7 @@
 842,843,Bangalore,EcoFresh Grocery Haven,Female,Sports and travel,39.47,2,78.94,2022-06-15,Credit card,15%,3.947,5.0,47.51053483,9.137039062,74.993,138.13947
 843,844,Kolkata,Golden Harvest Provisions,Female,Food and beverages,14.87,2,29.74,2020-06-07,Credit card,15%,1.487,8.9,42.07479497,24.93999997,28.253,38.14244
 844,845,Chennai,Sarvodaya Supermart,Male,Fashion accessories,21.32,1,21.32,2022-10-13,Cash,15%,1.066,5.9,30.93621265,36.82167363,20.254,25.63815
-845,846,Ahemdabad,Nirvana Grocer's Paradise,Male,Electronic accessories,93.78,3,281.34,2022-10-08,Credit card,15%,14.067,5.9,70.13327538,1.867896679,267.273,1033.28586
+845,846,Ahmedabad,Nirvana Grocer's Paradise,Male,Electronic accessories,93.78,3,281.34,2022-10-08,Credit card,15%,14.067,5.9,70.13327538,1.867896679,267.273,1033.28586
 846,847,Hyderabad,TastyBite Provision Store,Male,Electronic accessories,73.26,1,73.26,2020-04-29,Ewallet,15%,3.663,9.7,14.44177667,3.416774988,69.597,124.24676
 847,848,Kanpur,Nature's Bounty Mart,Female,Sports and travel,22.38,1,22.38,2022-12-08,Credit card,15%,1.119,8.6,50.27571996,26.88295866,21.261,27.13821
 848,849,Surat,MangoTree Grocery Express,Female,Food and beverages,72.88,9,655.92,2022-05-14,Cash,15%,32.796,4.0,73.96125503,45.9767271,623.124,4743.11494
@@ -854,7 +854,7 @@
 852,853,Bangalore,SpiceRoots Grocery House,Male,Health and beauty,53.19,7,372.33,2021-09-05,Ewallet,15%,18.6165,5.0,48.54407265,6.500316477,353.7135,1689.31148
 853,854,Kolkata,Farmers' Delight Emporium,Female,Electronic accessories,52.79,10,527.9,2020-04-24,Ewallet,15%,26.395,10.0,35.07369457,34.53141856,501.505,3175.3449
 854,855,Chennai,Shree Ganesh Provisions,Female,Health and beauty,95.95,5,479.75,2022-05-08,Ewallet,15%,23.9875,8.8,4.144136649,22.55816626,455.7625,2666.27059
-855,856,Ahemdabad,HealthyHub Grocery ,Female,Fashion accessories,36.51,9,328.59,2022-02-07,Cash,15%,16.4295,4.2,6.470447306,35.54237313,312.1605,1354.31819
+855,856,Ahmedabad,HealthyHub Grocery ,Female,Fashion accessories,36.51,9,328.59,2022-02-07,Cash,15%,16.4295,4.2,6.470447306,35.54237313,312.1605,1354.31819
 856,857,Hyderabad,Bharat Bazaar,Male,Food and beverages,21.12,8,168.96,2020-06-14,Cash,15%,8.448,6.3,73.56599848,26.24305869,160.512,440.16108
 857,858,Kanpur,Sapna Supermarket,Female,Home and lifestyle,28.31,4,113.24,2021-08-01,Cash,15%,5.662,8.2,85.78361528,2.271432887,107.578,235.06133
 858,859,Surat,FreshBasket Grocery Store,Male,Health and beauty,57.59,6,345.54,2022-02-06,Cash,15%,17.277,5.1,92.11377862,8.151084872,328.263,1479.81997
@@ -864,7 +864,7 @@
 862,863,Bangalore,EcoFresh Grocery Haven,Female,Home and lifestyle,11.28,9,101.52,2022-04-26,Credit card,15%,5.076,4.3,99.20305319,41.06110286,96.444,199.42995
 863,864,Kolkata,Golden Harvest Provisions,Female,Home and lifestyle,51.07,7,357.49,2022-09-29,Cash,15%,17.8745,7.0,5.672590465,28.25429745,339.6155,1571.58145
 864,865,Chennai,Sarvodaya Supermart,Female,Electronic accessories,79.59,3,238.77,2022-08-21,Cash,15%,11.9385,6.6,51.04277993,36.65407126,226.8315,780.37557
-865,866,Ahemdabad,Nirvana Grocer's Paradise,Male,Health and beauty,33.81,3,101.43,2022-11-05,Ewallet,15%,5.0715,7.3,49.41423664,33.72554894,96.3585,199.16643
+865,866,Ahmedabad,Nirvana Grocer's Paradise,Male,Health and beauty,33.81,3,101.43,2022-11-05,Ewallet,15%,5.0715,7.3,49.41423664,33.72554894,96.3585,199.16643
 866,867,Hyderabad,TastyBite Provision Store,Male,Sports and travel,90.53,8,724.24,2022-03-15,Credit card,15%,36.212,6.5,69.86099558,36.27093525,688.028,5707.21399
 867,868,Kanpur,Nature's Bounty Mart,Female,Health and beauty,62.82,2,125.64,2022-11-21,Ewallet,15%,6.282,4.9,4.487941004,16.74535318,119.358,275.60139
 868,869,Surat,MangoTree Grocery Express,Male,Food and beverages,24.31,3,72.93,2020-03-17,Credit card,15%,3.6465,4.3,31.0817041,7.033721785,69.2835,123.45846
@@ -874,7 +874,7 @@
 872,873,Bangalore,SpiceRoots Grocery House,Female,Electronic accessories,21.43,10,214.3,2020-11-29,Cash,15%,10.715,6.2,32.95189825,43.07547704,203.585,650.58266
 873,874,Kolkata,Farmers' Delight Emporium,Male,Sports and travel,89.06,6,534.36,2021-07-20,Cash,15%,26.718,9.9,76.94910855,6.434860687,507.642,3246.99579
 874,875,Chennai,Shree Ganesh Provisions,Male,Home and lifestyle,23.29,4,93.16,2021-01-24,Credit card,15%,4.658,5.9,47.26972037,15.3018909,88.502,175.60846
-875,876,Ahemdabad,HealthyHub Grocery ,Male,Home and lifestyle,65.26,8,522.08,2021-01-31,Ewallet,15%,26.104,6.3,33.59801081,17.96916938,495.976,3111.4715
+875,876,Ahmedabad,HealthyHub Grocery ,Male,Home and lifestyle,65.26,8,522.08,2021-01-31,Ewallet,15%,26.104,6.3,33.59801081,17.96916938,495.976,3111.4715
 876,877,Hyderabad,Bharat Bazaar,Male,Fashion accessories,52.35,1,52.35,2020-09-15,Cash,15%,2.6175,4.0,40.63873667,47.65181108,49.7325,78.38496
 877,878,Kanpur,Sapna Supermarket,Male,Electronic accessories,39.75,1,39.75,2021-03-22,Cash,15%,1.9875,6.1,21.54020034,12.65242005,37.7625,54.76059
 878,879,Surat,FreshBasket Grocery Store,Female,Electronic accessories,90.02,8,720.16,2021-11-25,Credit card,15%,36.008,4.5,90.41060551,42.15090552,684.152,5647.14904
@@ -884,7 +884,7 @@
 882,883,Bangalore,EcoFresh Grocery Haven,Male,Sports and travel,31.99,10,319.9,2021-02-21,Credit card,15%,15.995,9.9,41.91534664,48.08723514,303.905,1292.0921
 883,884,Kolkata,Golden Harvest Provisions,Female,Home and lifestyle,34.42,6,206.52,2021-10-26,Ewallet,15%,10.326,7.5,61.78999134,3.61875076,196.194,611.69985
 884,885,Chennai,Sarvodaya Supermart,Female,Food and beverages,83.34,2,166.68,2021-12-05,Cash,15%,8.334,7.6,60.79129265,49.13574481,158.346,430.61111
-885,886,Ahemdabad,Nirvana Grocer's Paradise,Male,Sports and travel,45.58,7,319.06,2020-07-26,Cash,15%,15.953,5.0,38.87364879,37.36835485,303.107,1286.15319
+885,886,Ahmedabad,Nirvana Grocer's Paradise,Male,Sports and travel,45.58,7,319.06,2020-07-26,Cash,15%,15.953,5.0,38.87364879,37.36835485,303.107,1286.15319
 886,887,Hyderabad,TastyBite Provision Store,Male,Food and beverages,87.9,1,87.9,2022-07-01,Ewallet,15%,4.395,6.7,7.007890257,29.69309511,83.505,161.3009
 887,888,Kanpur,Nature's Bounty Mart,Female,Electronic accessories,73.47,10,734.7,2022-02-21,Ewallet,15%,36.735,9.5,12.64987711,19.01578061,697.965,5862.64886
 888,889,Surat,MangoTree Grocery Express,Female,Fashion accessories,12.19,8,97.52,2020-08-28,Ewallet,15%,4.876,6.8,75.1746633,25.3164117,92.644,187.86643
@@ -894,7 +894,7 @@
 892,893,Bangalore,SpiceRoots Grocery House,Female,Fashion accessories,92.49,5,462.45,2021-08-15,Credit card,15%,23.1225,8.6,7.722753555,8.51069619,439.3275,2494.12002
 893,894,Kolkata,Farmers' Delight Emporium,Male,Electronic accessories,28.38,5,141.9,2022-12-29,Cash,15%,7.095,9.4,14.90891907,4.731067719,134.805,333.1883
 894,895,Chennai,Shree Ganesh Provisions,Male,Electronic accessories,50.45,6,302.7,2020-11-04,Credit card,15%,15.135,8.9,30.45004849,47.63617852,287.565,1173.15926
-895,896,Ahemdabad,HealthyHub Grocery ,Male,Health and beauty,99.16,8,793.28,2021-01-22,Credit card,15%,39.664,4.2,53.67331889,15.34451888,753.616,6771.56501
+895,896,Ahmedabad,HealthyHub Grocery ,Male,Health and beauty,99.16,8,793.28,2021-01-22,Credit card,15%,39.664,4.2,53.67331889,15.34451888,753.616,6771.56501
 896,897,Hyderabad,Bharat Bazaar,Male,Fashion accessories,60.74,7,425.18,2022-06-16,Ewallet,15%,21.259,5.0,45.35833914,19.86535365,403.921,2142.57131
 897,898,Kanpur,Sapna Supermarket,Female,Food and beverages,47.27,6,283.62,2020-09-20,Cash,15%,14.181,8.8,51.66771569,20.15658412,269.439,1047.80289
 898,899,Surat,FreshBasket Grocery Store,Male,Health and beauty,85.6,7,599.2,2020-07-13,Cash,15%,29.96,5.3,37.97396231,11.1882696,569.24,4010.08608
@@ -904,7 +904,7 @@
 902,903,Bangalore,EcoFresh Grocery Haven,Female,Health and beauty,27.73,5,138.65,2020-04-28,Credit card,15%,6.9325,4.2,55.94427606,43.69464627,131.7175,321.27631
 903,904,Kolkata,Golden Harvest Provisions,Male,Food and beverages,11.53,7,80.71,2021-03-28,Cash,15%,4.0355,8.1,39.60319606,24.21875193,76.6745,142.59399
 904,905,Chennai,Sarvodaya Supermart,Female,Health and beauty,58.32,2,116.64,2020-12-05,Ewallet,15%,5.832,6.0,31.80762746,17.42282309,110.808,245.88645
-905,906,Ahemdabad,Nirvana Grocer's Paradise,Female,Home and lifestyle,78.38,4,313.52,2022-01-25,Cash,15%,15.676,7.9,52.3204629,44.10103458,297.844,1247.32051
+905,906,Ahmedabad,Nirvana Grocer's Paradise,Female,Home and lifestyle,78.38,4,313.52,2022-01-25,Cash,15%,15.676,7.9,52.3204629,44.10103458,297.844,1247.32051
 906,907,Hyderabad,TastyBite Provision Store,Male,Health and beauty,84.61,10,846.1,2021-08-06,Credit card,15%,42.305,8.8,96.1633242,24.9253347,803.795,7647.0095
 907,908,Kanpur,Nature's Bounty Mart,Female,Health and beauty,82.88,5,414.4,2022-07-02,Credit card,15%,20.72,6.6,20.3631808,17.90612528,393.68,2045.80992
 908,909,Surat,MangoTree Grocery Express,Female,Food and beverages,79.54,2,159.08,2020-07-05,Ewallet,15%,7.954,6.2,52.74416046,30.2280533,151.126,399.49124
@@ -914,7 +914,7 @@
 912,913,Bangalore,SpiceRoots Grocery House,Female,Home and lifestyle,93.12,8,744.96,2021-11-28,Cash,15%,37.248,6.8,62.04516246,29.15587513,707.712,6017.13132
 913,914,Kolkata,Farmers' Delight Emporium,Male,Fashion accessories,51.34,8,410.72,2021-11-15,Ewallet,15%,20.536,7.6,51.6080967,43.31679301,390.184,2013.28373
 914,915,Chennai,Shree Ganesh Provisions,Female,Food and beverages,99.6,3,298.8,2020-12-27,Cash,15%,14.94,5.8,83.58348541,24.06564553,283.86,1146.97368
-915,916,Ahemdabad,HealthyHub Grocery ,Female,Electronic accessories,35.49,6,212.94,2021-03-04,Cash,15%,10.647,4.1,84.79755191,49.86982041,202.293,643.70271
+915,916,Ahmedabad,HealthyHub Grocery ,Female,Electronic accessories,35.49,6,212.94,2021-03-04,Cash,15%,10.647,4.1,84.79755191,49.86982041,202.293,643.70271
 916,917,Hyderabad,Bharat Bazaar,Male,Sports and travel,42.85,1,42.85,2020-05-08,Credit card,15%,2.1425,9.3,26.5517736,45.91965036,40.7075,60.29316
 917,918,Kanpur,Sapna Supermarket,Female,Fashion accessories,94.67,4,378.68,2020-01-03,Cash,15%,18.934,6.8,90.81592576,43.02268756,359.746,1740.96615
 918,919,Surat,FreshBasket Grocery Store,Male,Home and lifestyle,68.97,3,206.91,2021-04-06,Ewallet,15%,10.3455,8.7,83.68855828,42.81956098,196.5645,613.62161
@@ -924,7 +924,7 @@
 922,923,Bangalore,EcoFresh Grocery Haven,Female,Home and lifestyle,12.73,2,25.46,2022-09-26,Credit card,15%,1.273,5.2,25.48131847,30.28089,24.187,31.61801
 923,924,Kolkata,Golden Harvest Provisions,Female,Sports and travel,83.14,7,581.98,2020-12-26,Credit card,15%,29.099,6.6,34.12796718,40.26288445,552.881,3799.63684
 924,925,Chennai,Sarvodaya Supermart,Female,Sports and travel,35.22,6,211.32,2021-10-11,Ewallet,15%,10.566,6.5,37.2441697,26.1490803,200.754,635.55335
-925,926,Ahemdabad,Nirvana Grocer's Paradise,Female,Electronic accessories,13.78,4,55.12,2020-08-02,Ewallet,15%,2.756,9.0,20.16135781,17.29567818,52.364,83.98304
+925,926,Ahmedabad,Nirvana Grocer's Paradise,Female,Electronic accessories,13.78,4,55.12,2020-08-02,Ewallet,15%,2.756,9.0,20.16135781,17.29567818,52.364,83.98304
 926,927,Hyderabad,TastyBite Provision Store,Male,Sports and travel,88.31,1,88.31,2020-12-08,Credit card,15%,4.4155,5.2,94.41738157,39.58954644,83.8945,162.39723
 927,928,Kanpur,Nature's Bounty Mart,Female,Health and beauty,39.62,9,356.58,2022-02-07,Credit card,15%,17.829,6.8,85.5543133,27.80793966,338.751,1564.49832
 928,929,Surat,MangoTree Grocery Express,Female,Electronic accessories,88.25,9,794.25,2020-01-22,Credit card,15%,39.7125,7.6,83.30448215,12.08941645,754.5375,6787.16409
@@ -934,7 +934,7 @@
 932,933,Bangalore,SpiceRoots Grocery House,Female,Food and beverages,74.44,10,744.4,2020-05-17,Ewallet,15%,37.22,5.1,32.98861422,37.82507127,707.18,6008.64792
 933,934,Kolkata,Farmers' Delight Emporium,Male,Health and beauty,64.08,7,448.56,2021-03-18,Ewallet,15%,22.428,7.6,41.51509976,27.66340426,426.132,2360.0177
 934,935,Chennai,Shree Ganesh Provisions,Female,Home and lifestyle,63.15,6,378.9,2022-01-26,Ewallet,15%,18.945,9.8,38.86487717,46.32202561,359.955,1742.7695
-935,936,Ahemdabad,HealthyHub Grocery ,Male,Home and lifestyle,85.72,3,257.16,2022-08-05,Ewallet,15%,12.858,5.1,20.85541197,30.73126122,244.302,885.40702
+935,936,Ahmedabad,HealthyHub Grocery ,Male,Home and lifestyle,85.72,3,257.16,2022-08-05,Ewallet,15%,12.858,5.1,20.85541197,30.73126122,244.302,885.40702
 936,937,Hyderabad,Bharat Bazaar,Female,Health and beauty,78.89,7,552.23,2020-03-11,Ewallet,15%,27.6115,7.5,67.38607506,3.133457912,524.6185,3449.33074
 937,938,Kanpur,Sapna Supermarket,Female,Sports and travel,89.48,5,447.4,2020-11-07,Cash,15%,22.37,7.4,14.1184306,22.65483983,425.03,2348.98422
 938,939,Surat,FreshBasket Grocery Store,Female,Health and beauty,92.09,3,276.27,2020-08-01,Cash,15%,13.8135,4.2,91.7473195,46.18172806,262.4565,1001.35857
@@ -944,7 +944,7 @@
 942,943,Bangalore,EcoFresh Grocery Haven,Female,Home and lifestyle,45.68,10,456.8,2021-10-30,Ewallet,15%,22.84,5.7,69.32838032,14.135485,433.96,2439.12928
 943,944,Kolkata,Golden Harvest Provisions,Male,Health and beauty,50.79,5,253.95,2021-12-06,Credit card,15%,12.6975,5.3,58.46918495,40.50464492,241.2525,866.61072
 944,945,Chennai,Sarvodaya Supermart,Male,Health and beauty,10.08,7,70.56,2022-12-17,Cash,15%,3.528,4.2,34.90139709,28.04642448,67.032,117.85778
-945,946,Ahemdabad,Nirvana Grocer's Paradise,Female,Electronic accessories,93.88,7,657.16,2021-08-31,Credit card,15%,32.858,7.3,69.75395872,40.85720035,624.302,4759.82302
+945,946,Ahmedabad,Nirvana Grocer's Paradise,Female,Electronic accessories,93.88,7,657.16,2021-08-31,Credit card,15%,32.858,7.3,69.75395872,40.85720035,624.302,4759.82302
 946,947,Hyderabad,TastyBite Provision Store,Male,Electronic accessories,84.25,2,168.5,2020-09-05,Credit card,15%,8.425,5.3,42.06081858,15.15422767,160.075,438.22638
 947,948,Kanpur,Nature's Bounty Mart,Male,Fashion accessories,53.78,1,53.78,2021-03-16,Ewallet,15%,2.689,4.7,55.65918053,49.04235143,51.091,81.25674
 948,949,Surat,MangoTree Grocery Express,Male,Home and lifestyle,35.81,5,179.05,2022-09-22,Ewallet,15%,8.9525,7.9,76.67374539,41.88200447,170.0975,483.60957
@@ -954,7 +954,7 @@
 952,953,Bangalore,SpiceRoots Grocery House,Female,Food and beverages,62.85,4,251.4,2021-07-22,Ewallet,15%,12.57,8.7,41.2682976,43.13553275,238.83,851.81862
 953,954,Kolkata,Farmers' Delight Emporium,Female,Food and beverages,21.04,4,84.16,2020-10-28,Cash,15%,4.208,7.6,28.27475264,22.52876861,79.952,151.4476
 954,955,Chennai,Shree Ganesh Provisions,Male,Home and lifestyle,65.91,6,395.46,2021-12-03,Cash,15%,19.773,5.7,45.32827407,2.640122693,375.687,1881.15181
-955,956,Ahemdabad,HealthyHub Grocery ,Female,Fashion accessories,42.57,7,297.99,2020-05-17,Cash,15%,14.8995,6.8,92.05506819,23.72943092,283.0905,1141.57138
+955,956,Ahmedabad,HealthyHub Grocery ,Female,Fashion accessories,42.57,7,297.99,2020-05-17,Cash,15%,14.8995,6.8,92.05506819,23.72943092,283.0905,1141.57138
 956,957,Hyderabad,Bharat Bazaar,Male,Food and beverages,50.49,9,454.41,2022-10-25,Cash,15%,22.7205,5.4,88.22377442,29.48874056,431.6895,2416.05026
 957,958,Kanpur,Sapna Supermarket,Male,Electronic accessories,46.02,6,276.12,2020-02-15,Cash,15%,13.806,7.1,17.89470381,11.33644326,262.314,1000.42142
 958,959,Surat,FreshBasket Grocery Store,Female,Home and lifestyle,15.8,10,158.0,2020-03-07,Cash,15%,7.9,7.8,73.34721056,21.03316671,150.1,395.158
@@ -964,7 +964,7 @@
 962,963,Bangalore,EcoFresh Grocery Haven,Female,Fashion accessories,15.5,1,15.5,2021-08-11,Credit card,15%,0.775,7.4,26.15670845,7.070877618,14.725,17.78238
 963,964,Kolkata,Golden Harvest Provisions,Male,Electronic accessories,96.82,3,290.46,2021-05-05,Cash,15%,14.523,6.7,72.0892798,8.052444571,275.937,1091.94661
 964,965,Chennai,Sarvodaya Supermart,Male,Food and beverages,33.33,2,66.66,2022-11-09,Credit card,15%,3.333,6.4,78.68216835,24.80513125,63.327,108.87378
-965,966,Ahemdabad,Nirvana Grocer's Paradise,Female,Electronic accessories,38.27,2,76.54,2022-08-08,Credit card,15%,3.827,5.8,70.15900694,26.82350858,72.713,132.19453
+965,966,Ahmedabad,Nirvana Grocer's Paradise,Female,Electronic accessories,38.27,2,76.54,2022-08-08,Credit card,15%,3.827,5.8,70.15900694,26.82350858,72.713,132.19453
 966,967,Hyderabad,TastyBite Provision Store,Female,Home and lifestyle,33.3,9,299.7,2022-05-13,Ewallet,15%,14.985,7.2,84.55370138,30.67321962,284.715,1152.99086
 967,968,Kanpur,Nature's Bounty Mart,Male,Home and lifestyle,81.1,3,243.3,2020-11-08,Credit card,15%,12.1515,9.3,94.79314436,49.62082169,231.1485,805.6843
 968,969,Surat,MangoTree Grocery Express,Female,Health and beauty,15.8,3,47.4,2020-07-30,Cash,15%,2.37,9.5,87.57919413,49.05946814,45.03,68.74422
@@ -974,7 +974,7 @@
 972,973,Bangalore,SpiceRoots Grocery House,Male,Electronic accessories,87.08,7,609.56,2021-11-16,Cash,15%,30.478,5.5,59.34500082,20.07535328,579.082,4139.41224
 973,974,Kolkata,Farmers' Delight Emporium,Male,Home and lifestyle,80.08,3,240.24,2021-08-10,Cash,15%,12.12,5.4,26.26831687,27.0687484,228.12,788.27549
 974,975,Chennai,Shree Ganesh Provisions,Male,Fashion accessories,86.13,2,172.26,2020-03-17,Cash,15%,8.613,8.2,66.45619412,36.75859256,163.647,454.15832
-975,976,Ahemdabad,HealthyHub Grocery ,Male,Fashion accessories,49.92,2,99.84,2021-12-12,Credit card,15%,4.992,7.0,56.1472575,44.38983486,94.848,194.53624
+975,976,Ahmedabad,HealthyHub Grocery ,Male,Fashion accessories,49.92,2,99.84,2021-12-12,Credit card,15%,4.992,7.0,56.1472575,44.38983486,94.848,194.53624
 976,977,Hyderabad,Bharat Bazaar,Female,Food and beverages,74.66,4,298.64,2022-05-21,Cash,15%,14.932,8.5,88.45779088,12.1052452,283.708,1145.90557
 977,978,Kanpur,Sapna Supermarket,Male,Food and beverages,26.6,6,159.6,2020-07-14,Ewallet,15%,7.98,4.9,68.42734964,39.4237579,151.62,401.58552
 978,979,Surat,FreshBasket Grocery Store,Female,Electronic accessories,25.45,1,25.45,2022-05-19,Credit card,15%,1.2725,5.1,23.63617996,28.4243112,24.1775,31.60317
@@ -984,7 +984,7 @@
 982,983,Bangalore,EcoFresh Grocery Haven,Female,Sports and travel,97.48,9,877.32,2021-09-10,Ewallet,15%,43.866,7.4,96.3556413,4.834480105,833.454,8189.37863
 983,984,Kolkata,Golden Harvest Provisions,Male,Health and beauty,99.96,7,699.72,2021-09-29,Cash,15%,34.986,6.1,5.441686073,5.541381065,664.734,5350.99675
 984,985,Chennai,Sarvodaya Supermart,Male,Electronic accessories,96.37,7,674.59,2021-07-01,Cash,15%,33.7295,6.0,74.99582346,28.0509215,640.8605,4997.77085
-985,986,Ahemdabad,Nirvana Grocer's Paradise,Female,Fashion accessories,63.71,5,318.55,2021-10-04,Ewallet,15%,15.9275,8.5,22.04460042,36.93774595,302.6225,1282.55397
+985,986,Ahmedabad,Nirvana Grocer's Paradise,Female,Fashion accessories,63.71,5,318.55,2021-10-04,Ewallet,15%,15.9275,8.5,22.04460042,36.93774595,302.6225,1282.55397
 986,987,Hyderabad,TastyBite Provision Store,Female,Health and beauty,14.76,2,29.52,2020-05-11,Ewallet,15%,1.476,4.3,25.59840381,10.54606452,28.044,37.79859
 987,988,Kanpur,Nature's Bounty Mart,Male,Health and beauty,62.0,8,496.0,2020-01-16,Credit card,15%,24.8,6.2,25.1160989,7.566142742,471.2,2833.152
 988,989,Surat,MangoTree Grocery Express,Male,Electronic accessories,82.34,10,823.4,2020-11-05,Ewallet,15%,41.17,4.3,13.71934035,20.0010002,782.23,7264.28182
@@ -994,7 +994,7 @@
 992,993,Bangalore,SpiceRoots Grocery House,Male,Electronic accessories,58.03,2,116.06,2022-09-05,Ewallet,15%,5.803,8.8,72.59174647,2.725684021,110.257,244.02427
 993,994,Kolkata,Farmers' Delight Emporium,Male,Fashion accessories,17.49,10,174.9,2020-08-04,Ewallet,15%,8.745,6.6,92.55394921,27.09311089,166.155,465.5051
 994,995,Chennai,Shree Ganesh Provisions,Female,Electronic accessories,60.95,1,60.95,2022-11-27,Ewallet,15%,3.0475,5.9,44.70178394,3.548458289,57.9025,96.24157
-995,996,Ahemdabad,HealthyHub Grocery ,Male,Health and beauty,40.35,1,40.35,2020-11-07,Ewallet,15%,2.175,6.2,67.86666906,15.96314701,38.175,55.75361
+995,996,Ahmedabad,HealthyHub Grocery ,Male,Health and beauty,40.35,1,40.35,2020-11-07,Ewallet,15%,2.175,6.2,67.86666906,15.96314701,38.175,55.75361
 996,997,Hyderabad,Bharat Bazaar,Female,Home and lifestyle,97.38,10,973.8,2021-02-07,Ewallet,15%,48.69,4.4,48.17335235,37.34034287,925.11,9982.52118
 997,998,Kanpur,Sapna Supermarket,Male,Food and beverages,31.84,1,31.84,2020-03-15,Cash,15%,1.592,7.7,21.83800001,35.27254002,30.248,41.47096
 998,999,Surat,FreshBasket Grocery Store,Male,Home and lifestyle,65.82,1,65.82,2020-05-16,Cash,15%,3.291,4.1,8.373150409,1.849623879,62.529,106.97659
