@@ -10,12 +10,12 @@ body{
 }
 
 form{
-    height: 685px;
+    height: 785px;
     width: 450px;
     background-color: rgba(2, 37, 178,0.70);
     position: absolute;
     transform: translate(-50%,-50%);
-    top: 50%;
+    top: 60%;
     left: 50%;
     border-radius: 10px;
     backdrop-filter: blur(10px);
@@ -60,7 +60,7 @@ input{
 ::placeholder{
     color: #000000;
 }
-button{
+.button2{
     margin-top: 14px;
     width: 100%;
     background-color: #008000;

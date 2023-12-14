@@ -764,11 +764,11 @@ cities_to_model_org = ['Delhi', 'Pune', 'Mumbai', 'Kanpur', 'Surat', 'Chennai', 
                        'Kolkata', 'Ahmedabad', 'Hyderabad']
 
 
-# print(GraphSection())
-# print(ml_model_phase1())
+print(GraphSection())
+print(ml_model_phase1())
 print(preprocess_date(data))
-# print(ml_model_phase2())
-# print(ml_model_phase3())
+print(ml_model_phase2())
+print(ml_model_phase3())
 print(ml_model_phase4(data, categories_to_model_org))
 print()
 print(ml_model_phase5(data, categories_to_model_org, cities_to_model_org))

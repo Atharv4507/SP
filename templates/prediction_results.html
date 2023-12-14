@@ -1,26 +1,6 @@
 {% extends 'base.html' %}
 {% block title %}prediction_result{% endblock title %}
 {% block body %}
-<!--<!DOCTYPE html>-->
-<!--<html>-->
-<!--<head>-->
-<!--    <title>Prediction Results</title>-->
-<!--</head>-->
-<!--<body>-->
-<!--    <h1>Prediction Results</h1>-->
-<!--    <p>Input Date: {{ input_date }}</p>-->
-<!--    <p>Demand Prediction: {{ demand_prediction }}</p>-->
-<!--    <p>Supply Prediction: {{ supply_prediction }}</p>-->
-<!--    <br>-->
-<!--    <div style="width:500;height:500;">-->
-<!--&lt;!&ndash;        <img src="home/static/images/dtree_scatter_plot.png" style="width:500;height:500;">&ndash;&gt;-->
-<!--        <img src="static/images/dtree_scatter_plot.jpg" alt="...">-->
-<!--    </div>-->
-<!--    -->
-<!--</body>-->
-<!--</html>-->
-
-<!--    <h5>Using DecisionTreeRegressor</h5>-->
     <form method="POST" action="/prediction_results" class="formation1">
         {% csrf_token %}
         <h3 class="heading2"><img src="static/image/SPLOGO1.ico" class="img4" alt="">Predict Demand and Supply</h3>
