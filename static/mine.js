@@ -6,7 +6,7 @@
             "Home and lifestyle": "Home and Lifestyle content goes here.",
             "Fashion accessories":"Fashion accessories content goes here.",
             "Food and beverages":"Food and beverages content goes here.",
-            "Sports and travel" "Sports and travel content goes here."
+            "Sports and travel" :"Sports and travel content goes here."
         };
         categorySelect.addEventListener("change", function() {
             var selectedCategory = categorySelect.value;

@@ -16,9 +16,6 @@ from django.http import JsonResponse
 from django.views.decorators.csrf import csrf_exempt
 
 
-# from sklearn.externals import joblib
-
-
 def sign(request):
     if request.method == 'POST':
         uname = request.POST.get('username')
@@ -27,14 +24,23 @@ def sign(request):
         pass2 = request.POST.get('password2')
 
         if pass1 != pass2:
-            messages.warning(request, "your passwords doesn't matching")
+            messages.warning(request, "Your passwords don't match")
         else:
-            my_user = User.objects.create_user(uname, email, pass1)
-            my_user.save()
-            return redirect('loginp')
+            if User.objects.filter(username=uname).exists():
+                messages.warning(request, "Username already exists")
+            else:
+                if User.objects.filter(email=email).exists():
+                    messages.warning(request, "Email already exists")
+                else:
+                    if '.com' not in email:
+                        messages.warning(request, "Email should contain '.com'")
+                    else:
+                        my_user = User.objects.create_user(uname, email, pass1)
+                        my_user.save()
+                        return redirect('loginp')
+
         print(uname, email, pass1, pass2)
     return render(request, 'sign.html')
-
 
 def loginp(request):
     if request.method == "POST":

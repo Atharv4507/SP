@@ -5,7 +5,7 @@
 <!--    <h4>Using DecisionTreeRegressor</h4>-->
     <form method="POST" action="/predict/">
         {% csrf_token %}
-        <h3><img src="static/image/SPLOGO1.ico" width="30" height="30" class="d-inline-block align-center" alt="">Predict Demand and Supply</h3>
+        <h3>Predict Demand and Supply</h3>
         <label for="date">Enter a Date (DD-MM-YYYY):</label>
         <input type="date" id="date" name="date" required>
         <button type="submit">Predict</button>

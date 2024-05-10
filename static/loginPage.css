@@ -12,7 +12,7 @@ body{
 form{
     height: 585px;
     width: 450px;
-    background-color: rgba(2, 37, 178,0.70);
+    /* background-color: rgba(2, 37, 178,0.70); */
     position: absolute;
     transform: translate(-50%,-50%);
     top: 50%;
@@ -35,13 +35,13 @@ form h4{
 }
 
 form h1{
-    color:#FFFFFF;
+    color:#000000;
 }
 
 label{
     display: block;
     margin-top: 30px;
-    font-size: 16px Bold;
+    font-size: 14px;
     font-weight: 500;
 }
 input{
@@ -53,9 +53,9 @@ input{
     border-radius: 3px;
     padding: 0 10px;
     margin-top: 2px;
-    font-size: 14px;
+    font-size: 16px;
     font-weight: 300;
-    /*border-color: #000000;*/
+    border-color: #000000;
 
 }
 ::placeholder{
@@ -68,7 +68,9 @@ button{
     color: #e0def3;
     padding: 15px 0;
     font-size: 18px;
-    font-weight: 600;
+    /* font-weight: 600; */
+    opacity: 0.90;
+    text-emphasis-color: #fff;
     border-radius: 5px;
     cursor: pointer;
     border-color: #000000;
@@ -76,15 +78,15 @@ button{
 
 .render1{
     text-decoration: none;
-    color: #FF0000;
+    color: #000000;
     padding:5px;
     border-radius:10px;
     background-color:#FFFFFF;
 }
 
 .render1:hover{
-    color:#800080;
-    background-color:#C0C0C0;
+    color:#ffffff;
+    background-color:#3649f6;
 
 }
 
